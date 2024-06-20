@@ -1,0 +1,3572 @@
+{
+    "1F-1": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0000"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0001"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0002"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0003"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0004"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0005"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0006"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0007"
+        }
+    },
+    "1F-2": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0008"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0009"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0010"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0011"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0012"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0013"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0014"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0015"
+        }
+    },
+    "1F-3": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0016"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0017"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0018"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0019"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0020"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0021"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0022"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0023"
+        }
+    },
+    "1F-4": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0024"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0025"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0026"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0027"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0028"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0029"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0030"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0031"
+        }
+    },
+    "1F-5": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0032"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0033"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0034"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0035"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0036"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0037"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0038"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0039"
+        }
+    },
+    "1F-6": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0040"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0041"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0042"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0043"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0044"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0045"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0046"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0047"
+        }
+    },
+    "1F-7": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0048"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0049"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0050"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0051"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0052"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0053"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0054"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0055"
+        }
+    },
+    "1F-8": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0056"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0057"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0058"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0059"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0060"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0061"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0062"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0063"
+        }
+    },
+    "1F-9": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0064"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0065"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0066"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0067"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0068"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0069"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0070"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0071"
+        }
+    },
+    "1F-10": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0072"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0073"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0074"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0075"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0076"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0077"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0078"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0079"
+        }
+    },
+    "1F-11": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0080"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0081"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0082"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0083"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0084"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0085"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0086"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0087"
+        }
+    },
+    "1F-12": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0088"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0089"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0090"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0091"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0092"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0093"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0094"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0095"
+        }
+    },
+    "1F-13": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0096"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0097"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0098"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0099"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0100"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0101"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0102"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0103"
+        }
+    },
+    "1F-14": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0104"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0105"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0106"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0107"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0108"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0109"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0110"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0111"
+        }
+    },
+    "1F-2.1": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0200"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0201"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0202"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0203"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0204"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0205"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0206"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0207"
+        }
+    },
+    "1F-2.2": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0208"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0209"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0210"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0211"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0212"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0213"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0214"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0215"
+        }
+    },
+    "1F-2.3": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0216"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0217"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0218"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0219"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0220"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0221"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0222"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0223"
+        }
+    },
+    "1F-2.4": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0224"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0225"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0226"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0227"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0228"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0229"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0230"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0231"
+        }
+    },
+    "2F-1": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0000"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0001"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0002"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0003"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0004"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0005"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0006"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0007"
+        }
+    },
+    "2F-2": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0008"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0009"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0010"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0011"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0012"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0013"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0014"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0015"
+        }
+    },
+    "2F-3": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0016"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0017"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0018"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0019"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0020"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0021"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0022"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0023"
+        }
+    },
+    "2F-4": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0024"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0025"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0026"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0027"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0028"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0029"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0030"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0031"
+        }
+    },
+    "2F-5": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0032"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0033"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0034"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0035"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0036"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0037"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0038"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0039"
+        }
+    },
+    "2F-6": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0040"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0041"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0042"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0043"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0044"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0045"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0046"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0047"
+        }
+    },
+    "2F-7": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0048"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0049"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0050"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0051"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0052"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0053"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0054"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0055"
+        }
+    },
+    "2F-8": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0056"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0057"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0058"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0059"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0060"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0061"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0062"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0063"
+        }
+    },
+    "2F-9": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0064"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0065"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0066"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0067"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0068"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0069"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0070"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0071"
+        }
+    },
+    "2F-10": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0072"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0073"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0074"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0075"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0076"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0077"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0078"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0079"
+        }
+    },
+    "2F-11": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0080"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0081"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0082"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0083"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0084"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0085"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0086"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0087"
+        }
+    },
+    "2F-12": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0088"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0089"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0090"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0091"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0092"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0093"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0094"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0095"
+        }
+    },
+    "2F-13": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0096"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0097"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0098"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0099"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0100"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0101"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0102"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0103"
+        }
+    },
+    "2F-14": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0104"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0105"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0106"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0107"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0108"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0109"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0110"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0111"
+        }
+    },
+    "2F-1.1": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0272"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0273"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0274"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0275"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0276"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0277"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0278"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0279"
+        }
+    },
+    "2F-1.11": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0280"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0281"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0282"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0283"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0284"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0285"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0286"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0287"
+        }
+    },
+    "2F-1.12": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0288"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0289"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0290"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0291"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0292"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0293"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0294"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0295"
+        }
+    },
+    "2F-1.13": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0296"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0297"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0298"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0299"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0300"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0301"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0302"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0303"
+        }
+    },
+    "2F-1.14": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0304"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0305"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0306"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0307"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0308"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0309"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0310"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0311"
+        }
+    },
+    "2F-1.15": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0312"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0313"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0314"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0315"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0316"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0317"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0318"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0319"
+        }
+    },
+    "2F-1.16": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0320"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0321"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0322"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0323"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0324"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0325"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0326"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0327"
+        }
+    },
+    "2F-1.17": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0328"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0329"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0330"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0331"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0332"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0333"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0334"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0335"
+        }
+    },
+    "2F-1.18": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0336"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0337"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0338"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0339"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0340"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0341"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0342"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0343"
+        }
+    },
+    "2F-1.2": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0208"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0209"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0210"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0211"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0212"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0213"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0214"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0215"
+        }
+    },
+    "2F-1.3": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0216"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0217"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0218"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0219"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0220"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0221"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0222"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0223"
+        }
+    },
+    "2F-1.4": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0224"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0225"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0226"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0227"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0228"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0229"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0230"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0231"
+        }
+    },
+    "2F-1.5": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0232"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0233"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0234"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0235"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0236"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0237"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0238"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0239"
+        }
+    },
+    "2F-1.6": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0240"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0241"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0242"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0243"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0244"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0245"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0246"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0247"
+        }
+    },
+    "2F-1.7": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0248"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0249"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0250"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0251"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0252"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0253"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0254"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0255"
+        }
+    },
+    "2F-1.8": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0256"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0257"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0258"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0259"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0260"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0261"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0262"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0263"
+        }
+    },
+    "2F-1.9": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9102_AV_0264"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9102_AV_0265"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9102_AV_0266"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9102_AV_0267"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9102_AV_0268"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9102_AV_0269"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9102_AV_0270"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9102_AV_0271"
+        }
+    },
+    "3F-1": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0000"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0001"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0002"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0003"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0004"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0005"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0006"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0007"
+        }
+    },
+    "3F-2": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0008"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0009"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0010"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0011"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0012"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0013"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0014"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0015"
+        }
+    },
+    "3F-3": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0016"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0017"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0018"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0019"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0020"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0021"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0022"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0023"
+        }
+    },
+    "3F-4": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0024"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0025"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0026"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0027"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0028"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0029"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0030"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0031"
+        }
+    },
+    "3F-5": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0032"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0033"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0034"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0035"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0036"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0037"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0038"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0039"
+        }
+    },
+    "3F-6": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0040"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0041"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0042"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0043"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0044"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0045"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0046"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0047"
+        }
+    },
+    "3F-7": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0048"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0049"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0050"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0051"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0052"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0053"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0054"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0055"
+        }
+    },
+    "3F-8": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0056"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0057"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0058"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0059"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0060"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0061"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0062"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0063"
+        }
+    },
+    "3F-9": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0064"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0065"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0066"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0067"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0068"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0069"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0070"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0071"
+        }
+    },
+    "3F-10": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0072"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0073"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0074"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0075"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0076"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0077"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0078"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0079"
+        }
+    },
+    "3F-11": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0080"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0081"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0082"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0083"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0084"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0085"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0086"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0087"
+        }
+    },
+    "3F-1.1": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0272"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0273"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0274"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0275"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0276"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0277"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0278"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0279"
+        }
+    },
+    "3F-1.11": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0280"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0281"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0282"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0283"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0284"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0285"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0286"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0287"
+        }
+    },
+    "3F-1.12": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0288"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0289"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0290"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0291"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0292"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0293"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0294"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0295"
+        }
+    },
+    "3F-1.13": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0296"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0297"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0298"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0299"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0300"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0301"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0302"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0303"
+        }
+    },
+    "3F-1.14": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0304"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0305"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0306"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0307"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0308"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0309"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0310"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0311"
+        }
+    },
+    "3F-1.15": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0312"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0313"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0314"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0315"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0316"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0317"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0318"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0319"
+        }
+    },
+    "3F-1.16": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0320"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0321"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0322"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0323"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0324"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0325"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0326"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0327"
+        }
+    },
+    "3F-1.17": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0328"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0329"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0330"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0331"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0332"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0333"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0334"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0335"
+        }
+    },
+    "3F-1.18": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0336"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0337"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0338"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0339"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0340"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0341"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0342"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0343"
+        }
+    },
+    "3F-1.19": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0344"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0345"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0346"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0347"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0348"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0349"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0350"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0351"
+        }
+    },
+    "3F-1.2": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0208"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0209"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0210"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0211"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0212"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0213"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0214"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0215"
+        }
+    },
+    "3F-1.3": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0216"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0217"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0218"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0219"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0220"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0221"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0222"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0223"
+        }
+    },
+    "3F-1.4": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0224"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0225"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0226"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0227"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0228"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0229"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0230"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0231"
+        }
+    },
+    "3F-1.5": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0232"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0233"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0234"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0235"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0236"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0237"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0238"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0239"
+        }
+    },
+    "3F-1.6": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0240"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0241"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0242"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0243"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0244"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0245"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0246"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0247"
+        }
+    },
+    "3F-1.7": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0248"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0249"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0250"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0251"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0252"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0253"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0254"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0255"
+        }
+    },
+    "3F-1.8": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0256"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0257"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0258"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0259"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0260"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0261"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0262"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0263"
+        }
+    },
+    "3F-1.9": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0264"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0265"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0266"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0267"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0268"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0269"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0270"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0271"
+        }
+    },
+    "3F-2.1": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0400"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0401"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0402"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0403"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0404"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0405"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0406"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0407"
+        }
+    },
+    "3F-2.2": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0408"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0409"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0410"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0411"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0412"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0413"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0414"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0415"
+        }
+    },
+    "3F-2.3": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0416"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0417"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0418"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0419"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0420"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0421"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0422"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0423"
+        }
+    },
+    "3F-2.4": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0424"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0425"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0426"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0427"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0428"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0429"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0430"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0431"
+        }
+    },
+    "3F-2.5": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0432"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0433"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0434"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0435"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0436"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0437"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0438"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0439"
+        }
+    },
+    "3F-2.6": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0440"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0441"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0442"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0443"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0444"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0445"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0446"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0447"
+        }
+    },
+    "3F-2.7": {
+        "4003": {
+            "address": 4003,
+            "name": "温度",
+            "deviceId": "C_9103_AV_0448"
+        },
+        "4005": {
+            "address": 4005,
+            "name": "儿童锁",
+            "deviceId": "C_9103_AV_0449"
+        },
+        "4006": {
+            "address": 4006,
+            "name": "开关机状态",
+            "deviceId": "C_9103_AV_0450"
+        },
+        "4007": {
+            "address": 4007,
+            "name": "工作模式",
+            "deviceId": "C_9103_AV_0451"
+        },
+        "4008": {
+            "address": 4008,
+            "name": "风速设置",
+            "deviceId": "C_9103_AV_0452"
+        },
+        "4009": {
+            "address": 4009,
+            "name": "阀门输出状态",
+            "deviceId": "C_9103_AV_0453"
+        },
+        "4010": {
+            "address": 4010,
+            "name": "制热温度设定",
+            "deviceId": "C_9103_AV_0454"
+        },
+        "4011": {
+            "address": 4011,
+            "name": "制冷温度设定",
+            "deviceId": "C_9103_AV_0455"
+        }
+    }
+}
