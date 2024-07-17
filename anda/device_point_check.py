@@ -83,7 +83,7 @@ df_space_lv1['full_name'] = df_space_lv1_tmp.apply(lambda x: f'{space_point_floo
 # 通过点位全路径，对点位去重
 df_space_lv1.drop_duplicates(subset='full_name', keep='first', inplace=True)
 # 保存三级点位数据
-df_space_lv1.to_excel('/Users/louisliu/Desktop/fb/space-lv1.xlsx', index=False)
+df_space_lv1.to_excel('/Users/louisliu/Desktop/fb/space-lv1-raw.xlsx', index=False)
 
 
 ''' =========================== 2级点位查询（点位名称不为空) ==========================='''
@@ -100,8 +100,22 @@ df_space_lv2.drop_duplicates(subset='full_name', keep='first', inplace=True)
 # 保存三级点位数据
 df_space_lv2.to_excel('/Users/louisliu/Desktop/fb/space-lv2.xlsx', index=False)
 
+''' =========================== 1级点位查询（二级点位取一级点位上一级数据生成） ==========================='''
 
+df_space_lv1_tmp = df_space_lv2
 
+df_space_lv1 = df_space_lv1_tmp.copy()
+# 点位归属
+df_space_lv1['parent'] = df_space_lv1_tmp.apply(lambda x: x.loc['parent'][:x.loc['parent'].rfind('\\')], axis=1)
+# 点位全路径
+df_space_lv1['full_name'] = df_space_lv1_tmp.apply(lambda x: x.loc['full_name'][:x.loc['full_name'].rfind('\\')], axis=1)
+
+# 通过点位全路径，对点位去重
+df_space_lv1.drop_duplicates(subset='full_name', keep='first', inplace=True)
+# 保存一级点位数据
+df_space_lv1.to_excel('/Users/louisliu/Desktop/fb/space-lv1.xlsx', index=False)
+
+exit(0)
 '''================================设备数据整理============================='''
 df_device = pd.read_csv('/Users/louisliu/Desktop/安大-区域点位导入/点位分析/iot_device_info.csv', usecols=lambda c: c in columns_device)
 # 过滤可以识别的点位名称
