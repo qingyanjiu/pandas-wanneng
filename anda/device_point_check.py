@@ -6,7 +6,18 @@ import re
 regex_ABCD = r"['A','B','C','D']"
 regex_EFGH = r"['E','F','G','H']"
 
-# 提取楼层下房间及走廊点位信息
+
+# 提取建筑信息
+def space_build_parent(x: pd.Series):
+    extra_area = ''
+    if x.loc['area'] == '材料科学大楼':
+        if re.match(regex_ABCD, x.loc['build']):
+            extra_area = '\\ABCD楼'
+        elif re.match(regex_EFGH, x.loc['build']):
+            extra_area = '\\EFGH楼'
+    return f"{x.loc['type']}{x.loc['area']}{extra_area}"
+
+# 提取楼层点位信息
 def space_point_floor_parent(x: pd.Series):
     extra_area = ''
     if x.loc['area'] == '材料科学大楼':
@@ -16,7 +27,7 @@ def space_point_floor_parent(x: pd.Series):
             extra_area = 'EFGH楼\\'
     return f"{x.loc['type']}{x.loc['area']}\{extra_area}{x.loc['build']}"
 
-# 提取楼层点位信息
+# 提取楼层下房间及走廊点位信息
 def space_point_room_parent(x: pd.Series):
     extra_area = ''
     if x.loc['area'] == '材料科学大楼':
@@ -25,6 +36,7 @@ def space_point_room_parent(x: pd.Series):
         elif re.match(regex_EFGH, x.loc['build']):
             extra_area = 'EFGH楼\\'
     return f"{x.loc['type']}{x.loc['area']}\{extra_area}{x.loc['build']}\{x.loc['floor']}"
+
 
 columns_device = ['device_name', 'device_type_name']
 columns_space = ['区域名称（学校、校区、园区）', '建筑名称（楼栋）', '楼层', '点位名称（房间号）']
@@ -44,6 +56,21 @@ df_space.fillna('', inplace=True)
 # 拷贝一份dataframe，用于查询
 df_space_tmp = df_space.copy()
 
+''' =========================== 建筑查询（点位名称为空，楼层名称为空，但建筑名称不为空） ==========================='''
+df_build_tmp = df_space_tmp.query(f'room == "" and floor == "" and build != ""')
+
+df_build = df_build_tmp.copy()
+# 点位归属
+df_build['parent'] = df_build_tmp.apply(lambda x: space_build_parent(x), axis=1)
+# 点位全路径
+df_build['full_name'] = df_build_tmp.apply(lambda x: f'{space_build_parent(x)}\{x.loc["build"]}', axis=1)
+
+# 通过点位全路径，对点位去重
+df_build.drop_duplicates(subset='full_name', keep='first', inplace=True)
+# 保存三级点位数据
+df_build.to_excel('/Users/louisliu/Desktop/fb/build.xlsx', index=False)
+
+
 ''' =========================== 1级点位查询（点位名称为空，但楼层名称不为空） ==========================='''
 df_space_lv1_tmp = df_space_tmp.query(f'room == "" and floor != ""')
 
@@ -57,6 +84,7 @@ df_space_lv1['full_name'] = df_space_lv1_tmp.apply(lambda x: f'{space_point_floo
 df_space_lv1.drop_duplicates(subset='full_name', keep='first', inplace=True)
 # 保存三级点位数据
 df_space_lv1.to_excel('/Users/louisliu/Desktop/fb/space-lv1.xlsx', index=False)
+
 
 ''' =========================== 2级点位查询（点位名称不为空) ==========================='''
 df_space_lv2_tmp = df_space_tmp.query(f'room != ""')
