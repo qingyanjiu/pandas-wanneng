@@ -10,17 +10,21 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
 
     def do_GET(self):
         path = self.get_path()
+        params = self.get_params()
+        resp = {}
+        print(params, '---------')
         if path == '/test':
-            params = self.get_params()
             # http://localhost:8000/test?a=1&b=2
             # print(params['a'][0], '---------')
             # print(params['b'][0], '---------')
-            print(params, '---------')
-            self.send_response(200)
-            self.send_header('Content-type', 'application/json')
-            self.end_headers()
             resp = self.test(params['mode'][0])
-            self.wfile.write(json.dumps(resp).encode('utf-8'))
+        elif path == '/test1':
+            resp = self.test1(params['mode'][0])
+
+        self.send_response(200)
+        self.send_header('Content-type', 'application/json')
+        self.end_headers()
+        self.wfile.write(json.dumps(resp).encode('utf-8'))
 
     def get_path(self):
         return self.path.split('?')[0]
@@ -42,6 +46,18 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
                                     charset='utf8mb4')
         return db_connection
 
+    def test1(self, param):
+        db_connection = self.get_connection()
+        # 使用pandas读取数据
+        param = param.replace('#', '')
+        print(param, '--------')
+        sql_query = f"select splb from `order` where telephone='{param}'"
+        df = pd.read_sql(sql_query, db_connection)
+        # 关闭数据库连接
+        db_connection.close()
+        # 使用pandas DataFrame
+        return df.to_dict(orient='records')[0]
+    
     def test(self, param):
         db_connection = self.get_connection()
         # 使用pandas读取数据
