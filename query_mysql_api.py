@@ -8,6 +8,7 @@ import json
 
 class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
 
+    # get请求
     def do_GET(self):
         path = self.get_path()
         params = self.get_params()
@@ -20,6 +21,8 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
             resp = self.test(params['mode'][0])
         elif path == '/test1':
             resp = self.test1(params['mode'][0])
+        elif path == '/mode_info':
+            resp = self.mode_info(params['name'][0], params['col'][0])
 
         self.send_response(200)
         self.send_header('Content-type', 'application/json')
@@ -32,7 +35,7 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
     def get_params(self):
         if len(self.path.split('?')) > 1:
             # 解析查询字符串
-            params = parse_qs(self.path.split('?')[1])  
+            params = parse_qs(self.path.split('?')[1])
         else:
             params = {}
         return params
@@ -46,11 +49,12 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
                                     charset='utf8mb4')
         return db_connection
 
+    # API
     def test1(self, param):
         db_connection = self.get_connection()
         # 使用pandas读取数据
         param = param.replace('#', '')
-        print(param, '--------')
+        print(param, 'test1--------')
         sql_query = f"select splb from `order` where telephone='{param}'"
         df = pd.read_sql(sql_query, db_connection)
         # 关闭数据库连接
@@ -58,22 +62,36 @@ class SimpleHTTPRequestHandler(BaseHTTPRequestHandler):
         # 使用pandas DataFrame
         return df.to_dict(orient='records')[0]
     
+    # API
     def test(self, param):
         db_connection = self.get_connection()
         # 使用pandas读取数据
         param = param.replace('#', '')
-        print(param, '--------')
+        print(param, 'test--------')
         sql_query = f"SELECT jmfy FROM catering_franchise_models where id='910000100{param}'"
         df = pd.read_sql(sql_query, db_connection)
         # 关闭数据库连接
         db_connection.close()
         # 使用pandas DataFrame
-        return df.to_dict(orient='records')[0]    
+        return df.to_dict(orient='records')[0]
+
+    # API，通过合作模式名称查询对应字段
+    def mode_info(self, name, col_name):
+        db_connection = self.get_connection()
+        print(name, col_name, 'mode_info--------')
+        sql_query = f"SELECT {col_name} FROM catering_franchise_models where Mode='{name}'"
+        df = pd.read_sql(sql_query, db_connection)
+        # 关闭数据库连接
+        db_connection.close()
+        # 使用pandas DataFrame
+        return df.to_dict(orient='records')[0]
 
 def run(server_class=HTTPServer, handler_class=SimpleHTTPRequestHandler):
-    server_address = ('', 50002)  # 服务器监听在0.0.0.0的port
+    # 监听端口，根据技能组表格修改该端口号
+    port = 50002
+    server_address = ('', port)
     httpd = server_class(server_address, handler_class)
-    print('Listening on port 50002...')
+    print(f'Listening on port {port}...')
     httpd.serve_forever()
 
 if __name__ == '__main__':
