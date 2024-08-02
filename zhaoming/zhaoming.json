@@ -1,3077 +1,3219 @@
 {
-    "24F-C_2401_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2401_BV_0000",
-        "r_device_id": "C_2401_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2416",
-                "remark": "会议室大灯"
-            }
-        ]
-    },
-    "24F-C_2401_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2401_BV_0001",
-        "r_device_id": "C_2401_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2416",
-                "remark": "会议室筒灯+灯带"
-            }
-        ]
-    },
-    "24F-C_2402_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2402_BV_0000",
-        "r_device_id": "C_2402_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2418",
-                "remark": ""
-            },
-            {
-                "roomNo": "2419",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2402_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2402_BV_0001",
-        "r_device_id": "C_2402_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2417",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2403_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2403_BV_0000",
-        "r_device_id": "C_2403_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2421",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2403_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2403_BV_0001",
-        "r_device_id": "C_2403_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2420",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2404_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2404_BV_0000",
-        "r_device_id": "C_2404_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2423",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2404_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2404_BV_0001",
-        "r_device_id": "C_2404_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2422",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2405_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2405_BV_0000",
-        "r_device_id": "C_2405_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2424",
-                "remark": ""
-            },
-            {
-                "roomNo": "2425",
-                "remark": ""
-            },
-            {
-                "roomNo": "2426",
-                "remark": ""
-            },
-            {
-                "roomNo": "2427",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2406_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2406_BV_0000",
-        "r_device_id": "C_2406_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2428",
-                "remark": ""
-            },
-            {
-                "roomNo": "2429",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2407_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2407_BV_0000",
-        "r_device_id": "C_2407_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2401",
-                "remark": ""
-            },
-            {
-                "roomNo": "2402",
-                "remark": ""
-            },
-            {
-                "roomNo": "2403",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2408_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2408_BV_0000",
-        "r_device_id": "C_2408_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2405",
-                "remark": ""
-            },
-            {
-                "roomNo": "2406",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2408_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2408_BV_0001",
-        "r_device_id": "C_2408_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2404",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2409_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2409_BV_0000",
-        "r_device_id": "C_2409_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2408",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2409_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2409_BV_0001",
-        "r_device_id": "C_2409_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2407",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2410_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2410_BV_0000",
-        "r_device_id": "C_2410_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2409",
-                "remark": "小房间"
-            }
-        ]
-    },
-    "24F-C_2410_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2410_BV_0001",
-        "r_device_id": "C_2410_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2409",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2411_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2411_BV_0000",
-        "r_device_id": "C_2411_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边单筒灯+西边单筒灯"
-            }
-        ]
-    },
-    "24F-C_2411_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2411_BV_0001",
-        "r_device_id": "C_2411_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边双筒灯+西边双筒灯"
-            }
-        ]
-    },
-    "24F-C_2411_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_2411_BV_0002",
-        "r_device_id": "C_2411_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯+南边单筒灯"
-            }
-        ]
-    },
-    "24F-C_2411_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_2411_BV_0003",
-        "r_device_id": "C_2411_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+南边双筒灯"
-            }
-        ]
-    },
-    "24F-C_2411_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_2411_BV_0004",
-        "r_device_id": "C_2411_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "24F-C_2411_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_2411_BV_0005",
-        "r_device_id": "C_2411_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "南灯带+东灯带"
-            }
-        ]
-    },
-    "24F-C_2411_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_2411_BV_0006",
-        "r_device_id": "C_2411_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅+卫生间+前台"
-            }
-        ]
-    },
-    "24F-C_2411_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_2411_BV_0007",
-        "r_device_id": "C_2411_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "茶水间+弱电井水井前厅灯+前台小房间"
-            }
-        ]
-    },
-    "24F-C_2412_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2412_BV_0000",
-        "r_device_id": "C_2412_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2410",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2413_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2413_BV_0000",
-        "r_device_id": "C_2413_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2414",
-                "remark": ""
-            },
-            {
-                "roomNo": "2415",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2414_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2414_BV_0000",
-        "r_device_id": "C_2414_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2412",
-                "remark": ""
-            }
-        ]
-    },
-    "24F-C_2414_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2414_BV_0001",
-        "r_device_id": "C_2414_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2411",
-                "remark": ""
-            },
-            {
-                "roomNo": "2413",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2501_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2501_BV_0000",
-        "r_device_id": "C_2501_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2514",
-                "remark": "大灯"
-            }
-        ]
-    },
-    "25F-C_2501_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2501_BV_0001",
-        "r_device_id": "C_2501_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2514",
-                "remark": "灯带"
-            }
-        ]
-    },
-    "25F-C_2502_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2502_BV_0000",
-        "r_device_id": "C_2502_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2516",
-                "remark": ""
-            },
-            {
-                "roomNo": "2517",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2502_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2502_BV_0001",
-        "r_device_id": "C_2502_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2515",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2503_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2503_BV_0000",
-        "r_device_id": "C_2503_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2518",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2503_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2503_BV_0001",
-        "r_device_id": "C_2503_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2519",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2504_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2504_BV_0000",
-        "r_device_id": "C_2504_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2520",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2504_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2504_BV_0001",
-        "r_device_id": "C_2504_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2521",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2505_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2505_BV_0000",
-        "r_device_id": "C_2505_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2523",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2505_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2505_BV_0001",
-        "r_device_id": "C_2505_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2522",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2506_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2506_BV_0000",
-        "r_device_id": "C_2506_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2524",
-                "remark": ""
-            },
-            {
-                "roomNo": "2525",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2507_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2507_BV_0000",
-        "r_device_id": "C_2507_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2501-1",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2507_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2507_BV_0001",
-        "r_device_id": "C_2507_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2501",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2508_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2508_BV_0000",
-        "r_device_id": "C_2508_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2502",
-                "remark": ""
-            },
-            {
-                "roomNo": "2504",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2508_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2508_BV_0001",
-        "r_device_id": "C_2508_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2503",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2509_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2509_BV_0000",
-        "r_device_id": "C_2509_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2505",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2509_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2509_BV_0001",
-        "r_device_id": "C_2509_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2506",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2510_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2510_BV_0000",
-        "r_device_id": "C_2510_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2507",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2510_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2510_BV_0001",
-        "r_device_id": "C_2510_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2508",
-                "remark": ""
-            },
-            {
-                "roomNo": "2509",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2511_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2511_BV_0000",
-        "r_device_id": "C_2511_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2511_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2511_BV_0001",
-        "r_device_id": "C_2511_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边双筒灯+西边双筒灯"
-            }
-        ]
-    },
-    "25F-C_2511_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_2511_BV_0002",
-        "r_device_id": "C_2511_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯+南边单筒灯"
-            }
-        ]
-    },
-    "25F-C_2511_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_2511_BV_0003",
-        "r_device_id": "C_2511_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+南边双筒灯"
-            }
-        ]
-    },
-    "25F-C_2511_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_2511_BV_0004",
-        "r_device_id": "C_2511_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "25F-C_2511_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_2511_BV_0005",
-        "r_device_id": "C_2511_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "南灯带+东灯带"
-            }
-        ]
-    },
-    "25F-C_2511_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_2511_BV_0006",
-        "r_device_id": "C_2511_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅灯"
-            }
-        ]
-    },
-    "25F-C_2511_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_2511_BV_0007",
-        "r_device_id": "C_2511_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "卫生间+电梯厅东1房间+茶水间+弱电井前厅+南边2房间"
-            }
-        ]
-    },
-    "25F-C_2512_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2512_BV_0000",
-        "r_device_id": "C_2512_DO_0000",
-        "devices": [
-            {
-                "roomNo": "茶歇休闲",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2512_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2512_BV_0001",
-        "r_device_id": "C_2512_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2510",
-                "remark": ""
-            },
-            {
-                "roomNo": "2511",
-                "remark": ""
-            }
-        ]
-    },
-    "25F-C_2514_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2514_BV_0000",
-        "r_device_id": "C_2514_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2512",
-                "remark": ""
-            },
-            {
-                "roomNo": "2513",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2601_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2601_BV_0000",
-        "r_device_id": "C_2601_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2617",
-                "remark": ""
-            },
-            {
-                "roomNo": "2618",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2602_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2602_BV_0000",
-        "r_device_id": "C_2602_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2619",
-                "remark": "灯带"
-            }
-        ]
-    },
-    "26F-C_2602_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2602_BV_0001",
-        "r_device_id": "C_2602_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2619",
-                "remark": "大灯"
-            }
-        ]
-    },
-    "26F-C_2603_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2603_BV_0000",
-        "r_device_id": "C_2603_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2620",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2603_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2603_BV_0001",
-        "r_device_id": "C_2603_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2621",
-                "remark": ""
-            },
-            {
-                "roomNo": "2622",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2604_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2604_BV_0000",
-        "r_device_id": "C_2604_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2623",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2605_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2605_BV_0000",
-        "r_device_id": "C_2605_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2626",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2605_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2605_BV_0001",
-        "r_device_id": "C_2605_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2625",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2606_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2606_BV_0000",
-        "r_device_id": "C_2606_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2628",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2606_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2606_BV_0001",
-        "r_device_id": "C_2606_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2627",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2607_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2607_BV_0000",
-        "r_device_id": "C_2607_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2629",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2608_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2608_BV_0000",
-        "r_device_id": "C_2608_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2630",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2609_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2609_BV_0000",
-        "r_device_id": "C_2609_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2601",
-                "remark": ""
-            },
-            {
-                "roomNo": "2631",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2610_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2610_BV_0000",
-        "r_device_id": "C_2610_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2604",
-                "remark": ""
-            },
-            {
-                "roomNo": "2605",
-                "remark": ""
-            },
-            {
-                "roomNo": "2606",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2611_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2611_BV_0000",
-        "r_device_id": "C_2611_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2608",
-                "remark": ""
-            },
-            {
-                "roomNo": "2609",
-                "remark": ""
-            },
-            {
-                "roomNo": "2610",
-                "remark": ""
-            },
-            {
-                "roomNo": "2611",
-                "remark": ""
-            },
-            {
-                "roomNo": "2612",
-                "remark": ""
-            },
-            {
-                "roomNo": "2613",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2612_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2612_BV_0000",
-        "r_device_id": "C_2612_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2607-1",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2612_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2612_BV_0001",
-        "r_device_id": "C_2612_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2607",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2613_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2613_BV_0000",
-        "r_device_id": "C_2613_DO_0000",
-        "devices": [
-            {
-                "roomNo": "茶歇休闲",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2613_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2613_BV_0001",
-        "r_device_id": "C_2613_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2615",
-                "remark": ""
-            },
-            {
-                "roomNo": "2616",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2614_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2614_BV_0000",
-        "r_device_id": "C_2614_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2614",
-                "remark": ""
-            }
-        ]
-    },
-    "26F-C_2615_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2615_BV_0000",
-        "r_device_id": "C_2615_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边单筒灯+西边单筒灯"
-            }
-        ]
-    },
-    "26F-C_2615_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2615_BV_0001",
-        "r_device_id": "C_2615_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边双筒灯+西边双筒灯"
-            }
-        ]
-    },
-    "26F-C_2615_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_2615_BV_0002",
-        "r_device_id": "C_2615_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯+南边单筒灯"
-            }
-        ]
-    },
-    "26F-C_2615_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_2615_BV_0003",
-        "r_device_id": "C_2615_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+南边双筒灯"
-            }
-        ]
-    },
-    "26F-C_2615_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_2615_BV_0004",
-        "r_device_id": "C_2615_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "26F-C_2615_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_2615_BV_0005",
-        "r_device_id": "C_2615_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "南灯带+东灯带"
-            }
-        ]
-    },
-    "26F-C_2615_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_2615_BV_0006",
-        "r_device_id": "C_2615_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅灯带+筒灯+卫生间灯+东1、南2小房间+茶水间+弱电井前厅灯"
-            }
-        ]
-    },
-    "26F-C_2615_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_2615_BV_0007",
-        "r_device_id": "C_2615_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东南角灯+西南角灯"
-            }
-        ]
-    },
-    "27F-C_2701_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2701_BV_0000",
-        "r_device_id": "C_2701_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2715",
-                "remark": ""
-            },
-            {
-                "roomNo": "2716",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2701_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2701_BV_0001",
-        "r_device_id": "C_2701_DO_0001",
-        "devices": [
-            {
-                "roomNo": "茶歇休闲",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2702_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2702_BV_0000",
-        "r_device_id": "C_2702_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2719",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2702_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2702_BV_0001",
-        "r_device_id": "C_2702_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2717",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2702_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_2702_BV_0002",
-        "r_device_id": "C_2702_DO_0002",
-        "devices": [
-            {
-                "roomNo": "2718",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2703_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2703_BV_0000",
-        "r_device_id": "C_2703_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2723",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2703_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2703_BV_0001",
-        "r_device_id": "C_2703_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2724",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2704_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2704_BV_0000",
-        "r_device_id": "C_2704_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2720",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2704_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2704_BV_0001",
-        "r_device_id": "C_2704_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2721",
-                "remark": ""
-            },
-            {
-                "roomNo": "2722",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2705_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2705_BV_0000",
-        "r_device_id": "C_2705_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2725",
-                "remark": "大灯"
-            }
-        ]
-    },
-    "27F-C_2705_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2705_BV_0001",
-        "r_device_id": "C_2705_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2725",
-                "remark": "灯带"
-            }
-        ]
-    },
-    "27F-C_2706_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2706_BV_0000",
-        "r_device_id": "C_2706_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2726",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2707_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2707_BV_0001",
-        "r_device_id": "C_2707_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2727",
-                "remark": ""
-            },
-            {
-                "roomNo": "2728",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2708_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2708_BV_0000",
-        "r_device_id": "C_2708_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2730",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2709_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2709_BV_0000",
-        "r_device_id": "C_2709_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2731",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2710_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2710_BV_0000",
-        "r_device_id": "C_2710_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2701",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2711_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2711_BV_0000",
-        "r_device_id": "C_2711_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2703",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2712_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2712_BV_0000",
-        "r_device_id": "C_2712_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2702",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2713_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2713_BV_0000",
-        "r_device_id": "C_2713_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2706-1",
-                "remark": ""
-            },
-            {
-                "roomNo": "2707",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2713_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2713_BV_0001",
-        "r_device_id": "C_2713_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2706",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2714_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2714_BV_0000",
-        "r_device_id": "C_2714_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2704",
-                "remark": ""
-            },
-            {
-                "roomNo": "2705",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2715_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2715_BV_0000",
-        "r_device_id": "C_2715_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2708",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2716_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2716_BV_0000",
-        "r_device_id": "C_2716_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2709",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2717_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2717_BV_0000",
-        "r_device_id": "C_2717_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2711",
-                "remark": "模块拨码不确定？"
-            }
-        ]
-    },
-    "27F-C_2717_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2717_BV_0001",
-        "r_device_id": "C_2717_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2710",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2718_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2718_BV_0000",
-        "r_device_id": "C_2718_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2712",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2719_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2719_BV_0000",
-        "r_device_id": "C_2719_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2714",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2720_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2720_BV_0000",
-        "r_device_id": "C_2720_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2713",
-                "remark": ""
-            }
-        ]
-    },
-    "27F-C_2721_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2721_BV_0000",
-        "r_device_id": "C_2721_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边单筒灯+西边单筒灯"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2721_BV_0001",
-        "r_device_id": "C_2721_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边双筒灯+西边双筒灯"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_2721_BV_0002",
-        "r_device_id": "C_2721_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯+南边单筒灯"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_2721_BV_0003",
-        "r_device_id": "C_2721_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+南边双筒灯"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_2721_BV_0004",
-        "r_device_id": "C_2721_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_2721_BV_0005",
-        "r_device_id": "C_2721_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "南灯带+东灯带"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_2721_BV_0006",
-        "r_device_id": "C_2721_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅灯+2732房间"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_2721_BV_0007",
-        "r_device_id": "C_2721_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "卫生间男"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0008": {
-        "id": "9",
-        "w_device_id": "C_2721_BV_0008",
-        "r_device_id": "C_2721_DO_0008",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "卫生间门口灯+卫生间女"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0009": {
-        "id": "10",
-        "w_device_id": "C_2721_BV_0009",
-        "r_device_id": "C_2721_DO_0009",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "茶水间+弱电井水井前厅灯"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0010": {
-        "id": "11",
-        "w_device_id": "C_2721_BV_0010",
-        "r_device_id": "C_2721_DO_0010",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东南角灯"
-            }
-        ]
-    },
-    "27F-C_2721_DO_0011": {
-        "id": "12",
-        "w_device_id": "C_2721_BV_0011",
-        "r_device_id": "C_2721_DO_0011",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "西南角灯"
-            }
-        ]
-    },
-    "28F-C_2801_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2801_BV_0000",
-        "r_device_id": "C_2801_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2816",
-                "remark": ""
-            },
-            {
-                "roomNo": "2817",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2802_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2802_BV_0000",
-        "r_device_id": "C_2802_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2819",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2802_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2802_BV_0001",
-        "r_device_id": "C_2802_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2818",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2803_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2803_BV_0000",
-        "r_device_id": "C_2803_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2821",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2803_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2803_BV_0001",
-        "r_device_id": "C_2803_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2820",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2804_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2804_BV_0000",
-        "r_device_id": "C_2804_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2824",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2804_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2804_BV_0001",
-        "r_device_id": "C_2804_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2823",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2805_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2805_BV_0000",
-        "r_device_id": "C_2805_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2825",
-                "remark": "灯带"
-            }
-        ]
-    },
-    "28F-C_2805_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2805_BV_0001",
-        "r_device_id": "C_2805_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2825",
-                "remark": "大灯"
-            }
-        ]
-    },
-    "28F-C_2806_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2806_BV_0000",
-        "r_device_id": "C_2806_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2827",
-                "remark": ""
-            },
-            {
-                "roomNo": "2828",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2806_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2806_BV_0001",
-        "r_device_id": "C_2806_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2826",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2807_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2807_BV_0000",
-        "r_device_id": "C_2807_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2829",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2808_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2808_BV_0000",
-        "r_device_id": "C_2808_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2801",
-                "remark": ""
-            },
-            {
-                "roomNo": "2802",
-                "remark": ""
-            },
-            {
-                "roomNo": "2803",
-                "remark": ""
-            },
-            {
-                "roomNo": "2804",
-                "remark": ""
-            },
-            {
-                "roomNo": "2805",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2811_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2811_BV_0000",
-        "r_device_id": "C_2811_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2813",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2812_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2812_BV_0000",
-        "r_device_id": "C_2812_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2812",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2812_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2812_BV_0001",
-        "r_device_id": "C_2812_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2811",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2813_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2813_BV_0000",
-        "r_device_id": "C_2813_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边单筒灯+西边单筒灯"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2813_BV_0001",
-        "r_device_id": "C_2813_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "南灯带+东灯带"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_2813_BV_0002",
-        "r_device_id": "C_2813_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯+南边单筒灯"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_2813_BV_0003",
-        "r_device_id": "C_2813_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+南边双筒灯"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_2813_BV_0004",
-        "r_device_id": "C_2813_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_2813_BV_0005",
-        "r_device_id": "C_2813_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边双筒灯+西边双筒灯"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_2813_BV_0006",
-        "r_device_id": "C_2813_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅灯带+筒灯"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_2813_BV_0007",
-        "r_device_id": "C_2813_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "卫生间+门口灯带"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0008": {
-        "id": "9",
-        "w_device_id": "C_2813_BV_0008",
-        "r_device_id": "C_2813_DO_0008",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2813_DO_0009": {
-        "id": "10",
-        "w_device_id": "C_2813_BV_0009",
-        "r_device_id": "C_2813_DO_0009",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "茶水间+弱电井水井前厅灯+电梯厅东边2小房间灯"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0010": {
-        "id": "11",
-        "w_device_id": "C_2813_BV_0010",
-        "r_device_id": "C_2813_DO_0010",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东南角灯"
-            }
-        ]
-    },
-    "28F-C_2813_DO_0011": {
-        "id": "12",
-        "w_device_id": "C_2813_BV_0011",
-        "r_device_id": "C_2813_DO_0011",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2814_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2814_BV_0000",
-        "r_device_id": "C_2814_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2814",
-                "remark": ""
-            },
-            {
-                "roomNo": "2815",
-                "remark": ""
-            }
-        ]
-    },
-    "28F-C_2814_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2814_BV_0001",
-        "r_device_id": "C_2814_DO_0001",
-        "devices": [
-            {
-                "roomNo": "茶歇休闲",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2901_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2901_BV_0000",
-        "r_device_id": "C_2901_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2915",
-                "remark": ""
-            },
-            {
-                "roomNo": "2916",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2902_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2902_BV_0000",
-        "r_device_id": "C_2902_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2918",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2902_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2902_BV_0001",
-        "r_device_id": "C_2902_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2917",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2903_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2903_BV_0000",
-        "r_device_id": "C_2903_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2920",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2903_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2903_BV_0001",
-        "r_device_id": "C_2903_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2919",
-                "remark": ""
-            },
-            {
-                "roomNo": "2921",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2904_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2904_BV_0001",
-        "r_device_id": "C_2904_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2922",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2905_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2905_BV_0000",
-        "r_device_id": "C_2905_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2924",
-                "remark": ""
-            },
-            {
-                "roomNo": "2925",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2906_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2906_BV_0000",
-        "r_device_id": "C_2906_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2927",
-                "remark": ""
-            },
-            {
-                "roomNo": "2928",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2906_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2906_BV_0001",
-        "r_device_id": "C_2906_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2926",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2907_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2907_BV_0000",
-        "r_device_id": "C_2907_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2929",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2908_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2908_BV_0000",
-        "r_device_id": "C_2908_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2901",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2909_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2909_BV_0000",
-        "r_device_id": "C_2909_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2914",
-                "remark": ""
-            }
-        ]
-    },
-    "29F-C_2910_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2910_BV_0000",
-        "r_device_id": "C_2910_DO_0000",
-        "devices": [
-            {
-                "roomNo": "茶歇休闲",
-                "remark": "大灯"
-            }
-        ]
-    },
-    "29F-C_2910_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2910_BV_0001",
-        "r_device_id": "C_2910_DO_0001",
-        "devices": [
-            {
-                "roomNo": "茶歇休闲",
-                "remark": "灯带"
-            }
-        ]
-    },
-    "29F-C_2911_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2911_BV_0000",
-        "r_device_id": "C_2911_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边单筒灯+西边单筒灯"
-            }
-        ]
-    },
-    "29F-C_2911_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2911_BV_0001",
-        "r_device_id": "C_2911_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边双筒灯+西边双筒灯"
-            }
-        ]
-    },
-    "29F-C_2911_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_2911_BV_0002",
-        "r_device_id": "C_2911_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯+南边单筒灯"
-            }
-        ]
-    },
-    "29F-C_2911_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_2911_BV_0003",
-        "r_device_id": "C_2911_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+南边双筒灯"
-            }
-        ]
-    },
-    "29F-C_2911_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_2911_BV_0004",
-        "r_device_id": "C_2911_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "29F-C_2911_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_2911_BV_0005",
-        "r_device_id": "C_2911_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅灯+卫生间灯"
-            }
-        ]
-    },
-    "29F-C_2911_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_2911_BV_0006",
-        "r_device_id": "C_2911_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": " "
-            }
-        ]
-    },
-    "29F-C_2911_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_2911_BV_0007",
-        "r_device_id": "C_2911_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东南角灯"
-            }
-        ]
-    },
-    "29F-C_2912_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2912_BV_0000",
-        "r_device_id": "C_2912_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2907",
-                "remark": "灯带"
-            }
-        ]
-    },
-    "29F-C_2912_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_2912_BV_0001",
-        "r_device_id": "C_2912_DO_0001",
-        "devices": [
-            {
-                "roomNo": "2907",
-                "remark": "大灯"
-            }
-        ]
-    },
-    "29F-C_2913_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_2913_BV_0000",
-        "r_device_id": "C_2913_DO_0000",
-        "devices": [
-            {
-                "roomNo": "2913",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3001_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3001_BV_0000",
-        "r_device_id": "C_3001_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3020",
-                "remark": ""
-            },
-            {
-                "roomNo": "3021",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3001_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3001_BV_0001",
-        "r_device_id": "C_3001_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3019",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3002_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3002_BV_0000",
-        "r_device_id": "C_3002_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3023",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3002_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3002_BV_0001",
-        "r_device_id": "C_3002_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3022",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3003_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3003_BV_0000",
-        "r_device_id": "C_3003_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3024",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3003_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3003_BV_0001",
-        "r_device_id": "C_3003_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3024",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3004_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3004_BV_0000",
-        "r_device_id": "C_3004_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3025",
-                "remark": ""
-            },
-            {
-                "roomNo": "3026",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3005_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3005_BV_0000",
-        "r_device_id": "C_3005_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3027",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3005_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3005_BV_0001",
-        "r_device_id": "C_3005_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3028",
-                "remark": ""
-            },
-            {
-                "roomNo": "3029",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3006_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3006_BV_0000",
-        "r_device_id": "C_3006_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3030",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3007_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3007_BV_0000",
-        "r_device_id": "C_3007_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3001",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3008_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3008_BV_0000",
-        "r_device_id": "C_3008_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3014",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3009_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3009_BV_0000",
-        "r_device_id": "C_3009_DO_0000",
-        "devices": [
-            {
-                "roomNo": "茶歇休闲",
-                "remark": "筒灯"
-            }
-        ]
-    },
-    "30F-C_3009_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3009_BV_0001",
-        "r_device_id": "C_3009_DO_0001",
-        "devices": [
-            {
-                "roomNo": "茶歇休闲",
-                "remark": "大灯+灯带"
-            }
-        ]
-    },
-    "30F-C_3010_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3010_BV_0000",
-        "r_device_id": "C_3010_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边单筒灯+西边单筒灯"
-            }
-        ]
-    },
-    "30F-C_3010_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3010_BV_0001",
-        "r_device_id": "C_3010_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边双筒灯+西边双筒灯"
-            }
-        ]
-    },
-    "30F-C_3010_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_3010_BV_0002",
-        "r_device_id": "C_3010_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯+南边单筒灯"
-            }
-        ]
-    },
-    "30F-C_3010_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_3010_BV_0003",
-        "r_device_id": "C_3010_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+南边双筒灯"
-            }
-        ]
-    },
-    "30F-C_3010_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_3010_BV_0004",
-        "r_device_id": "C_3010_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "30F-C_3010_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_3010_BV_0005",
-        "r_device_id": "C_3010_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "南灯带+东灯带"
-            }
-        ]
-    },
-    "30F-C_3010_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_3010_BV_0006",
-        "r_device_id": "C_3010_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅灯带+筒灯"
-            }
-        ]
-    },
-    "30F-C_3010_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_3010_BV_0007",
-        "r_device_id": "C_3010_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "卫生间+门口灯带"
-            }
-        ]
-    },
-    "30F-C_3011_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3011_BV_0000",
-        "r_device_id": "C_3011_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3015",
-                "remark": ""
-            },
-            {
-                "roomNo": "3016",
-                "remark": ""
-            },
-            {
-                "roomNo": "3017",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3011_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3011_BV_0001",
-        "r_device_id": "C_3011_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3018",
-                "remark": ""
-            }
-        ]
-    },
-    "30F-C_3012_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3012_BV_0000",
-        "r_device_id": "C_3012_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3007",
-                "remark": "会议室大灯"
-            }
-        ]
-    },
-    "30F-C_3012_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3012_BV_0001",
-        "r_device_id": "C_3012_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3007",
-                "remark": "会议室筒灯+灯带"
-            }
-        ]
-    },
-    "30F-C_3013_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3013_BV_0000",
-        "r_device_id": "C_3013_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3013",
-                "remark": "模块拨码不确定？"
-            }
-        ]
-    },
-    "31F-C_3101_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3101_BV_0000",
-        "r_device_id": "C_3101_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3118",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3101_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3101_BV_0001",
-        "r_device_id": "C_3101_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3115",
-                "remark": ""
-            },
-            {
-                "roomNo": "3116",
-                "remark": ""
-            },
-            {
-                "roomNo": "3117",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3102_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3102_BV_0000",
-        "r_device_id": "C_3102_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3119",
-                "remark": "会议室筒灯+灯带"
-            },
-            {
-                "roomNo": "3120",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3102_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3102_BV_0001",
-        "r_device_id": "C_3102_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3119",
-                "remark": "会议室大灯"
-            }
-        ]
-    },
-    "31F-C_3102_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_3102_BV_0002",
-        "r_device_id": "C_3102_DO_0002",
-        "devices": [
-            {
-                "roomNo": "3121",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3103_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3103_BV_0000",
-        "r_device_id": "C_3103_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3122",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3103_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3103_BV_0001",
-        "r_device_id": "C_3103_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3123",
-                "remark": ""
-            },
-            {
-                "roomNo": "3124",
-                "remark": ""
-            },
-            {
-                "roomNo": "3125",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3104_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3104_BV_0000",
-        "r_device_id": "C_3104_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3126",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3104_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3104_BV_0001",
-        "r_device_id": "C_3104_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3127",
-                "remark": ""
-            },
-            {
-                "roomNo": "3128",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3105_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3105_BV_0000",
-        "r_device_id": "C_3105_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3129",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3106_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3106_BV_0000",
-        "r_device_id": "C_3106_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3130",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3107_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3107_BV_0000",
-        "r_device_id": "C_3107_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3113",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3108_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3108_BV_0000",
-        "r_device_id": "C_3108_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3114",
-                "remark": "大灯"
-            }
-        ]
-    },
-    "31F-C_3108_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3108_BV_0001",
-        "r_device_id": "C_3108_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3114",
-                "remark": "筒灯+灯带"
-            }
-        ]
-    },
-    "31F-C_3109_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3109_BV_0000",
-        "r_device_id": "C_3109_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边单筒灯+西边单筒灯"
-            }
-        ]
-    },
-    "31F-C_3109_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3109_BV_0001",
-        "r_device_id": "C_3109_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边双筒灯+西边双筒灯"
-            }
-        ]
-    },
-    "31F-C_3109_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_3109_BV_0002",
-        "r_device_id": "C_3109_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯+南边单筒灯"
-            }
-        ]
-    },
-    "31F-C_3109_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_3109_BV_0003",
-        "r_device_id": "C_3109_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+南边双筒灯"
-            }
-        ]
-    },
-    "31F-C_3109_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_3109_BV_0004",
-        "r_device_id": "C_3109_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "31F-C_3109_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_3109_BV_0005",
-        "r_device_id": "C_3109_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "南灯带+东灯带"
-            }
-        ]
-    },
-    "31F-C_3109_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_3109_BV_0006",
-        "r_device_id": "C_3109_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅灯带+筒灯"
-            }
-        ]
-    },
-    "31F-C_3109_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_3109_BV_0007",
-        "r_device_id": "C_3109_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "卫生间+门口灯带+东南角灯"
-            }
-        ]
-    },
-    "31F-C_3110_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3110_BV_0000",
-        "r_device_id": "C_3110_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3112",
-                "remark": ""
-            }
-        ]
-    },
-    "31F-C_3114_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3114_BV_0000",
-        "r_device_id": "C_3114_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3106",
-                "remark": "会议室大灯"
-            }
-        ]
-    },
-    "31F-C_3114_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3114_BV_0001",
-        "r_device_id": "C_3114_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3106",
-                "remark": "会议室筒灯+灯带"
-            }
-        ]
-    },
-    "32F-C_3201_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3201_BV_0000",
-        "r_device_id": "C_3201_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3211",
-                "remark": ""
-            },
-            {
-                "roomNo": "3212",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3201_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3201_BV_0001",
-        "r_device_id": "C_3201_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3213",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3202_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3202_BV_0000",
-        "r_device_id": "C_3202_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3214",
-                "remark": "会议室筒灯+灯带"
-            }
-        ]
-    },
-    "32F-C_3202_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3202_BV_0001",
-        "r_device_id": "C_3202_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3215",
-                "remark": "会议室大灯"
-            }
-        ]
-    },
-    "32F-C_3202_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_3202_BV_0002",
-        "r_device_id": "C_3202_DO_0002",
-        "devices": [
-            {
-                "roomNo": "3216",
-                "remark": ""
-            },
-            {
-                "roomNo": "3217",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3203_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3203_BV_0000",
-        "r_device_id": "C_3203_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3218",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3203_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3203_BV_0001",
-        "r_device_id": "C_3203_DO_0001",
-        "devices": [
-            {
-                "roomNo": "3219",
-                "remark": ""
-            },
-            {
-                "roomNo": "3220",
-                "remark": ""
-            },
-            {
-                "roomNo": "3221",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3204_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3204_BV_0000",
-        "r_device_id": "C_3204_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3222",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3205_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3205_BV_0000",
-        "r_device_id": "C_3205_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3223",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3206_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3206_BV_0000",
-        "r_device_id": "C_3206_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3224",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3207_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3207_BV_0000",
-        "r_device_id": "C_3207_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3202",
-                "remark": ""
-            },
-            {
-                "roomNo": "3203",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3208_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3208_BV_0000",
-        "r_device_id": "C_3208_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3206",
-                "remark": "会议室大灯+灯带"
-            }
-        ]
-    },
-    "32F-C_3208_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_3208_BV_0002",
-        "r_device_id": "C_3208_DO_0002",
-        "devices": [
-            {
-                "roomNo": "3204",
-                "remark": ""
-            },
-            {
-                "roomNo": "3205",
-                "remark": ""
-            },
-            {
-                "roomNo": "3206",
-                "remark": "会议室筒灯"
-            }
-        ]
-    },
-    "32F-C_3209_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3209_BV_0000",
-        "r_device_id": "C_3209_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3210",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3210_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3210_BV_0000",
-        "r_device_id": "C_3210_DO_0000",
-        "devices": [
-            {
-                "roomNo": "3207",
-                "remark": ""
-            },
-            {
-                "roomNo": "3208",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3211_DO_0000": {
-        "id": "1",
-        "w_device_id": "C_3211_BV_0000",
-        "r_device_id": "C_3211_DO_0000",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边单筒灯"
-            }
-        ]
-    },
-    "32F-C_3211_DO_0001": {
-        "id": "2",
-        "w_device_id": "C_3211_BV_0001",
-        "r_device_id": "C_3211_DO_0001",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "电梯厅灯带+筒灯"
-            }
-        ]
-    },
-    "32F-C_3211_DO_0002": {
-        "id": "3",
-        "w_device_id": "C_3211_BV_0002",
-        "r_device_id": "C_3211_DO_0002",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北边单筒灯+西边单筒灯"
-            }
-        ]
-    },
-    "32F-C_3211_DO_0003": {
-        "id": "4",
-        "w_device_id": "C_3211_BV_0003",
-        "r_device_id": "C_3211_DO_0003",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "东边双筒灯+北边双筒灯+南边筒灯+西边筒灯"
-            }
-        ]
-    },
-    "32F-C_3211_DO_0004": {
-        "id": "5",
-        "w_device_id": "C_3211_BV_0004",
-        "r_device_id": "C_3211_DO_0004",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "卫生间"
-            }
-        ]
-    },
-    "32F-C_3211_DO_0005": {
-        "id": "6",
-        "w_device_id": "C_3211_BV_0005",
-        "r_device_id": "C_3211_DO_0005",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": ""
-            }
-        ]
-    },
-    "32F-C_3211_DO_0006": {
-        "id": "7",
-        "w_device_id": "C_3211_BV_0006",
-        "r_device_id": "C_3211_DO_0006",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "北灯带+西灯带"
-            }
-        ]
-    },
-    "32F-C_3211_DO_0007": {
-        "id": "8",
-        "w_device_id": "C_3211_BV_0007",
-        "r_device_id": "C_3211_DO_0007",
-        "devices": [
-            {
-                "roomNo": "公区",
-                "remark": "南灯带+东灯带"
-            }
-        ]
-    }
+  "10F-C_1001_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1001_BV_0000",
+    "r_device_id": "C_1001_DO_0000",
+    "devices": [{ "roomNo": "1007", "remark": "" }]
+  },
+  "10F-C_1003_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1003_BV_0000",
+    "r_device_id": "C_1003_DO_0000",
+    "devices": [
+      { "roomNo": "1009", "remark": "" },
+      { "roomNo": "1010", "remark": "" },
+      { "roomNo": "1011", "remark": "" }
+    ]
+  },
+  "10F-C_1004_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1004_BV_0000",
+    "r_device_id": "C_1004_DO_0000",
+    "devices": [
+      { "roomNo": "1012", "remark": "" },
+      { "roomNo": "1013", "remark": "" }
+    ]
+  },
+  "10F-C_1005_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1005_BV_0000",
+    "r_device_id": "C_1005_DO_0000",
+    "devices": [
+      { "roomNo": "1014", "remark": "" },
+      { "roomNo": "1015", "remark": "" },
+      { "roomNo": "1016", "remark": "" }
+    ]
+  },
+  "10F-C_1006_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1006_BV_0000",
+    "r_device_id": "C_1006_DO_0000",
+    "devices": [
+      { "roomNo": "1017", "remark": "" },
+      { "roomNo": "1018", "remark": "" }
+    ]
+  },
+  "10F-C_1007_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1007_BV_0000",
+    "r_device_id": "C_1007_DO_0000",
+    "devices": [{ "roomNo": "1019", "remark": "" }]
+  },
+  "10F-C_1008_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1008_BV_0000",
+    "r_device_id": "C_1008_DO_0000",
+    "devices": [
+      { "roomNo": "1020", "remark": "" },
+      { "roomNo": "1021", "remark": "" }
+    ]
+  },
+  "10F-C_1009_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1009_BV_0000",
+    "r_device_id": "C_1009_DO_0000",
+    "devices": [{ "roomNo": "1022", "remark": "" }]
+  },
+  "10F-C_1010_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1010_BV_0000",
+    "r_device_id": "C_1010_DO_0000",
+    "devices": [
+      { "roomNo": "1023", "remark": "" },
+      { "roomNo": "1024", "remark": "" }
+    ]
+  },
+  "10F-C_1011_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1011_BV_0000",
+    "r_device_id": "C_1011_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "东边筒灯+南边筒灯" }]
+  },
+  "10F-C_1013_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1013_BV_0000",
+    "r_device_id": "C_1013_DO_0000",
+    "devices": [{ "roomNo": "1006", "remark": "" }]
+  },
+  "10F-C_1014_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1014_BV_0000",
+    "r_device_id": "C_1014_DO_0000",
+    "devices": [
+      { "roomNo": "1003", "remark": "" },
+      { "roomNo": "1004", "remark": "" },
+      { "roomNo": "1005", "remark": "" }
+    ]
+  },
+  "12F-C_1201_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1201_BV_0000",
+    "r_device_id": "C_1201_DO_0000",
+    "devices": [
+      { "roomNo": "1211", "remark": "" },
+      { "roomNo": "1212", "remark": "" },
+      { "roomNo": "1213", "remark": "" }
+    ]
+  },
+  "12F-C_1202_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1202_BV_0000",
+    "r_device_id": "C_1202_DO_0000",
+    "devices": [{ "roomNo": "1210", "remark": "" }]
+  },
+  "12F-C_1203_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1203_BV_0000",
+    "r_device_id": "C_1203_DO_0000",
+    "devices": [
+      { "roomNo": "1214", "remark": "" },
+      { "roomNo": "1215", "remark": "" },
+      { "roomNo": "1216", "remark": "" }
+    ]
+  },
+  "12F-C_1204_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1204_BV_0000",
+    "r_device_id": "C_1204_DO_0000",
+    "devices": [
+      { "roomNo": "1217", "remark": "" },
+      { "roomNo": "1218", "remark": "" }
+    ]
+  },
+  "12F-C_1205_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1205_BV_0000",
+    "r_device_id": "C_1205_DO_0000",
+    "devices": [{ "roomNo": "1219", "remark": "" }]
+  },
+  "12F-C_1206_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1206_BV_0000",
+    "r_device_id": "C_1206_DO_0000",
+    "devices": [
+      { "roomNo": "1220", "remark": "" },
+      { "roomNo": "1221", "remark": "" }
+    ]
+  },
+  "12F-C_1207_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1207_BV_0000",
+    "r_device_id": "C_1207_DO_0000",
+    "devices": [
+      { "roomNo": "1222", "remark": "" },
+      { "roomNo": "1223", "remark": "" }
+    ]
+  },
+  "12F-C_1208_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1208_BV_0000",
+    "r_device_id": "C_1208_DO_0000",
+    "devices": [
+      { "roomNo": "1224", "remark": "" },
+      { "roomNo": "1225", "remark": "" },
+      { "roomNo": "1226", "remark": "" }
+    ]
+  },
+  "12F-C_1209_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1209_BV_0000",
+    "r_device_id": "C_1209_DO_0000",
+    "devices": [
+      { "roomNo": "1227", "remark": "" },
+      { "roomNo": "1228", "remark": "" }
+    ]
+  },
+  "12F-C_1210_DO_0000": {
+    "id": "2",
+    "w_device_id": "C_1210_BV_0001",
+    "r_device_id": "C_1210_DO_0000",
+    "devices": [
+      { "roomNo": "1201", "remark": "" },
+      { "roomNo": "1202", "remark": "" }
+    ]
+  },
+  "12F-C_1211_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1211_BV_0000",
+    "r_device_id": "C_1211_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "" }]
+  },
+  "12F-C_1212_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1212_BV_0000",
+    "r_device_id": "C_1212_DO_0000",
+    "devices": [
+      { "roomNo": "1205", "remark": "" },
+      { "roomNo": "1206", "remark": "" },
+      { "roomNo": "1207", "remark": "" }
+    ]
+  },
+  "12F-C_1214_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1214_BV_0000",
+    "r_device_id": "C_1214_DO_0000",
+    "devices": [
+      { "roomNo": "1208", "remark": "" },
+      { "roomNo": "1209", "remark": "" }
+    ]
+  },
+  "13F-C_1301_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1301_BV_0000",
+    "r_device_id": "C_1301_DO_0000",
+    "devices": [
+      { "roomNo": "1309", "remark": "" },
+      { "roomNo": "1310", "remark": "" }
+    ]
+  },
+  "13F-C_1303_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1303_BV_0000",
+    "r_device_id": "C_1303_DO_0000",
+    "devices": [
+      { "roomNo": "1312", "remark": "" },
+      { "roomNo": "1313", "remark": "" }
+    ]
+  },
+  "13F-C_1304_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1304_BV_0000",
+    "r_device_id": "C_1304_DO_0000",
+    "devices": [
+      { "roomNo": "1315", "remark": "" },
+      { "roomNo": "1316", "remark": "" }
+    ]
+  },
+  "13F-C_1305_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1305_BV_0000",
+    "r_device_id": "C_1305_DO_0000",
+    "devices": [
+      { "roomNo": "1317", "remark": "" },
+      { "roomNo": "1318", "remark": "" }
+    ]
+  },
+  "13F-C_1306_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1306_BV_0000",
+    "r_device_id": "C_1306_DO_0000",
+    "devices": [{ "roomNo": "1319", "remark": "" }]
+  },
+  "13F-C_1307_DO_0000": {
+    "id": "2",
+    "w_device_id": "C_1307_BV_0001",
+    "r_device_id": "C_1307_DO_0000",
+    "devices": [
+      { "roomNo": "1320", "remark": "" },
+      { "roomNo": "1321", "remark": "" },
+      { "roomNo": "1322", "remark": "" }
+    ]
+  },
+  "13F-C_1309_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1309_BV_0000",
+    "r_device_id": "C_1309_DO_0000",
+    "devices": [
+      { "roomNo": "1329", "remark": "" },
+      { "roomNo": "1330", "remark": "" }
+    ]
+  },
+  "13F-C_1310_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1310_BV_0000",
+    "r_device_id": "C_1310_DO_0000",
+    "devices": [
+      { "roomNo": "1325", "remark": "" },
+      { "roomNo": "1326", "remark": "" },
+      { "roomNo": "1327", "remark": "" },
+      { "roomNo": "1328", "remark": "" }
+    ]
+  },
+  "13F-C_1311_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1311_BV_0000",
+    "r_device_id": "C_1311_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "东南筒灯" }]
+  },
+  "13F-C_1313_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1313_BV_0000",
+    "r_device_id": "C_1313_DO_0000",
+    "devices": [
+      { "roomNo": "1306", "remark": "" },
+      { "roomNo": "1307", "remark": "" },
+      { "roomNo": "1308", "remark": "" }
+    ]
+  },
+  "13F-C_1314_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1314_BV_0000",
+    "r_device_id": "C_1314_DO_0000",
+    "devices": [{ "roomNo": "1333", "remark": "" }]
+  },
+  "13F-C_1315_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1315_BV_0000",
+    "r_device_id": "C_1315_DO_0000",
+    "devices": [
+      { "roomNo": "1334", "remark": "" },
+      { "roomNo": "1335", "remark": "" }
+    ]
+  },
+  "13F-C_1315_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1315_BV_0001",
+    "r_device_id": "C_1315_DO_0001",
+    "devices": [
+      { "roomNo": "1301", "remark": "" },
+      { "roomNo": "1302", "remark": "" }
+    ]
+  },
+  "13F-C_1316_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1316_BV_0000",
+    "r_device_id": "C_1316_DO_0000",
+    "devices": [{ "roomNo": "1305", "remark": "" }]
+  },
+  "13F-C_1316_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1316_BV_0001",
+    "r_device_id": "C_1316_DO_0001",
+    "devices": [
+      { "roomNo": "1303", "remark": "" },
+      { "roomNo": "1304", "remark": "" }
+    ]
+  },
+  "13F-C_1317_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1317_BV_0000",
+    "r_device_id": "C_1317_DO_0000",
+    "devices": [
+      { "roomNo": "1323", "remark": "" },
+      { "roomNo": "1324", "remark": "" }
+    ]
+  },
+  "14F-C_1401_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1401_BV_0000",
+    "r_device_id": "C_1401_DO_0000",
+    "devices": [
+      { "roomNo": "1409", "remark": "" },
+      { "roomNo": "1410", "remark": "" }
+    ]
+  },
+  "14F-C_1401_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1401_BV_0001",
+    "r_device_id": "C_1401_DO_0001",
+    "devices": [{ "roomNo": "1408", "remark": "" }]
+  },
+  "14F-C_1402_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1402_BV_0000",
+    "r_device_id": "C_1402_DO_0000",
+    "devices": [
+      { "roomNo": "1411", "remark": "" },
+      { "roomNo": "1412", "remark": "" }
+    ]
+  },
+  "14F-C_1403_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1403_BV_0000",
+    "r_device_id": "C_1403_DO_0000",
+    "devices": [
+      { "roomNo": "1413", "remark": "" },
+      { "roomNo": "1414", "remark": "" },
+      { "roomNo": "1415", "remark": "" }
+    ]
+  },
+  "14F-C_1404_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1404_BV_0000",
+    "r_device_id": "C_1404_DO_0000",
+    "devices": [{ "roomNo": "1416", "remark": "" }]
+  },
+  "14F-C_1405_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1405_BV_0000",
+    "r_device_id": "C_1405_DO_0000",
+    "devices": [
+      { "roomNo": "1418", "remark": "" },
+      { "roomNo": "1419", "remark": "" }
+    ]
+  },
+  "14F-C_1405_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1405_BV_0001",
+    "r_device_id": "C_1405_DO_0001",
+    "devices": [{ "roomNo": "1417", "remark": "" }]
+  },
+  "14F-C_1406_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1406_BV_0000",
+    "r_device_id": "C_1406_DO_0000",
+    "devices": [
+      { "roomNo": "1421", "remark": "" },
+      { "roomNo": "1422", "remark": "" }
+    ]
+  },
+  "14F-C_1407_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1407_BV_0000",
+    "r_device_id": "C_1407_DO_0000",
+    "devices": [
+      { "roomNo": "1423", "remark": "" },
+      { "roomNo": "1424", "remark": "" }
+    ]
+  },
+  "14F-C_1408_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1408_BV_0000",
+    "r_device_id": "C_1408_DO_0000",
+    "devices": [
+      { "roomNo": "1425", "remark": "" },
+      { "roomNo": "1426", "remark": "" }
+    ]
+  },
+  "14F-C_1409_DO-0000": {
+    "id": "1",
+    "w_device_id": "C_1409_BV__0000",
+    "r_device_id": "C_1409_DO-0000",
+    "devices": [
+      { "roomNo": "1427", "remark": "" },
+      { "roomNo": "1428", "remark": "" }
+    ]
+  },
+  "14F-C_1410_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1410_BV_0000",
+    "r_device_id": "C_1410_DO_0000",
+    "devices": [
+      { "roomNo": "1401", "remark": "" },
+      { "roomNo": "1402", "remark": "" }
+    ]
+  },
+  "14F-C_1411_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1411_BV_0000",
+    "r_device_id": "C_1411_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "东南筒灯" }]
+  },
+  "14F-C_1412_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1412_BV_0000",
+    "r_device_id": "C_1412_DO_0000",
+    "devices": [
+      { "roomNo": "1405", "remark": "" },
+      { "roomNo": "1406", "remark": "" },
+      { "roomNo": "1407", "remark": "" }
+    ]
+  },
+  "15F-C_1501_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1501_BV_0000",
+    "r_device_id": "C_1501_DO_0000",
+    "devices": [{ "roomNo": "1508", "remark": "" }]
+  },
+  "15F-C_1502_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1502_BV_0000",
+    "r_device_id": "C_1502_DO_0000",
+    "devices": [
+      { "roomNo": "1509", "remark": "" },
+      { "roomNo": "1510", "remark": "" }
+    ]
+  },
+  "15F-C_1503_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1503_BV_0000",
+    "r_device_id": "C_1503_DO_0000",
+    "devices": [
+      { "roomNo": "1511", "remark": "" },
+      { "roomNo": "1512", "remark": "" }
+    ]
+  },
+  "15F-C_1504_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1504_BV_0000",
+    "r_device_id": "C_1504_DO_0000",
+    "devices": [
+      { "roomNo": "1516", "remark": "" },
+      { "roomNo": "1517", "remark": "" }
+    ]
+  },
+  "15F-C_1505_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1505_BV_0000",
+    "r_device_id": "C_1505_DO_0000",
+    "devices": [{ "roomNo": "1518", "remark": "" }]
+  },
+  "15F-C_1506_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1506_BV_0000",
+    "r_device_id": "C_1506_DO_0000",
+    "devices": [
+      { "roomNo": "1520", "remark": "" },
+      { "roomNo": "1521", "remark": "" }
+    ]
+  },
+  "15F-C_1507_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1507_BV_0000",
+    "r_device_id": "C_1507_DO_0000",
+    "devices": [
+      { "roomNo": "1522", "remark": "" },
+      { "roomNo": "1523", "remark": "" }
+    ]
+  },
+  "15F-C_1508_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1508_BV_0000",
+    "r_device_id": "C_1508_DO_0000",
+    "devices": [
+      { "roomNo": "1524", "remark": "" },
+      { "roomNo": "1525", "remark": "" }
+    ]
+  },
+  "15F-C_1509_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1509_BV_0000",
+    "r_device_id": "C_1509_DO_0000",
+    "devices": [
+      { "roomNo": "1526", "remark": "" },
+      { "roomNo": "1527", "remark": "" },
+      { "roomNo": "1528", "remark": "" },
+      { "roomNo": "1529", "remark": "" },
+      { "roomNo": "1530", "remark": "" }
+    ]
+  },
+  "15F-C_1511_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1511_BV_0000",
+    "r_device_id": "C_1511_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "电梯厅" }]
+  },
+  "15F-C_1512_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1512_BV_0000",
+    "r_device_id": "C_1512_DO_0000",
+    "devices": [{ "roomNo": "1504", "remark": "" }]
+  },
+  "15F-C_1513_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1513_BV_0000",
+    "r_device_id": "C_1513_DO_0000",
+    "devices": [{ "roomNo": "结算中心", "remark": "控制结算中心的灯" }]
+  },
+  "15F-C_1513_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1513_BV_0001",
+    "r_device_id": "C_1513_DO_0001",
+    "devices": [{ "roomNo": "1519", "remark": "" }]
+  },
+  "15F-C_1514_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1514_BV_0000",
+    "r_device_id": "C_1514_DO_0000",
+    "devices": [
+      { "roomNo": "1506", "remark": "" },
+      { "roomNo": "1507", "remark": "" }
+    ]
+  },
+  "15F-C_1515_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1515_BV_0000",
+    "r_device_id": "C_1515_DO_0000",
+    "devices": [
+      { "roomNo": "1513", "remark": "" },
+      { "roomNo": "1514", "remark": "" },
+      { "roomNo": "1515", "remark": "" }
+    ]
+  },
+  "16F-C_1601_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1601_BV_0000",
+    "r_device_id": "C_1601_DO_0000",
+    "devices": [{ "roomNo": "1609", "remark": "" }]
+  },
+  "16F-C_1602_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1602_BV_0000",
+    "r_device_id": "C_1602_DO_0000",
+    "devices": [{ "roomNo": "1611", "remark": "" }]
+  },
+  "16F-C_1603_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1603_BV_0000",
+    "r_device_id": "C_1603_DO_0000",
+    "devices": [
+      { "roomNo": "1612", "remark": "" },
+      { "roomNo": "1613", "remark": "" }
+    ]
+  },
+  "16F-C_1604_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1604_BV_0000",
+    "r_device_id": "C_1604_DO_0000",
+    "devices": [
+      { "roomNo": "1615", "remark": "" },
+      { "roomNo": "1616", "remark": "" }
+    ]
+  },
+  "16F-C_1606_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1606_BV_0000",
+    "r_device_id": "C_1606_DO_0000",
+    "devices": [{ "roomNo": "1618", "remark": "" }]
+  },
+  "16F-C_1607_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1607_BV_0000",
+    "r_device_id": "C_1607_DO_0000",
+    "devices": [{ "roomNo": "1622", "remark": "" }]
+  },
+  "16F-C_1608_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1608_BV_0000",
+    "r_device_id": "C_1608_DO_0000",
+    "devices": [
+      { "roomNo": "1626", "remark": "" },
+      { "roomNo": "1627", "remark": "" }
+    ]
+  },
+  "16F-C_1609_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1609_BV_0001",
+    "r_device_id": "C_1609_DO_0001",
+    "devices": [
+      { "roomNo": "1628", "remark": "" },
+      { "roomNo": "1629", "remark": "" }
+    ]
+  },
+  "16F-C_1611_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1611_BV_0000",
+    "r_device_id": "C_1611_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "东单筒灯+南单筒灯" }]
+  },
+  "16F-C_1612_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1612_BV_0000",
+    "r_device_id": "C_1612_DO_0000",
+    "devices": [
+      { "roomNo": "1603", "remark": "" },
+      { "roomNo": "1604", "remark": "" },
+      { "roomNo": "1606", "remark": "" },
+      { "roomNo": "1607", "remark": "" },
+      { "roomNo": "1608", "remark": "" }
+    ]
+  },
+  "16F-C_1612_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1612_BV_0001",
+    "r_device_id": "C_1612_DO_0001",
+    "devices": [{ "roomNo": "1605", "remark": "" }]
+  },
+  "16F-C_1614_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1614_BV_0000",
+    "r_device_id": "C_1614_DO_0000",
+    "devices": [
+      { "roomNo": "1601", "remark": "" },
+      { "roomNo": "1602", "remark": "" }
+    ]
+  },
+  "16F-C_1614_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1614_BV_0001",
+    "r_device_id": "C_1614_DO_0001",
+    "devices": [
+      { "roomNo": "1633", "remark": "" },
+      { "roomNo": "1634", "remark": "" }
+    ]
+  },
+  "16F-C_1615_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1615_BV_0000",
+    "r_device_id": "C_1615_DO_0000",
+    "devices": [
+      { "roomNo": "1619", "remark": "" },
+      { "roomNo": "1620", "remark": "" },
+      { "roomNo": "1621", "remark": "" }
+    ]
+  },
+  "17F-C_1701_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1701_BV_0000",
+    "r_device_id": "C_1701_DO_0000",
+    "devices": [{ "roomNo": "1710", "remark": "" }]
+  },
+  "17F-C_1701_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1701_BV_0001",
+    "r_device_id": "C_1701_DO_0001",
+    "devices": [{ "roomNo": "1709", "remark": "" }]
+  },
+  "17F-C_1702_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1702_BV_0000",
+    "r_device_id": "C_1702_DO_0000",
+    "devices": [
+      { "roomNo": "1711", "remark": "控制右半段的灯" },
+      { "roomNo": "1712", "remark": "" }
+    ]
+  },
+  "17F-C_1702_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1702_BV_0001",
+    "r_device_id": "C_1702_DO_0001",
+    "devices": [{ "roomNo": "1711", "remark": "控制左半段的灯" }]
+  },
+  "17F-C_1704_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1704_BV_0000",
+    "r_device_id": "C_1704_DO_0000",
+    "devices": [
+      { "roomNo": "1714", "remark": "" },
+      { "roomNo": "1715", "remark": "控制左半段的灯" },
+      { "roomNo": "1716", "remark": "" }
+    ]
+  },
+  "17F-C_1704_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1704_BV_0001",
+    "r_device_id": "C_1704_DO_0001",
+    "devices": [
+      { "roomNo": "1715", "remark": "控制右半段的灯" },
+      { "roomNo": "1717", "remark": "" }
+    ]
+  },
+  "17F-C_1705_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1705_BV_0000",
+    "r_device_id": "C_1705_DO_0000",
+    "devices": [{ "roomNo": "1718", "remark": "" }]
+  },
+  "17F-C_1706_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1706_BV_0000",
+    "r_device_id": "C_1706_DO_0000",
+    "devices": [{ "roomNo": "1720", "remark": "" }]
+  },
+  "17F-C_1706_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1706_BV_0001",
+    "r_device_id": "C_1706_DO_0001",
+    "devices": [{ "roomNo": "1719", "remark": "" }]
+  },
+  "17F-C_1707_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1707_BV_0000",
+    "r_device_id": "C_1707_DO_0000",
+    "devices": [{ "roomNo": "1721", "remark": "" }]
+  },
+  "17F-C_1707_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1707_BV_0001",
+    "r_device_id": "C_1707_DO_0001",
+    "devices": [
+      { "roomNo": "1722", "remark": "" },
+      { "roomNo": "1723", "remark": "" }
+    ]
+  },
+  "17F-C_1708_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1708_BV_0000",
+    "r_device_id": "C_1708_DO_0000",
+    "devices": [{ "roomNo": "1724", "remark": "" }]
+  },
+  "17F-C_1708_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1708_BV_0001",
+    "r_device_id": "C_1708_DO_0001",
+    "devices": [{ "roomNo": "1725", "remark": "" }]
+  },
+  "17F-C_1709_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1709_BV_0000",
+    "r_device_id": "C_1709_DO_0000",
+    "devices": [{ "roomNo": "1702", "remark": "" }]
+  },
+  "17F-C_1709_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1709_BV_0001",
+    "r_device_id": "C_1709_DO_0001",
+    "devices": [{ "roomNo": "1701", "remark": "" }]
+  },
+  "17F-C_1710_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1710_BV_0000",
+    "r_device_id": "C_1710_DO_0000",
+    "devices": [
+      { "roomNo": "1703", "remark": "" },
+      { "roomNo": "1704", "remark": "" }
+    ]
+  },
+  "17F-C_1711_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1711_BV_0000",
+    "r_device_id": "C_1711_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北筒灯+西筒灯" }]
+  },
+  "17F-C_1712_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1712_BV_0000",
+    "r_device_id": "C_1712_DO_0000",
+    "devices": [{ "roomNo": "1707", "remark": "" }]
+  },
+  "17F-C_1712_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1712_BV_0001",
+    "r_device_id": "C_1712_DO_0001",
+    "devices": [
+      { "roomNo": "1705", "remark": "" },
+      { "roomNo": "1706", "remark": "" }
+    ]
+  },
+  "18F-C_1801_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1801_BV_0000",
+    "r_device_id": "C_1801_DO_0000",
+    "devices": [{ "roomNo": "1810", "remark": "" }]
+  },
+  "18F-C_1802_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1802_BV_0000",
+    "r_device_id": "C_1802_DO_0000",
+    "devices": [{ "roomNo": "1809", "remark": "" }]
+  },
+  "18F-C_1803_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1803_BV_0000",
+    "r_device_id": "C_1803_DO_0000",
+    "devices": [{ "roomNo": "1811", "remark": "左边灯带" }]
+  },
+  "18F-C_1803_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1803_BV_0001",
+    "r_device_id": "C_1803_DO_0001",
+    "devices": [{ "roomNo": "1811", "remark": "中间灯带" }]
+  },
+  "18F-C_1803_DO_0002": {
+    "id": "3",
+    "w_device_id": "C_1803_BV_0002",
+    "r_device_id": "C_1803_DO_0002",
+    "devices": [{ "roomNo": "1811", "remark": "右边灯带" }]
+  },
+  "18F-C_1804_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1804_BV_0000",
+    "r_device_id": "C_1804_DO_0000",
+    "devices": [{ "roomNo": "1812", "remark": "" }]
+  },
+  "18F-C_1805_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1805_BV_0000",
+    "r_device_id": "C_1805_DO_0000",
+    "devices": [{ "roomNo": "1814", "remark": "" }]
+  },
+  "18F-C_1805_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1805_BV_0001",
+    "r_device_id": "C_1805_DO_0001",
+    "devices": [{ "roomNo": "1813", "remark": "" }]
+  },
+  "18F-C_1806_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1806_BV_0000",
+    "r_device_id": "C_1806_DO_0000",
+    "devices": [
+      { "roomNo": "1816", "remark": "" },
+      { "roomNo": "1817", "remark": "" }
+    ]
+  },
+  "18F-C_1806_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1806_BV_0001",
+    "r_device_id": "C_1806_DO_0001",
+    "devices": [{ "roomNo": "1815", "remark": "" }]
+  },
+  "18F-C_1807_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1807_BV_0000",
+    "r_device_id": "C_1807_DO_0000",
+    "devices": [{ "roomNo": "1818", "remark": "" }]
+  },
+  "18F-C_1808_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1808_BV_0000",
+    "r_device_id": "C_1808_DO_0000",
+    "devices": [{ "roomNo": "1819", "remark": "" }]
+  },
+  "18F-C_1809_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1809_BV_0000",
+    "r_device_id": "C_1809_DO_0000",
+    "devices": [{ "roomNo": "1820", "remark": "" }]
+  },
+  "18F-C_1809_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1809_BV_0001",
+    "r_device_id": "C_1809_DO_0001",
+    "devices": [{ "roomNo": "1821", "remark": "" }]
+  },
+  "18F-C_1810_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1810_BV_0000",
+    "r_device_id": "C_1810_DO_0000",
+    "devices": [
+      { "roomNo": "1823", "remark": "" },
+      { "roomNo": "1824", "remark": "" }
+    ]
+  },
+  "18F-C_1810_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1810_BV_0001",
+    "r_device_id": "C_1810_DO_0001",
+    "devices": [{ "roomNo": "1822", "remark": "" }]
+  },
+  "18F-C_1811_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1811_BV_0000",
+    "r_device_id": "C_1811_DO_0000",
+    "devices": [{ "roomNo": "1807", "remark": "" }]
+  },
+  "18F-C_1811_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1811_BV_0001",
+    "r_device_id": "C_1811_DO_0001",
+    "devices": [
+      { "roomNo": "1805", "remark": "" },
+      { "roomNo": "1806", "remark": "" }
+    ]
+  },
+  "18F-C_1812_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1812_BV_0000",
+    "r_device_id": "C_1812_DO_0000",
+    "devices": [{ "roomNo": "1826", "remark": "" }]
+  },
+  "18F-C_1812_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1812_BV_0001",
+    "r_device_id": "C_1812_DO_0001",
+    "devices": [{ "roomNo": "1825", "remark": "" }]
+  },
+  "18F-C_1813_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1813_BV_0000",
+    "r_device_id": "C_1813_DO_0000",
+    "devices": [
+      { "roomNo": "1803", "remark": "" },
+      { "roomNo": "1804", "remark": "" }
+    ]
+  },
+  "18F-C_1814_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1814_BV_0000",
+    "r_device_id": "C_1814_DO_0000",
+    "devices": [{ "roomNo": "1802", "remark": "" }]
+  },
+  "18F-C_1814_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1814_BV_0001",
+    "r_device_id": "C_1814_DO_0001",
+    "devices": [{ "roomNo": "1801", "remark": "" }]
+  },
+  "18F-C_1815_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1815_BV_0000",
+    "r_device_id": "C_1815_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北筒灯+西筒灯" }]
+  },
+  "19F-C_1901_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1901_BV_0000",
+    "r_device_id": "C_1901_DO_0000",
+    "devices": [{ "roomNo": "1909", "remark": "" }]
+  },
+  "19F-C_1902_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1902_BV_0000",
+    "r_device_id": "C_1902_DO_0000",
+    "devices": [{ "roomNo": "1910", "remark": "" }]
+  },
+  "19F-C_1902_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1902_BV_0001",
+    "r_device_id": "C_1902_DO_0001",
+    "devices": [{ "roomNo": "1911", "remark": "" }]
+  },
+  "19F-C_1903_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1903_BV_0000",
+    "r_device_id": "C_1903_DO_0000",
+    "devices": [{ "roomNo": "1913", "remark": "" }]
+  },
+  "19F-C_1903_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1903_BV_0001",
+    "r_device_id": "C_1903_DO_0001",
+    "devices": [{ "roomNo": "1914", "remark": "" }]
+  },
+  "19F-C_1905_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1905_BV_0000",
+    "r_device_id": "C_1905_DO_0000",
+    "devices": [{ "roomNo": "1917", "remark": "" }]
+  },
+  "19F-C_1905_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1905_BV_0001",
+    "r_device_id": "C_1905_DO_0001",
+    "devices": [{ "roomNo": "1918", "remark": "" }]
+  },
+  "19F-C_1906_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1906_BV_0000",
+    "r_device_id": "C_1906_DO_0000",
+    "devices": [{ "roomNo": "1919", "remark": "" }]
+  },
+  "19F-C_1906_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1906_BV_0001",
+    "r_device_id": "C_1906_DO_0001",
+    "devices": [{ "roomNo": "1920", "remark": "" }]
+  },
+  "19F-C_1907_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1907_BV_0000",
+    "r_device_id": "C_1907_DO_0000",
+    "devices": [
+      { "roomNo": "1921", "remark": "" },
+      { "roomNo": "1922", "remark": "" },
+      { "roomNo": "1923", "remark": "" },
+      { "roomNo": "1924", "remark": "" }
+    ]
+  },
+  "19F-C_1908_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1908_BV_0000",
+    "r_device_id": "C_1908_DO_0000",
+    "devices": [{ "roomNo": "1925", "remark": "" }]
+  },
+  "19F-C_1909_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1909_BV_0000",
+    "r_device_id": "C_1909_DO_0000",
+    "devices": [{ "roomNo": "1927", "remark": "" }]
+  },
+  "19F-C_1909_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1909_BV_0001",
+    "r_device_id": "C_1909_DO_0001",
+    "devices": [{ "roomNo": "1926", "remark": "" }]
+  },
+  "19F-C_1910_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1910_BV_0000",
+    "r_device_id": "C_1910_DO_0000",
+    "devices": [
+      { "roomNo": "1928", "remark": "" },
+      { "roomNo": "1929", "remark": "" }
+    ]
+  },
+  "19F-C_1911_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1911_BV_0000",
+    "r_device_id": "C_1911_DO_0000",
+    "devices": [
+      { "roomNo": "1905", "remark": "" },
+      { "roomNo": "1906", "remark": "" }
+    ]
+  },
+  "19F-C_1911_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_1911_BV_0001",
+    "r_device_id": "C_1911_DO_0001",
+    "devices": [{ "roomNo": "1907", "remark": "" }]
+  },
+  "19F-C_1912_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1912_BV_0000",
+    "r_device_id": "C_1912_DO_0000",
+    "devices": [
+      { "roomNo": "1930", "remark": "" },
+      { "roomNo": "1931", "remark": "" },
+      { "roomNo": "1932", "remark": "" },
+      { "roomNo": "1933", "remark": "" }
+    ]
+  },
+  "19F-C_1913_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1913_BV_0000",
+    "r_device_id": "C_1913_DO_0000",
+    "devices": [
+      { "roomNo": "公区", "remark": "茶水间+弱电井前厅南+东南角公区" }
+    ]
+  },
+  "19F-C_1914_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_1914_BV_0000",
+    "r_device_id": "C_1914_DO_0000",
+    "devices": [
+      { "roomNo": "1901", "remark": "" },
+      { "roomNo": "1902", "remark": "" },
+      { "roomNo": "1903", "remark": "" },
+      { "roomNo": "1904", "remark": "" }
+    ]
+  },
+  "20F-C_2001_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2001_BV_0000",
+    "r_device_id": "C_2001_DO_0000",
+    "devices": [{ "roomNo": "2008", "remark": "" }]
+  },
+  "20F-C_2002_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2002_BV_0000",
+    "r_device_id": "C_2002_DO_0000",
+    "devices": [{ "roomNo": "2009", "remark": "" }]
+  },
+  "20F-C_2002_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2002_BV_0001",
+    "r_device_id": "C_2002_DO_0001",
+    "devices": [{ "roomNo": "2009", "remark": "" }]
+  },
+  "20F-C_2003_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2003_BV_0000",
+    "r_device_id": "C_2003_DO_0000",
+    "devices": [
+      { "roomNo": "2010", "remark": "" },
+      { "roomNo": "2011", "remark": "" },
+      { "roomNo": "2012", "remark": "" }
+    ]
+  },
+  "20F-C_2004_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2004_BV_0000",
+    "r_device_id": "C_2004_DO_0000",
+    "devices": [
+      { "roomNo": "2013", "remark": "" },
+      { "roomNo": "2014", "remark": "" }
+    ]
+  },
+  "20F-C_2005_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2005_BV_0000",
+    "r_device_id": "C_2005_DO_0000",
+    "devices": [{ "roomNo": "2015", "remark": "大灯" }]
+  },
+  "20F-C_2005_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2005_BV_0001",
+    "r_device_id": "C_2005_DO_0001",
+    "devices": [{ "roomNo": "2015", "remark": "灯带" }]
+  },
+  "20F-C_2006_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2006_BV_0000",
+    "r_device_id": "C_2006_DO_0000",
+    "devices": [
+      { "roomNo": "2016", "remark": "" },
+      { "roomNo": "2017", "remark": "大灯" }
+    ]
+  },
+  "20F-C_2006_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2006_BV_0001",
+    "r_device_id": "C_2006_DO_0001",
+    "devices": [{ "roomNo": "2017", "remark": "灯带" }]
+  },
+  "20F-C_2007_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2007_BV_0000",
+    "r_device_id": "C_2007_DO_0000",
+    "devices": [{ "roomNo": "2018", "remark": "" }]
+  },
+  "20F-C_2008_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2008_BV_0000",
+    "r_device_id": "C_2008_DO_0000",
+    "devices": [
+      { "roomNo": "2019", "remark": "" },
+      { "roomNo": "2020", "remark": "" },
+      { "roomNo": "2021", "remark": "" },
+      { "roomNo": "2022", "remark": "" }
+    ]
+  },
+  "20F-C_2009_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2009_BV_0000",
+    "r_device_id": "C_2009_DO_0000",
+    "devices": [{ "roomNo": "2023", "remark": "" }]
+  },
+  "20F-C_2010_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2010_BV_0000",
+    "r_device_id": "C_2010_DO_0000",
+    "devices": [
+      { "roomNo": "2024", "remark": "" },
+      { "roomNo": "2025", "remark": "" },
+      { "roomNo": "2026", "remark": "" },
+      { "roomNo": "2027", "remark": "" }
+    ]
+  },
+  "20F-C_2012_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2012_BV_0000",
+    "r_device_id": "C_2012_DO_0000",
+    "devices": [
+      { "roomNo": "2001", "remark": "" },
+      { "roomNo": "2002", "remark": "" },
+      { "roomNo": "2003", "remark": "" },
+      { "roomNo": "2004", "remark": "" }
+    ]
+  },
+  "20F-C_2014_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2014_BV_0000",
+    "r_device_id": "C_2014_DO_0000",
+    "devices": [
+      { "roomNo": "2005", "remark": "" },
+      { "roomNo": "2006", "remark": "" },
+      { "roomNo": "2007", "remark": "" }
+    ]
+  },
+  "20F-C_2015_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2015_BV_0000",
+    "r_device_id": "C_2015_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北筒灯+西筒灯" }]
+  },
+  "21F-C_2101_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2101_BV_0000",
+    "r_device_id": "C_2101_DO_0000",
+    "devices": [{ "roomNo": "2110", "remark": "" }]
+  },
+  "21F-C_2102_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2102_BV_0000",
+    "r_device_id": "C_2102_DO_0000",
+    "devices": [
+      { "roomNo": "2108", "remark": "" },
+      { "roomNo": "2109", "remark": "会议室大灯" }
+    ]
+  },
+  "21F-C_2103_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2103_BV_0000",
+    "r_device_id": "C_2103_DO_0000",
+    "devices": [{ "roomNo": "2111", "remark": "" }]
+  },
+  "21F-C_2104_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2104_BV_0000",
+    "r_device_id": "C_2104_DO_0000",
+    "devices": [{ "roomNo": "2112", "remark": "左边灯" }]
+  },
+  "21F-C_2104_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2104_BV_0001",
+    "r_device_id": "C_2104_DO_0001",
+    "devices": [{ "roomNo": "2112", "remark": "右边灯" }]
+  },
+  "21F-C_2105_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2105_BV_0000",
+    "r_device_id": "C_2105_DO_0000",
+    "devices": [{ "roomNo": "2113", "remark": "" }]
+  },
+  "21F-C_2105_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2105_BV_0001",
+    "r_device_id": "C_2105_DO_0001",
+    "devices": [{ "roomNo": "2114", "remark": "" }]
+  },
+  "21F-C_2106_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2106_BV_0000",
+    "r_device_id": "C_2106_DO_0000",
+    "devices": [
+      { "roomNo": "2115", "remark": "" },
+      { "roomNo": "2116", "remark": "" }
+    ]
+  },
+  "21F-C_2106_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2106_BV_0001",
+    "r_device_id": "C_2106_DO_0001",
+    "devices": [{ "roomNo": "2117", "remark": "" }]
+  },
+  "21F-C_2107_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2107_BV_0000",
+    "r_device_id": "C_2107_DO_0000",
+    "devices": [{ "roomNo": "2118", "remark": "" }]
+  },
+  "21F-C_2107_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2107_BV_0001",
+    "r_device_id": "C_2107_DO_0001",
+    "devices": [{ "roomNo": "2119", "remark": "" }]
+  },
+  "21F-C_2108_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2108_BV_0000",
+    "r_device_id": "C_2108_DO_0000",
+    "devices": [
+      { "roomNo": "2122", "remark": "" },
+      { "roomNo": "2123", "remark": "" },
+      { "roomNo": "2124", "remark": "" },
+      { "roomNo": "2125", "remark": "" },
+      { "roomNo": "2126", "remark": "" }
+    ]
+  },
+  "21F-C_2109_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2109_BV_0000",
+    "r_device_id": "C_2109_DO_0000",
+    "devices": [{ "roomNo": "2127", "remark": "" }]
+  },
+  "21F-C_2110_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2110_BV_0000",
+    "r_device_id": "C_2110_DO_0000",
+    "devices": [{ "roomNo": "2101", "remark": "" }]
+  },
+  "21F-C_2110_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2110_BV_0001",
+    "r_device_id": "C_2110_DO_0001",
+    "devices": [{ "roomNo": "2102", "remark": "" }]
+  },
+  "21F-C_2111_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2111_BV_0000",
+    "r_device_id": "C_2111_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北筒灯+西筒灯" }]
+  },
+  "21F-C_2112_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2112_BV_0000",
+    "r_device_id": "C_2112_DO_0000",
+    "devices": [
+      { "roomNo": "2103", "remark": "" },
+      { "roomNo": "2104", "remark": "" }
+    ]
+  },
+  "21F-C_2114_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2114_BV_0000",
+    "r_device_id": "C_2114_DO_0000",
+    "devices": [
+      { "roomNo": "2105", "remark": "" },
+      { "roomNo": "2106", "remark": "" }
+    ]
+  },
+  "21F-C_2114_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2114_BV_0001",
+    "r_device_id": "C_2114_DO_0001",
+    "devices": [{ "roomNo": "2107", "remark": "" }]
+  },
+  "21F-C_2115_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2115_BV_0000",
+    "r_device_id": "C_2115_DO_0000",
+    "devices": [{ "roomNo": "2121", "remark": "" }]
+  },
+  "21F-C_2115_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2115_BV_0001",
+    "r_device_id": "C_2115_DO_0001",
+    "devices": [{ "roomNo": "2120", "remark": "" }]
+  },
+  "23F-C_2301_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2301_BV_0000",
+    "r_device_id": "C_2301_DO_0000",
+    "devices": [{ "roomNo": "2308", "remark": "" }]
+  },
+  "23F-C_2301_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2301_BV_0001",
+    "r_device_id": "C_2301_DO_0001",
+    "devices": [
+      { "roomNo": "2309", "remark": "" },
+      { "roomNo": "2330", "remark": "" }
+    ]
+  },
+  "23F-C_2303_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2303_BV_0000",
+    "r_device_id": "C_2303_DO_0000",
+    "devices": [{ "roomNo": "2310", "remark": "" }]
+  },
+  "23F-C_2303_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2303_BV_0001",
+    "r_device_id": "C_2303_DO_0001",
+    "devices": [{ "roomNo": "2311", "remark": "" }]
+  },
+  "23F-C_2304_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2304_BV_0000",
+    "r_device_id": "C_2304_DO_0000",
+    "devices": [{ "roomNo": "2312", "remark": "" }]
+  },
+  "23F-C_2304_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2304_BV_0001",
+    "r_device_id": "C_2304_DO_0001",
+    "devices": [{ "roomNo": "2313", "remark": "" }]
+  },
+  "23F-C_2306_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2306_BV_0000",
+    "r_device_id": "C_2306_DO_0000",
+    "devices": [{ "roomNo": "2318", "remark": "" }]
+  },
+  "23F-C_2307_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2307_BV_0000",
+    "r_device_id": "C_2307_DO_0000",
+    "devices": [{ "roomNo": "2325", "remark": "" }]
+  },
+  "23F-C_2307_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2307_BV_0001",
+    "r_device_id": "C_2307_DO_0001",
+    "devices": [{ "roomNo": "2326", "remark": "" }]
+  },
+  "23F-C_2308_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2308_BV_0000",
+    "r_device_id": "C_2308_DO_0000",
+    "devices": [
+      { "roomNo": "2327", "remark": "" },
+      { "roomNo": "2328", "remark": "" }
+    ]
+  },
+  "23F-C_2308_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2308_BV_0001",
+    "r_device_id": "C_2308_DO_0001",
+    "devices": [{ "roomNo": "2329", "remark": "" }]
+  },
+  "23F-C_2309_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2309_BV_0000",
+    "r_device_id": "C_2309_DO_0000",
+    "devices": [{ "roomNo": "2301", "remark": "左边" }]
+  },
+  "23F-C_2309_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2309_BV_0001",
+    "r_device_id": "C_2309_DO_0001",
+    "devices": [{ "roomNo": "2301", "remark": "右边" }]
+  },
+  "23F-C_2310_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2310_BV_0000",
+    "r_device_id": "C_2310_DO_0000",
+    "devices": [
+      { "roomNo": "2302", "remark": "" },
+      { "roomNo": "2303", "remark": "" }
+    ]
+  },
+  "23F-C_2310_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2310_BV_0001",
+    "r_device_id": "C_2310_DO_0001",
+    "devices": [{ "roomNo": "2304", "remark": "" }]
+  },
+  "23F-C_2311_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2311_BV_0000",
+    "r_device_id": "C_2311_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "茶水间+弱电井前厅+东1房间" }]
+  },
+  "23F-C_2312_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2312_BV_0000",
+    "r_device_id": "C_2312_DO_0000",
+    "devices": [
+      { "roomNo": "2305", "remark": "" },
+      { "roomNo": "2306", "remark": "" }
+    ]
+  },
+  "23F-C_2313_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2313_BV_0000",
+    "r_device_id": "C_2313_DO_0000",
+    "devices": [
+      { "roomNo": "2314", "remark": "" },
+      { "roomNo": "2315", "remark": "" },
+      { "roomNo": "2316", "remark": "" }
+    ]
+  },
+  "23F-C_2314_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2314_BV_0000",
+    "r_device_id": "C_2314_DO_0000",
+    "devices": [
+      { "roomNo": "2319", "remark": "" },
+      { "roomNo": "2320", "remark": "" },
+      { "roomNo": "2321", "remark": "" },
+      { "roomNo": "2322", "remark": "" },
+      { "roomNo": "2323", "remark": "" },
+      { "roomNo": "2324", "remark": "" }
+    ]
+  },
+  "24F-C_2401_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2401_BV_0000",
+    "r_device_id": "C_2401_DO_0000",
+    "devices": [
+      { "roomNo": "2418", "remark": "" },
+      { "roomNo": "2419", "remark": "" }
+    ]
+  },
+  "24F-C_2401_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2401_BV_0001",
+    "r_device_id": "C_2401_DO_0001",
+    "devices": [{ "roomNo": "2417", "remark": "" }]
+  },
+  "24F-C_2403_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2403_BV_0000",
+    "r_device_id": "C_2403_DO_0000",
+    "devices": [{ "roomNo": "2421", "remark": "" }]
+  },
+  "24F-C_2403_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2403_BV_0001",
+    "r_device_id": "C_2403_DO_0001",
+    "devices": [{ "roomNo": "2420", "remark": "" }]
+  },
+  "24F-C_2404_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2404_BV_0000",
+    "r_device_id": "C_2404_DO_0000",
+    "devices": [{ "roomNo": "2423", "remark": "" }]
+  },
+  "24F-C_2404_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2404_BV_0001",
+    "r_device_id": "C_2404_DO_0001",
+    "devices": [{ "roomNo": "2422", "remark": "" }]
+  },
+  "24F-C_2405_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2405_BV_0000",
+    "r_device_id": "C_2405_DO_0000",
+    "devices": [
+      { "roomNo": "2424", "remark": "" },
+      { "roomNo": "2425", "remark": "" },
+      { "roomNo": "2426", "remark": "" },
+      { "roomNo": "2427", "remark": "" }
+    ]
+  },
+  "24F-C_2406_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2406_BV_0000",
+    "r_device_id": "C_2406_DO_0000",
+    "devices": [
+      { "roomNo": "2428", "remark": "会议室" },
+      { "roomNo": "2429", "remark": "会议室" }
+    ]
+  },
+  "24F-C_2407_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2407_BV_0000",
+    "r_device_id": "C_2407_DO_0000",
+    "devices": [
+      { "roomNo": "2401", "remark": "" },
+      { "roomNo": "2402", "remark": "" },
+      { "roomNo": "2403", "remark": "" }
+    ]
+  },
+  "24F-C_2408_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2408_BV_0000",
+    "r_device_id": "C_2408_DO_0000",
+    "devices": [
+      { "roomNo": "2405", "remark": "" },
+      { "roomNo": "2406", "remark": "" }
+    ]
+  },
+  "24F-C_2408_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2408_BV_0001",
+    "r_device_id": "C_2408_DO_0001",
+    "devices": [{ "roomNo": "2404", "remark": "" }]
+  },
+  "24F-C_2409_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2409_BV_0000",
+    "r_device_id": "C_2409_DO_0000",
+    "devices": [{ "roomNo": "2408", "remark": "" }]
+  },
+  "24F-C_2409_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2409_BV_0001",
+    "r_device_id": "C_2409_DO_0001",
+    "devices": [{ "roomNo": "2407", "remark": "" }]
+  },
+  "24F-C_2410_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2410_BV_0000",
+    "r_device_id": "C_2410_DO_0000",
+    "devices": [{ "roomNo": "2409", "remark": "小房间" }]
+  },
+  "24F-C_2410_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2410_BV_0001",
+    "r_device_id": "C_2410_DO_0001",
+    "devices": [{ "roomNo": "2409", "remark": "" }]
+  },
+  "24F-C_2411_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2411_BV_0000",
+    "r_device_id": "C_2411_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北边单筒灯+西边单筒灯" }]
+  },
+  "24F-C_2412_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2412_BV_0000",
+    "r_device_id": "C_2412_DO_0000",
+    "devices": [{ "roomNo": "2410", "remark": "" }]
+  },
+  "24F-C_2413_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2413_BV_0000",
+    "r_device_id": "C_2413_DO_0000",
+    "devices": [
+      { "roomNo": "2414", "remark": "" },
+      { "roomNo": "2415", "remark": "" }
+    ]
+  },
+  "24F-C_2414_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2414_BV_0000",
+    "r_device_id": "C_2414_DO_0000",
+    "devices": [{ "roomNo": "2412", "remark": "" }]
+  },
+  "24F-C_2414_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2414_BV_0001",
+    "r_device_id": "C_2414_DO_0001",
+    "devices": [
+      { "roomNo": "2411", "remark": "" },
+      { "roomNo": "2413", "remark": "" }
+    ]
+  },
+  "25F-C_2501_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2501_BV_0000",
+    "r_device_id": "C_2501_DO_0000",
+    "devices": [
+      { "roomNo": "2516", "remark": "" },
+      { "roomNo": "2517", "remark": "" }
+    ]
+  },
+  "25F-C_2501_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2501_BV_0001",
+    "r_device_id": "C_2501_DO_0001",
+    "devices": [{ "roomNo": "2515", "remark": "" }]
+  },
+  "25F-C_2503_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2503_BV_0000",
+    "r_device_id": "C_2503_DO_0000",
+    "devices": [{ "roomNo": "2518", "remark": "" }]
+  },
+  "25F-C_2503_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2503_BV_0001",
+    "r_device_id": "C_2503_DO_0001",
+    "devices": [{ "roomNo": "2519", "remark": "" }]
+  },
+  "25F-C_2504_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2504_BV_0000",
+    "r_device_id": "C_2504_DO_0000",
+    "devices": [{ "roomNo": "2520", "remark": "" }]
+  },
+  "25F-C_2504_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2504_BV_0001",
+    "r_device_id": "C_2504_DO_0001",
+    "devices": [{ "roomNo": "2521", "remark": "" }]
+  },
+  "25F-C_2505_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2505_BV_0000",
+    "r_device_id": "C_2505_DO_0000",
+    "devices": [{ "roomNo": "2523", "remark": "" }]
+  },
+  "25F-C_2505_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2505_BV_0001",
+    "r_device_id": "C_2505_DO_0001",
+    "devices": [{ "roomNo": "2522", "remark": "" }]
+  },
+  "25F-C_2506_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2506_BV_0000",
+    "r_device_id": "C_2506_DO_0000",
+    "devices": [
+      { "roomNo": "2524", "remark": "" },
+      { "roomNo": "2525", "remark": "" }
+    ]
+  },
+  "25F-C_2507_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2507_BV_0000",
+    "r_device_id": "C_2507_DO_0000",
+    "devices": [{ "roomNo": "2501-1", "remark": "" }]
+  },
+  "25F-C_2507_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2507_BV_0001",
+    "r_device_id": "C_2507_DO_0001",
+    "devices": [{ "roomNo": "2501", "remark": "" }]
+  },
+  "25F-C_2508_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2508_BV_0000",
+    "r_device_id": "C_2508_DO_0000",
+    "devices": [
+      { "roomNo": "2502", "remark": "" },
+      { "roomNo": "2504", "remark": "" }
+    ]
+  },
+  "25F-C_2508_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2508_BV_0001",
+    "r_device_id": "C_2508_DO_0001",
+    "devices": [{ "roomNo": "2503", "remark": "" }]
+  },
+  "25F-C_2509_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2509_BV_0000",
+    "r_device_id": "C_2509_DO_0000",
+    "devices": [{ "roomNo": "2505", "remark": "" }]
+  },
+  "25F-C_2509_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2509_BV_0001",
+    "r_device_id": "C_2509_DO_0001",
+    "devices": [{ "roomNo": "2506", "remark": "" }]
+  },
+  "25F-C_2510_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2510_BV_0000",
+    "r_device_id": "C_2510_DO_0000",
+    "devices": [{ "roomNo": "2507", "remark": "" }]
+  },
+  "25F-C_2510_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2510_BV_0001",
+    "r_device_id": "C_2510_DO_0001",
+    "devices": [
+      { "roomNo": "2508", "remark": "" },
+      { "roomNo": "2509", "remark": "" }
+    ]
+  },
+  "25F-C_2511_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2511_BV_0000",
+    "r_device_id": "C_2511_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "" }]
+  },
+  "25F-C_2512_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2512_BV_0000",
+    "r_device_id": "C_2512_DO_0000",
+    "devices": [{ "roomNo": "茶歇休闲", "remark": "" }]
+  },
+  "25F-C_2512_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2512_BV_0001",
+    "r_device_id": "C_2512_DO_0001",
+    "devices": [
+      { "roomNo": "2510", "remark": "" },
+      { "roomNo": "2511", "remark": "" }
+    ]
+  },
+  "26F-C_2601_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2601_BV_0000",
+    "r_device_id": "C_2601_DO_0000",
+    "devices": [
+      { "roomNo": "2617", "remark": "" },
+      { "roomNo": "2618", "remark": "" }
+    ]
+  },
+  "26F-C_2603_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2603_BV_0000",
+    "r_device_id": "C_2603_DO_0000",
+    "devices": [{ "roomNo": "2620", "remark": "" }]
+  },
+  "26F-C_2603_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2603_BV_0001",
+    "r_device_id": "C_2603_DO_0001",
+    "devices": [
+      { "roomNo": "2621", "remark": "" },
+      { "roomNo": "2622", "remark": "" }
+    ]
+  },
+  "26F-C_2604_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2604_BV_0000",
+    "r_device_id": "C_2604_DO_0000",
+    "devices": [{ "roomNo": "2623", "remark": "" }]
+  },
+  "26F-C_2605_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2605_BV_0000",
+    "r_device_id": "C_2605_DO_0000",
+    "devices": [{ "roomNo": "2626", "remark": "" }]
+  },
+  "26F-C_2605_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2605_BV_0001",
+    "r_device_id": "C_2605_DO_0001",
+    "devices": [{ "roomNo": "2625", "remark": "" }]
+  },
+  "26F-C_2606_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2606_BV_0000",
+    "r_device_id": "C_2606_DO_0000",
+    "devices": [{ "roomNo": "2628", "remark": "" }]
+  },
+  "26F-C_2606_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2606_BV_0001",
+    "r_device_id": "C_2606_DO_0001",
+    "devices": [{ "roomNo": "2627", "remark": "" }]
+  },
+  "26F-C_2607_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2607_BV_0000",
+    "r_device_id": "C_2607_DO_0000",
+    "devices": [{ "roomNo": "2629", "remark": "" }]
+  },
+  "26F-C_2608_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2608_BV_0000",
+    "r_device_id": "C_2608_DO_0000",
+    "devices": [{ "roomNo": "2630", "remark": "" }]
+  },
+  "26F-C_2609_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2609_BV_0000",
+    "r_device_id": "C_2609_DO_0000",
+    "devices": [
+      { "roomNo": "2601", "remark": "" },
+      { "roomNo": "2631", "remark": "" }
+    ]
+  },
+  "26F-C_2610_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2610_BV_0000",
+    "r_device_id": "C_2610_DO_0000",
+    "devices": [
+      { "roomNo": "2604", "remark": "" },
+      { "roomNo": "2605", "remark": "" },
+      { "roomNo": "2606", "remark": "" }
+    ]
+  },
+  "26F-C_2611_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2611_BV_0000",
+    "r_device_id": "C_2611_DO_0000",
+    "devices": [
+      { "roomNo": "2608", "remark": "" },
+      { "roomNo": "2609", "remark": "" },
+      { "roomNo": "2610", "remark": "" },
+      { "roomNo": "2611", "remark": "" },
+      { "roomNo": "2612", "remark": "" },
+      { "roomNo": "2613", "remark": "" }
+    ]
+  },
+  "26F-C_2613_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2613_BV_0000",
+    "r_device_id": "C_2613_DO_0000",
+    "devices": [{ "roomNo": "茶歇休闲", "remark": "" }]
+  },
+  "26F-C_2613_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2613_BV_0001",
+    "r_device_id": "C_2613_DO_0001",
+    "devices": [
+      { "roomNo": "2615", "remark": "" },
+      { "roomNo": "2616", "remark": "" }
+    ]
+  },
+  "26F-C_2614_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2614_BV_0000",
+    "r_device_id": "C_2614_DO_0000",
+    "devices": [{ "roomNo": "2614", "remark": "" }]
+  },
+  "26F-C_2615_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2615_BV_0000",
+    "r_device_id": "C_2615_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北边单筒灯+西边单筒灯" }]
+  },
+  "27F-C_2701_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2701_BV_0000",
+    "r_device_id": "C_2701_DO_0000",
+    "devices": [{ "roomNo": "2719", "remark": "" }]
+  },
+  "27F-C_2701_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2701_BV_0001",
+    "r_device_id": "C_2701_DO_0001",
+    "devices": [{ "roomNo": "2717", "remark": "" }]
+  },
+  "27F-C_2701_DO_0002": {
+    "id": "3",
+    "w_device_id": "C_2701_BV_0002",
+    "r_device_id": "C_2701_DO_0002",
+    "devices": [{ "roomNo": "2718", "remark": "" }]
+  },
+  "27F-C_2702_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2702_BV_0000",
+    "r_device_id": "C_2702_DO_0000",
+    "devices": [
+      { "roomNo": "2715", "remark": "" },
+      { "roomNo": "2716", "remark": "" }
+    ]
+  },
+  "27F-C_2702_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2702_BV_0001",
+    "r_device_id": "C_2702_DO_0001",
+    "devices": [{ "roomNo": "茶歇休闲", "remark": "" }]
+  },
+  "27F-C_2703_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2703_BV_0000",
+    "r_device_id": "C_2703_DO_0000",
+    "devices": [{ "roomNo": "2723", "remark": "" }]
+  },
+  "27F-C_2703_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2703_BV_0001",
+    "r_device_id": "C_2703_DO_0001",
+    "devices": [{ "roomNo": "2724", "remark": "" }]
+  },
+  "27F-C_2704_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2704_BV_0000",
+    "r_device_id": "C_2704_DO_0000",
+    "devices": [{ "roomNo": "2720", "remark": "" }]
+  },
+  "27F-C_2704_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2704_BV_0001",
+    "r_device_id": "C_2704_DO_0001",
+    "devices": [
+      { "roomNo": "2721", "remark": "" },
+      { "roomNo": "2722", "remark": "" }
+    ]
+  },
+  "27F-C_2706_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2706_BV_0000",
+    "r_device_id": "C_2706_DO_0000",
+    "devices": [{ "roomNo": "2726", "remark": "" }]
+  },
+  "27F-C_2707_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2707_BV_0001",
+    "r_device_id": "C_2707_DO_0001",
+    "devices": [
+      { "roomNo": "2727", "remark": "" },
+      { "roomNo": "2728", "remark": "" }
+    ]
+  },
+  "27F-C_2708_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2708_BV_0000",
+    "r_device_id": "C_2708_DO_0000",
+    "devices": [{ "roomNo": "2730", "remark": "" }]
+  },
+  "27F-C_2709_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2709_BV_0000",
+    "r_device_id": "C_2709_DO_0000",
+    "devices": [{ "roomNo": "2731", "remark": "" }]
+  },
+  "27F-C_2710_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2710_BV_0000",
+    "r_device_id": "C_2710_DO_0000",
+    "devices": [{ "roomNo": "2701", "remark": "" }]
+  },
+  "27F-C_2711_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2711_BV_0000",
+    "r_device_id": "C_2711_DO_0000",
+    "devices": [{ "roomNo": "2703", "remark": "" }]
+  },
+  "27F-C_2712_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2712_BV_0000",
+    "r_device_id": "C_2712_DO_0000",
+    "devices": [{ "roomNo": "2702", "remark": "" }]
+  },
+  "27F-C_2714_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2714_BV_0000",
+    "r_device_id": "C_2714_DO_0000",
+    "devices": [
+      { "roomNo": "2704", "remark": "" },
+      { "roomNo": "2705", "remark": "" }
+    ]
+  },
+  "27F-C_2715_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2715_BV_0000",
+    "r_device_id": "C_2715_DO_0000",
+    "devices": [{ "roomNo": "2708", "remark": "" }]
+  },
+  "27F-C_2716_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2716_BV_0000",
+    "r_device_id": "C_2716_DO_0000",
+    "devices": [{ "roomNo": "2709", "remark": "" }]
+  },
+  "27F-C_2717_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2717_BV_0001",
+    "r_device_id": "C_2717_DO_0001",
+    "devices": [{ "roomNo": "2710", "remark": "" }]
+  },
+  "27F-C_2718_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2718_BV_0000",
+    "r_device_id": "C_2718_DO_0000",
+    "devices": [{ "roomNo": "2712", "remark": "" }]
+  },
+  "27F-C_2719_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2719_BV_0000",
+    "r_device_id": "C_2719_DO_0000",
+    "devices": [{ "roomNo": "2714", "remark": "" }]
+  },
+  "27F-C_2720_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2720_BV_0000",
+    "r_device_id": "C_2720_DO_0000",
+    "devices": [{ "roomNo": "2713", "remark": "" }]
+  },
+  "27F-C_2721_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2721_BV_0000",
+    "r_device_id": "C_2721_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北边单筒灯+西边单筒灯" }]
+  },
+  "27F-C_2722_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2722_BV_0000",
+    "r_device_id": "C_2722_DO_0000",
+    "devices": [{ "roomNo": "2711", "remark": "" }]
+  },
+  "28F-C_2801_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2801_BV_0000",
+    "r_device_id": "C_2801_DO_0000",
+    "devices": [{ "roomNo": "2819", "remark": "" }]
+  },
+  "28F-C_2801_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2801_BV_0001",
+    "r_device_id": "C_2801_DO_0001",
+    "devices": [{ "roomNo": "2818", "remark": "" }]
+  },
+  "28F-C_2803_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2803_BV_0000",
+    "r_device_id": "C_2803_DO_0000",
+    "devices": [{ "roomNo": "2821", "remark": "" }]
+  },
+  "28F-C_2803_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2803_BV_0001",
+    "r_device_id": "C_2803_DO_0001",
+    "devices": [{ "roomNo": "2820", "remark": "" }]
+  },
+  "28F-C_2804_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2804_BV_0000",
+    "r_device_id": "C_2804_DO_0000",
+    "devices": [{ "roomNo": "2824", "remark": "" }]
+  },
+  "28F-C_2804_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2804_BV_0001",
+    "r_device_id": "C_2804_DO_0001",
+    "devices": [{ "roomNo": "2823", "remark": "" }]
+  },
+  "28F-C_2806_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2806_BV_0000",
+    "r_device_id": "C_2806_DO_0000",
+    "devices": [
+      { "roomNo": "2827", "remark": "" },
+      { "roomNo": "2828", "remark": "" }
+    ]
+  },
+  "28F-C_2806_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2806_BV_0001",
+    "r_device_id": "C_2806_DO_0001",
+    "devices": [{ "roomNo": "2826", "remark": "" }]
+  },
+  "28F-C_2807_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2807_BV_0000",
+    "r_device_id": "C_2807_DO_0000",
+    "devices": [{ "roomNo": "2829", "remark": "" }]
+  },
+  "28F-C_2808_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2808_BV_0000",
+    "r_device_id": "C_2808_DO_0000",
+    "devices": [
+      { "roomNo": "2801", "remark": "" },
+      { "roomNo": "2802", "remark": "" },
+      { "roomNo": "2803", "remark": "" },
+      { "roomNo": "2804", "remark": "" },
+      { "roomNo": "2805", "remark": "" }
+    ]
+  },
+  "28F-C_2811_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2811_BV_0000",
+    "r_device_id": "C_2811_DO_0000",
+    "devices": [{ "roomNo": "2813", "remark": "" }]
+  },
+  "28F-C_2812_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2812_BV_0000",
+    "r_device_id": "C_2812_DO_0000",
+    "devices": [{ "roomNo": "2812", "remark": "" }]
+  },
+  "28F-C_2812_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2812_BV_0001",
+    "r_device_id": "C_2812_DO_0001",
+    "devices": [{ "roomNo": "2811", "remark": "" }]
+  },
+  "28F-C_2813_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2813_BV_0000",
+    "r_device_id": "C_2813_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北边单筒灯+西边单筒灯" }]
+  },
+  "28F-C_2814_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2814_BV_0000",
+    "r_device_id": "C_2814_DO_0000",
+    "devices": [
+      { "roomNo": "2814", "remark": "" },
+      { "roomNo": "2815", "remark": "" }
+    ]
+  },
+  "28F-C_2814_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2814_BV_0001",
+    "r_device_id": "C_2814_DO_0001",
+    "devices": [{ "roomNo": "茶歇休闲", "remark": "" }]
+  },
+  "29F-C_2901_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2901_BV_0000",
+    "r_device_id": "C_2901_DO_0000",
+    "devices": [
+      { "roomNo": "2915", "remark": "" },
+      { "roomNo": "2916", "remark": "" }
+    ]
+  },
+  "29F-C_2902_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2902_BV_0000",
+    "r_device_id": "C_2902_DO_0000",
+    "devices": [{ "roomNo": "2918", "remark": "" }]
+  },
+  "29F-C_2902_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2902_BV_0001",
+    "r_device_id": "C_2902_DO_0001",
+    "devices": [{ "roomNo": "2917", "remark": "" }]
+  },
+  "29F-C_2903_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2903_BV_0000",
+    "r_device_id": "C_2903_DO_0000",
+    "devices": [{ "roomNo": "2920", "remark": "" }]
+  },
+  "29F-C_2903_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2903_BV_0001",
+    "r_device_id": "C_2903_DO_0001",
+    "devices": [
+      { "roomNo": "2919", "remark": "" },
+      { "roomNo": "2921", "remark": "" }
+    ]
+  },
+  "29F-C_2904_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2904_BV_0001",
+    "r_device_id": "C_2904_DO_0001",
+    "devices": [{ "roomNo": "2922", "remark": "右边灯" }]
+  },
+  "29F-C_2906_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2906_BV_0000",
+    "r_device_id": "C_2906_DO_0000",
+    "devices": [
+      { "roomNo": "2927", "remark": "" },
+      { "roomNo": "2928", "remark": "" }
+    ]
+  },
+  "29F-C_2906_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2906_BV_0001",
+    "r_device_id": "C_2906_DO_0001",
+    "devices": [{ "roomNo": "2926", "remark": "" }]
+  },
+  "29F-C_2907_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2907_BV_0000",
+    "r_device_id": "C_2907_DO_0000",
+    "devices": [{ "roomNo": "2929", "remark": "" }]
+  },
+  "29F-C_2908_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2908_BV_0000",
+    "r_device_id": "C_2908_DO_0000",
+    "devices": [{ "roomNo": "2901", "remark": "" }]
+  },
+  "29F-C_2909_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2909_BV_0000",
+    "r_device_id": "C_2909_DO_0000",
+    "devices": [{ "roomNo": "2914", "remark": "" }]
+  },
+  "29F-C_2910_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2910_BV_0000",
+    "r_device_id": "C_2910_DO_0000",
+    "devices": [{ "roomNo": "茶歇休闲", "remark": "大灯" }]
+  },
+  "29F-C_2910_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_2910_BV_0001",
+    "r_device_id": "C_2910_DO_0001",
+    "devices": [{ "roomNo": "茶歇休闲", "remark": "灯带" }]
+  },
+  "29F-C_2911_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2911_BV_0000",
+    "r_device_id": "C_2911_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北边单筒灯+西边单筒灯" }]
+  },
+  "29F-C_2913_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_2913_BV_0000",
+    "r_device_id": "C_2913_DO_0000",
+    "devices": [{ "roomNo": "2913", "remark": "" }]
+  },
+  "30F-C_3001_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3001_BV_0000",
+    "r_device_id": "C_3001_DO_0000",
+    "devices": [
+      { "roomNo": "3020", "remark": "" },
+      { "roomNo": "3021", "remark": "" }
+    ]
+  },
+  "30F-C_3001_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3001_BV_0001",
+    "r_device_id": "C_3001_DO_0001",
+    "devices": [{ "roomNo": "3019", "remark": "" }]
+  },
+  "30F-C_3002_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3002_BV_0000",
+    "r_device_id": "C_3002_DO_0000",
+    "devices": [{ "roomNo": "3023", "remark": "" }]
+  },
+  "30F-C_3002_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3002_BV_0001",
+    "r_device_id": "C_3002_DO_0001",
+    "devices": [{ "roomNo": "3022", "remark": "" }]
+  },
+  "30F-C_3003_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3003_BV_0000",
+    "r_device_id": "C_3003_DO_0000",
+    "devices": [{ "roomNo": "3024", "remark": "" }]
+  },
+  "30F-C_3003_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3003_BV_0001",
+    "r_device_id": "C_3003_DO_0001",
+    "devices": [{ "roomNo": "3024", "remark": "" }]
+  },
+  "30F-C_3005_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3005_BV_0000",
+    "r_device_id": "C_3005_DO_0000",
+    "devices": [{ "roomNo": "3027", "remark": "" }]
+  },
+  "30F-C_3005_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3005_BV_0001",
+    "r_device_id": "C_3005_DO_0001",
+    "devices": [
+      { "roomNo": "3028", "remark": "" },
+      { "roomNo": "3029", "remark": "" }
+    ]
+  },
+  "30F-C_3006_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3006_BV_0000",
+    "r_device_id": "C_3006_DO_0000",
+    "devices": [{ "roomNo": "3030", "remark": "" }]
+  },
+  "30F-C_3007_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3007_BV_0000",
+    "r_device_id": "C_3007_DO_0000",
+    "devices": [{ "roomNo": "3001", "remark": "" }]
+  },
+  "30F-C_3008_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3008_BV_0000",
+    "r_device_id": "C_3008_DO_0000",
+    "devices": [{ "roomNo": "3014", "remark": "" }]
+  },
+  "30F-C_3009_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3009_BV_0000",
+    "r_device_id": "C_3009_DO_0000",
+    "devices": [{ "roomNo": "茶歇休闲", "remark": "筒灯" }]
+  },
+  "30F-C_3009_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3009_BV_0001",
+    "r_device_id": "C_3009_DO_0001",
+    "devices": [{ "roomNo": "茶歇休闲", "remark": "大灯+灯带" }]
+  },
+  "30F-C_3010_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3010_BV_0000",
+    "r_device_id": "C_3010_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北边单筒灯+西边单筒灯" }]
+  },
+  "30F-C_3011_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3011_BV_0000",
+    "r_device_id": "C_3011_DO_0000",
+    "devices": [
+      { "roomNo": "3015", "remark": "" },
+      { "roomNo": "3016", "remark": "" },
+      { "roomNo": "3017", "remark": "" }
+    ]
+  },
+  "30F-C_3011_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3011_BV_0001",
+    "r_device_id": "C_3011_DO_0001",
+    "devices": [{ "roomNo": "3018", "remark": "" }]
+  },
+  "30F-C_3013_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3013_BV_0000",
+    "r_device_id": "C_3013_DO_0000",
+    "devices": [{ "roomNo": "3013", "remark": "" }]
+  },
+  "31F-C_3101_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3101_BV_0000",
+    "r_device_id": "C_3101_DO_0000",
+    "devices": [{ "roomNo": "3118", "remark": "" }]
+  },
+  "31F-C_3101_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3101_BV_0001",
+    "r_device_id": "C_3101_DO_0001",
+    "devices": [
+      { "roomNo": "3115", "remark": "" },
+      { "roomNo": "3116", "remark": "" },
+      { "roomNo": "3117", "remark": "" }
+    ]
+  },
+  "31F-C_3103_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3103_BV_0000",
+    "r_device_id": "C_3103_DO_0000",
+    "devices": [{ "roomNo": "3122", "remark": "" }]
+  },
+  "31F-C_3103_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3103_BV_0001",
+    "r_device_id": "C_3103_DO_0001",
+    "devices": [
+      { "roomNo": "3123", "remark": "" },
+      { "roomNo": "3124", "remark": "" },
+      { "roomNo": "3125", "remark": "" }
+    ]
+  },
+  "31F-C_3104_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3104_BV_0000",
+    "r_device_id": "C_3104_DO_0000",
+    "devices": [{ "roomNo": "3126", "remark": "" }]
+  },
+  "31F-C_3104_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3104_BV_0001",
+    "r_device_id": "C_3104_DO_0001",
+    "devices": [
+      { "roomNo": "3127", "remark": "" },
+      { "roomNo": "3128", "remark": "" }
+    ]
+  },
+  "31F-C_3105_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3105_BV_0000",
+    "r_device_id": "C_3105_DO_0000",
+    "devices": [{ "roomNo": "3129", "remark": "" }]
+  },
+  "31F-C_3106_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3106_BV_0000",
+    "r_device_id": "C_3106_DO_0000",
+    "devices": [{ "roomNo": "3130", "remark": "" }]
+  },
+  "31F-C_3107_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3107_BV_0000",
+    "r_device_id": "C_3107_DO_0000",
+    "devices": [{ "roomNo": "3113", "remark": "" }]
+  },
+  "31F-C_3108_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3108_BV_0000",
+    "r_device_id": "C_3108_DO_0000",
+    "devices": [{ "roomNo": "3114", "remark": "大灯" }]
+  },
+  "31F-C_3108_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3108_BV_0001",
+    "r_device_id": "C_3108_DO_0001",
+    "devices": [{ "roomNo": "3114", "remark": "筒灯+灯带" }]
+  },
+  "31F-C_3109_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3109_BV_0000",
+    "r_device_id": "C_3109_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "北边单筒灯+西边单筒灯" }]
+  },
+  "31F-C_3110_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3110_BV_0000",
+    "r_device_id": "C_3110_DO_0000",
+    "devices": [{ "roomNo": "3112", "remark": "" }]
+  },
+  "32F-C_3201_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3201_BV_0000",
+    "r_device_id": "C_3201_DO_0000",
+    "devices": [
+      { "roomNo": "3211", "remark": "" },
+      { "roomNo": "3212", "remark": "" }
+    ]
+  },
+  "32F-C_3201_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3201_BV_0001",
+    "r_device_id": "C_3201_DO_0001",
+    "devices": [{ "roomNo": "3213", "remark": "" }]
+  },
+  "32F-C_3202_DO_0002": {
+    "id": "3",
+    "w_device_id": "C_3202_BV_0002",
+    "r_device_id": "C_3202_DO_0002",
+    "devices": [
+      { "roomNo": "3216", "remark": "" },
+      { "roomNo": "3217", "remark": "" }
+    ]
+  },
+  "32F-C_3203_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3203_BV_0000",
+    "r_device_id": "C_3203_DO_0000",
+    "devices": [{ "roomNo": "3218", "remark": "" }]
+  },
+  "32F-C_3203_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_3203_BV_0001",
+    "r_device_id": "C_3203_DO_0001",
+    "devices": [
+      { "roomNo": "3219", "remark": "" },
+      { "roomNo": "3220", "remark": "" },
+      { "roomNo": "3221", "remark": "" }
+    ]
+  },
+  "32F-C_3205_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3205_BV_0000",
+    "r_device_id": "C_3205_DO_0000",
+    "devices": [{ "roomNo": "3223", "remark": "" }]
+  },
+  "32F-C_3206_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3206_BV_0000",
+    "r_device_id": "C_3206_DO_0000",
+    "devices": [{ "roomNo": "3224", "remark": "" }]
+  },
+  "32F-C_3207_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3207_BV_0000",
+    "r_device_id": "C_3207_DO_0000",
+    "devices": [
+      { "roomNo": "3202", "remark": "" },
+      { "roomNo": "3203", "remark": "" }
+    ]
+  },
+  "32F-C_3208_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3208_BV_0000",
+    "r_device_id": "C_3208_DO_0000",
+    "devices": [{ "roomNo": "3206", "remark": "大灯+灯带" }]
+  },
+  "32F-C_3208_DO_0002": {
+    "id": "3",
+    "w_device_id": "C_3208_BV_0002",
+    "r_device_id": "C_3208_DO_0002",
+    "devices": [
+      { "roomNo": "3204", "remark": "" },
+      { "roomNo": "3205", "remark": "" },
+      { "roomNo": "3206", "remark": "筒灯" }
+    ]
+  },
+  "32F-C_3209_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3209_BV_0000",
+    "r_device_id": "C_3209_DO_0000",
+    "devices": [{ "roomNo": "3210", "remark": "" }]
+  },
+  "32F-C_3210_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3210_BV_0000",
+    "r_device_id": "C_3210_DO_0000",
+    "devices": [
+      { "roomNo": "3207", "remark": "" },
+      { "roomNo": "3208", "remark": "" }
+    ]
+  },
+  "32F-C_3212_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_3211_BV_0000",
+    "r_device_id": "C_3212_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "西边前台-筒灯" }]
+  },
+  "4F-C_409_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_409_BV_0000",
+    "r_device_id": "C_409_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "东单筒灯+南单筒灯" }]
+  },
+  "5F-C_501_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_501_BV_0000",
+    "r_device_id": "C_501_DO_0000",
+    "devices": [
+      { "roomNo": "505", "remark": "" },
+      { "roomNo": "506", "remark": "" },
+      { "roomNo": "507", "remark": "" }
+    ]
+  },
+  "5F-C_502_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_502_BV_0000",
+    "r_device_id": "C_502_DO_0000",
+    "devices": [
+      { "roomNo": "508", "remark": "" },
+      { "roomNo": "509", "remark": "" }
+    ]
+  },
+  "5F-C_504_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_504_BV_0000",
+    "r_device_id": "C_504_DO_0000",
+    "devices": [
+      { "roomNo": "511", "remark": "" },
+      { "roomNo": "512", "remark": "" },
+      { "roomNo": "513", "remark": "" }
+    ]
+  },
+  "5F-C_505_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_505_BV_0000",
+    "r_device_id": "C_505_DO_0000",
+    "devices": [
+      { "roomNo": "514", "remark": "" },
+      { "roomNo": "515", "remark": "" }
+    ]
+  },
+  "5F-C_506_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_506_BV_0000",
+    "r_device_id": "C_506_DO_0000",
+    "devices": [
+      { "roomNo": "516", "remark": "" },
+      { "roomNo": "517", "remark": "" }
+    ]
+  },
+  "5F-C_507_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_507_BV_0000",
+    "r_device_id": "C_507_DO_0000",
+    "devices": [{ "roomNo": "518", "remark": "" }]
+  },
+  "5F-C_508_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_508_BV_0000",
+    "r_device_id": "C_508_DO_0000",
+    "devices": [
+      { "roomNo": "519", "remark": "" },
+      { "roomNo": "520", "remark": "" }
+    ]
+  },
+  "5F-C_510_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_510_BV_0000",
+    "r_device_id": "C_510_DO_0000",
+    "devices": [
+      { "roomNo": "523", "remark": "" },
+      { "roomNo": "524", "remark": "" }
+    ]
+  },
+  "5F-C_511_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_511_BV_0000",
+    "r_device_id": "C_511_DO_0000",
+    "devices": [
+      { "roomNo": "501", "remark": "" },
+      { "roomNo": "502", "remark": "" }
+    ]
+  },
+  "5F-C_512_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_512_BV_0000",
+    "r_device_id": "C_512_DO_0000",
+    "devices": [
+      { "roomNo": "525", "remark": "" },
+      { "roomNo": "526", "remark": "" },
+      { "roomNo": "527", "remark": "" },
+      { "roomNo": "528", "remark": "" }
+    ]
+  },
+  "5F-C_513_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_513_BV_0000",
+    "r_device_id": "C_513_DO_0000",
+    "devices": [
+      { "roomNo": "531", "remark": "" },
+      { "roomNo": "532", "remark": "" }
+    ]
+  },
+  "5F-C_514_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_514_BV_0000",
+    "r_device_id": "C_514_DO_0000",
+    "devices": [
+      { "roomNo": "529", "remark": "" },
+      { "roomNo": "530", "remark": "" }
+    ]
+  },
+  "5F-C_515_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_515_BV_0000",
+    "r_device_id": "C_515_DO_0000",
+    "devices": [{ "roomNo": "522", "remark": "" }]
+  },
+  "5F-C_516_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_516_BV_0000",
+    "r_device_id": "C_516_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "东单筒灯+南单筒灯+东南角公区" }]
+  },
+  "6F-C_601_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_601_BV_0000",
+    "r_device_id": "C_601_DO_0000",
+    "devices": [
+      { "roomNo": "604", "remark": "" },
+      { "roomNo": "605", "remark": "" }
+    ]
+  },
+  "6F-C_601_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_601_BV_0001",
+    "r_device_id": "C_601_DO_0001",
+    "devices": [{ "roomNo": "606", "remark": "" }]
+  },
+  "6F-C_604_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_604_BV_0000",
+    "r_device_id": "C_604_DO_0000",
+    "devices": [{ "roomNo": "610", "remark": "" }]
+  },
+  "6F-C_604_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_604_BV_0001",
+    "r_device_id": "C_604_DO_0001",
+    "devices": [{ "roomNo": "611", "remark": "" }]
+  },
+  "6F-C_605_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_605_BV_0000",
+    "r_device_id": "C_605_DO_0000",
+    "devices": [{ "roomNo": "613", "remark": "" }]
+  },
+  "6F-C_605_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_605_BV_0001",
+    "r_device_id": "C_605_DO_0001",
+    "devices": [{ "roomNo": "614", "remark": "" }]
+  },
+  "6F-C_607_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_607_BV_0000",
+    "r_device_id": "C_607_DO_0000",
+    "devices": [{ "roomNo": "616", "remark": "" }]
+  },
+  "6F-C_609_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_609_BV_0000",
+    "r_device_id": "C_609_DO_0000",
+    "devices": [{ "roomNo": "621", "remark": "" }]
+  },
+  "6F-C_610_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_610_BV_0000",
+    "r_device_id": "C_610_DO_0000",
+    "devices": [{ "roomNo": "624", "remark": "" }]
+  },
+  "6F-C_610_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_610_BV_0001",
+    "r_device_id": "C_610_DO_0001",
+    "devices": [{ "roomNo": "623", "remark": "" }]
+  },
+  "6F-C_611_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_611_BV_0000",
+    "r_device_id": "C_611_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "" }]
+  },
+  "6F-C_612_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_612_BV_0000",
+    "r_device_id": "C_612_DO_0000",
+    "devices": [{ "roomNo": "626", "remark": "" }]
+  },
+  "6F-C_612_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_612_BV_0001",
+    "r_device_id": "C_612_DO_0001",
+    "devices": [
+      { "roomNo": "625", "remark": "" },
+      { "roomNo": "627", "remark": "" }
+    ]
+  },
+  "6F-C_614_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_614_BV_0000",
+    "r_device_id": "C_614_DO_0000",
+    "devices": [
+      { "roomNo": "601", "remark": "" },
+      { "roomNo": "602", "remark": "" },
+      { "roomNo": "603", "remark": "" }
+    ]
+  },
+  "7F-C_7001_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7001_BV_0000",
+    "r_device_id": "C_7001_DO_0000",
+    "devices": [{ "roomNo": "707", "remark": "" }]
+  },
+  "7F-C_7001_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_7001_BV_0001",
+    "r_device_id": "C_7001_DO_0001",
+    "devices": [
+      { "roomNo": "705", "remark": "" },
+      { "roomNo": "706", "remark": "" }
+    ]
+  },
+  "7F-C_7002_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7002_BV_0000",
+    "r_device_id": "C_7002_DO_0000",
+    "devices": [{ "roomNo": "708", "remark": "" }]
+  },
+  "7F-C_7003_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7003_BV_0000",
+    "r_device_id": "C_7003_DO_0000",
+    "devices": [
+      { "roomNo": "709", "remark": "" },
+      { "roomNo": "710", "remark": "" }
+    ]
+  },
+  "7F-C_7004_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7004_BV_0000",
+    "r_device_id": "C_7004_DO_0000",
+    "devices": [
+      { "roomNo": "711", "remark": "" },
+      { "roomNo": "712", "remark": "" }
+    ]
+  },
+  "7F-C_7005_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7005_BV_0000",
+    "r_device_id": "C_7005_DO_0000",
+    "devices": [{ "roomNo": "713", "remark": "" }]
+  },
+  "7F-C_7005_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_7005_BV_0001",
+    "r_device_id": "C_7005_DO_0001",
+    "devices": [{ "roomNo": "714", "remark": "" }]
+  },
+  "7F-C_7006_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7006_BV_0000",
+    "r_device_id": "C_7006_DO_0000",
+    "devices": [
+      { "roomNo": "715", "remark": "" },
+      { "roomNo": "716", "remark": "" }
+    ]
+  },
+  "7F-C_7007_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7007_BV_0000",
+    "r_device_id": "C_7007_DO_0000",
+    "devices": [
+      { "roomNo": "717", "remark": "" },
+      { "roomNo": "718", "remark": "" },
+      { "roomNo": "719", "remark": "" }
+    ]
+  },
+  "7F-C_7008_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7008_BV_0000",
+    "r_device_id": "C_7008_DO_0000",
+    "devices": [{ "roomNo": "720", "remark": "" }]
+  },
+  "7F-C_7009_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7009_BV_0000",
+    "r_device_id": "C_7009_DO_0000",
+    "devices": [{ "roomNo": "721", "remark": "" }]
+  },
+  "7F-C_7010_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7010_BV_0000",
+    "r_device_id": "C_7010_DO_0000",
+    "devices": [
+      { "roomNo": "722", "remark": "" },
+      { "roomNo": "723", "remark": "" }
+    ]
+  },
+  "7F-C_7010_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_7010_BV_0001",
+    "r_device_id": "C_7010_DO_0001",
+    "devices": [{ "roomNo": "724", "remark": "" }]
+  },
+  "7F-C_7011_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7011_BV_0000",
+    "r_device_id": "C_7011_DO_0000",
+    "devices": [{ "roomNo": "732", "remark": "" }]
+  },
+  "7F-C_7012_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7012_BV_0000",
+    "r_device_id": "C_7012_DO_0000",
+    "devices": [
+      { "roomNo": "725", "remark": "" },
+      { "roomNo": "726", "remark": "" }
+    ]
+  },
+  "7F-C_7013_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7013_BV_0000",
+    "r_device_id": "C_7013_DO_0000",
+    "devices": [
+      { "roomNo": "730", "remark": "" },
+      { "roomNo": "731", "remark": "" }
+    ]
+  },
+  "7F-C_7013_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_7013_BV_0001",
+    "r_device_id": "C_7013_DO_0001",
+    "devices": [
+      { "roomNo": "701", "remark": "" },
+      { "roomNo": "702", "remark": "" }
+    ]
+  },
+  "7F-C_7015_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7015_BV_0000",
+    "r_device_id": "C_7015_DO_0000",
+    "devices": [
+      { "roomNo": "703", "remark": "" },
+      { "roomNo": "704", "remark": "" }
+    ]
+  },
+  "7F-C_7016_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_7016_BV_0000",
+    "r_device_id": "C_7016_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "东单筒灯+南单筒灯+电梯厅" }]
+  },
+  "8F-C_8001_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8001_BV_0000",
+    "r_device_id": "C_8001_DO_0000",
+    "devices": [
+      { "roomNo": "805", "remark": "" },
+      { "roomNo": "806", "remark": "" }
+    ]
+  },
+  "8F-C_8002_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8002_BV_0000",
+    "r_device_id": "C_8002_DO_0000",
+    "devices": [
+      { "roomNo": "807", "remark": "" },
+      { "roomNo": "808", "remark": "" },
+      { "roomNo": "809", "remark": "" },
+      { "roomNo": "810", "remark": "" }
+    ]
+  },
+  "8F-C_8003_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8003_BV_0000",
+    "r_device_id": "C_8003_DO_0000",
+    "devices": [
+      { "roomNo": "811", "remark": "" },
+      { "roomNo": "812", "remark": "" },
+      { "roomNo": "814", "remark": "" }
+    ]
+  },
+  "8F-C_8004_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8004_BV_0000",
+    "r_device_id": "C_8004_DO_0000",
+    "devices": [
+      { "roomNo": "813", "remark": "" },
+      { "roomNo": "815", "remark": "" }
+    ]
+  },
+  "8F-C_8006_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8006_BV_0000",
+    "r_device_id": "C_8006_DO_0000",
+    "devices": [
+      { "roomNo": "817", "remark": "" },
+      { "roomNo": "818", "remark": "" }
+    ]
+  },
+  "8F-C_8008_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8008_BV_0000",
+    "r_device_id": "C_8008_DO_0000",
+    "devices": [{ "roomNo": "820", "remark": "" }]
+  },
+  "8F-C_8009_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8009_BV_0000",
+    "r_device_id": "C_8009_DO_0000",
+    "devices": [
+      { "roomNo": "825", "remark": "" },
+      { "roomNo": "826", "remark": "" }
+    ]
+  },
+  "8F-C_8009_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_8009_BV_0001",
+    "r_device_id": "C_8009_DO_0001",
+    "devices": [
+      { "roomNo": "823", "remark": "" },
+      { "roomNo": "824", "remark": "" }
+    ]
+  },
+  "8F-C_8010_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8010_BV_0000",
+    "r_device_id": "C_8010_DO_0000",
+    "devices": [
+      { "roomNo": "827", "remark": "" },
+      { "roomNo": "828", "remark": "" },
+      { "roomNo": "830", "remark": "" }
+    ]
+  },
+  "8F-C_8011_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8011_BV_0000",
+    "r_device_id": "C_8011_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "东筒灯+南筒灯" }]
+  },
+  "8F-C_8012_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8012_BV_0000",
+    "r_device_id": "C_8012_DO_0000",
+    "devices": [
+      { "roomNo": "829", "remark": "" },
+      { "roomNo": "831", "remark": "" }
+    ]
+  },
+  "8F-C_8014_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8014_BV_0000",
+    "r_device_id": "C_8014_DO_0000",
+    "devices": [
+      { "roomNo": "801", "remark": "" },
+      { "roomNo": "802", "remark": "" }
+    ]
+  },
+  "8F-C_8015_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_8015_BV_0000",
+    "r_device_id": "C_8015_DO_0000",
+    "devices": [{ "roomNo": "819", "remark": "" }]
+  },
+  "9F-C_9001_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9001_BV_0000",
+    "r_device_id": "C_9001_DO_0000",
+    "devices": [
+      { "roomNo": "905", "remark": "" },
+      { "roomNo": "906", "remark": "" },
+      { "roomNo": "907", "remark": "" }
+    ]
+  },
+  "9F-C_9002_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9002_BV_0000",
+    "r_device_id": "C_9002_DO_0000",
+    "devices": [
+      { "roomNo": "908", "remark": "" },
+      { "roomNo": "909", "remark": "" }
+    ]
+  },
+  "9F-C_9004_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9004_BV_0000",
+    "r_device_id": "C_9004_DO_0000",
+    "devices": [
+      { "roomNo": "911", "remark": "" },
+      { "roomNo": "912", "remark": "" }
+    ]
+  },
+  "9F-C_9004_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_9004_BV_0001",
+    "r_device_id": "C_9004_DO_0001",
+    "devices": [{ "roomNo": "913", "remark": "" }]
+  },
+  "9F-C_9005_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9005_BV_0000",
+    "r_device_id": "C_9005_DO_0000",
+    "devices": [{ "roomNo": "914", "remark": "" }]
+  },
+  "9F-C_9005_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_9005_BV_0001",
+    "r_device_id": "C_9005_DO_0001",
+    "devices": [{ "roomNo": "915", "remark": "" }]
+  },
+  "9F-C_9006_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9006_BV_0000",
+    "r_device_id": "C_9006_DO_0000",
+    "devices": [{ "roomNo": "916", "remark": "" }]
+  },
+  "9F-C_9006_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_9006_BV_0001",
+    "r_device_id": "C_9006_DO_0001",
+    "devices": [{ "roomNo": "917", "remark": "" }]
+  },
+  "9F-C_9007_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9007_BV_0000",
+    "r_device_id": "C_9007_DO_0000",
+    "devices": [{ "roomNo": "920", "remark": "" }]
+  },
+  "9F-C_9008_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9008_BV_0000",
+    "r_device_id": "C_9008_DO_0000",
+    "devices": [{ "roomNo": "919", "remark": "" }]
+  },
+  "9F-C_9009_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9009_BV_0000",
+    "r_device_id": "C_9009_DO_0000",
+    "devices": [{ "roomNo": "921", "remark": "" }]
+  },
+  "9F-C_9010_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9010_BV_0000",
+    "r_device_id": "C_9010_DO_0000",
+    "devices": [{ "roomNo": "922", "remark": "" }]
+  },
+  "9F-C_9011_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9011_BV_0000",
+    "r_device_id": "C_9011_DO_0000",
+    "devices": [
+      { "roomNo": "931", "remark": "" },
+      { "roomNo": "932", "remark": "" }
+    ]
+  },
+  "9F-C_9012_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9012_BV_0000",
+    "r_device_id": "C_9012_DO_0000",
+    "devices": [
+      { "roomNo": "923", "remark": "" },
+      { "roomNo": "924", "remark": "" }
+    ]
+  },
+  "9F-C_9013_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9013_BV_0000",
+    "r_device_id": "C_9013_DO_0000",
+    "devices": [
+      { "roomNo": "929", "remark": "" },
+      { "roomNo": "930", "remark": "" }
+    ]
+  },
+  "9F-C_9014_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9014_BV_0000",
+    "r_device_id": "C_9014_DO_0000",
+    "devices": [
+      { "roomNo": "925", "remark": "" },
+      { "roomNo": "926", "remark": "" }
+    ]
+  },
+  "9F-C_9014_DO_0001": {
+    "id": "2",
+    "w_device_id": "C_9014_BV_0001",
+    "r_device_id": "C_9014_DO_0001",
+    "devices": [
+      { "roomNo": "927", "remark": "" },
+      { "roomNo": "928", "remark": "" }
+    ]
+  },
+  "9F-C_9015_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9015_BV_0000",
+    "r_device_id": "C_9015_DO_0000",
+    "devices": [
+      { "roomNo": "901", "remark": "" },
+      { "roomNo": "902", "remark": "" }
+    ]
+  },
+  "9F-C_9017_DO_0000": {
+    "id": "1",
+    "w_device_id": "C_9017_BV_0000",
+    "r_device_id": "C_9017_DO_0000",
+    "devices": [{ "roomNo": "公区", "remark": "电梯厅" }]
+  }
 }

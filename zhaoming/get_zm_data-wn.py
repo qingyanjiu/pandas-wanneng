@@ -5,7 +5,7 @@ import json
 map = {}
 columns = ['楼层', '房间号', '回路号', '开关控制', '开关反馈', '备注']
 
-df_f = pd.read_excel(f'/home/coder/project/pandas/zhaoming/zm.xlsx', sheet_name=0, usecols=lambda c: c in columns, skiprows=0)
+df_f = pd.read_excel(f'/Users/louisliu/Library/Mobile Documents/com~apple~CloudDocs/dev/皖能/灯控/皖能智能照明点表.xlsx', sheet_name=0, usecols=lambda c: c in columns, skiprows=0)
 df_f.rename(columns={'楼层': 'f', '房间号': 'roomNo', '回路号': 'id', '开关控制': 'w_device_id', '开关反馈': 'r_device_id', '备注': 'remark'}, inplace=True)
 
 df_f['f'] = df_f['f'].ffill()
@@ -37,6 +37,6 @@ for idx, g in grouped:
 
 mapStr = json.dumps(map, ensure_ascii=False)
         
-with open('/home/coder/project/pandas/zhaoming/zhaoming.json', 'w', encoding='utf-8') as f:
+with open('/Users/louisliu/dev/AI_projects/pandas-wanneng/zhaoming/zhaoming.json', 'w', encoding='utf-8') as f:
     f.write(mapStr)
 
