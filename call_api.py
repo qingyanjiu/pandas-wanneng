@@ -8,7 +8,7 @@ def call_api(url, params=None):
         return response.json()  # 返回 JSON 格式的响应内容，如果返回的是其他格式可以使用 response.text
     except requests.exceptions.RequestException as e:
         print(f"请求失败: {e}")
-        return None
+        return {}
 
 # 示例调用
 api_url = 'https://devapi.qweather.com/v7/weather/now'
