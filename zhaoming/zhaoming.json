@@ -2596,96 +2596,96 @@
     "r_device_id": "C_3212_DO_0000",
     "devices": [{ "roomNo": "公区", "remark": "西边前台-筒灯" }]
   },
-  "4F-C_409_DO_0000": {
+  "4F-C_4009_DO_0000": {
     "id": "1",
-    "w_device_id": "C_409_BV_0000",
-    "r_device_id": "C_409_DO_0000",
+    "w_device_id": "C_4009_BV_0000",
+    "r_device_id": "C_4009_DO_0000",
     "devices": [{ "roomNo": "公区", "remark": "东单筒灯+南单筒灯" }]
   },
-  "5F-C_501_DO_0000": {
+  "5F-C_5001_DO_0000": {
     "id": "1",
-    "w_device_id": "C_501_BV_0000",
-    "r_device_id": "C_501_DO_0000",
+    "w_device_id": "C_5001_BV_0000",
+    "r_device_id": "C_5001_DO_0000",
     "devices": [
       { "roomNo": "505", "remark": "" },
       { "roomNo": "506", "remark": "" },
       { "roomNo": "507", "remark": "" }
     ]
   },
-  "5F-C_502_DO_0000": {
+  "5F-C_5002_DO_0000": {
     "id": "1",
-    "w_device_id": "C_502_BV_0000",
-    "r_device_id": "C_502_DO_0000",
+    "w_device_id": "C_5002_BV_0000",
+    "r_device_id": "C_5002_DO_0000",
     "devices": [
       { "roomNo": "508", "remark": "" },
       { "roomNo": "509", "remark": "" }
     ]
   },
-  "5F-C_504_DO_0000": {
+  "5F-C_5004_DO_0000": {
     "id": "1",
-    "w_device_id": "C_504_BV_0000",
-    "r_device_id": "C_504_DO_0000",
+    "w_device_id": "C_5004_BV_0000",
+    "r_device_id": "C_5004_DO_0000",
     "devices": [
       { "roomNo": "511", "remark": "" },
       { "roomNo": "512", "remark": "" },
       { "roomNo": "513", "remark": "" }
     ]
   },
-  "5F-C_505_DO_0000": {
+  "5F-C_5005_DO_0000": {
     "id": "1",
-    "w_device_id": "C_505_BV_0000",
-    "r_device_id": "C_505_DO_0000",
+    "w_device_id": "C_5005_BV_0000",
+    "r_device_id": "C_5005_DO_0000",
     "devices": [
       { "roomNo": "514", "remark": "" },
       { "roomNo": "515", "remark": "" }
     ]
   },
-  "5F-C_506_DO_0000": {
+  "5F-C_5006_DO_0000": {
     "id": "1",
-    "w_device_id": "C_506_BV_0000",
-    "r_device_id": "C_506_DO_0000",
+    "w_device_id": "C_5006_BV_0000",
+    "r_device_id": "C_5006_DO_0000",
     "devices": [
       { "roomNo": "516", "remark": "" },
       { "roomNo": "517", "remark": "" }
     ]
   },
-  "5F-C_507_DO_0000": {
+  "5F-C_5007_DO_0000": {
     "id": "1",
-    "w_device_id": "C_507_BV_0000",
-    "r_device_id": "C_507_DO_0000",
+    "w_device_id": "C_5007_BV_0000",
+    "r_device_id": "C_5007_DO_0000",
     "devices": [{ "roomNo": "518", "remark": "" }]
   },
-  "5F-C_508_DO_0000": {
+  "5F-C_5008_DO_0000": {
     "id": "1",
-    "w_device_id": "C_508_BV_0000",
-    "r_device_id": "C_508_DO_0000",
+    "w_device_id": "C_5008_BV_0000",
+    "r_device_id": "C_5008_DO_0000",
     "devices": [
       { "roomNo": "519", "remark": "" },
       { "roomNo": "520", "remark": "" }
     ]
   },
-  "5F-C_510_DO_0000": {
+  "5F-C_5010_DO_0000": {
     "id": "1",
-    "w_device_id": "C_510_BV_0000",
-    "r_device_id": "C_510_DO_0000",
+    "w_device_id": "C_5010_BV_0000",
+    "r_device_id": "C_5010_DO_0000",
     "devices": [
       { "roomNo": "523", "remark": "" },
       { "roomNo": "524", "remark": "" }
     ]
   },
-  "5F-C_511_DO_0000": {
+  "5F-C_5011_DO_0000": {
     "id": "1",
-    "w_device_id": "C_511_BV_0000",
-    "r_device_id": "C_511_DO_0000",
+    "w_device_id": "C_5011_BV_0000",
+    "r_device_id": "C_5011_DO_0000",
     "devices": [
       { "roomNo": "501", "remark": "" },
       { "roomNo": "502", "remark": "" }
     ]
   },
-  "5F-C_512_DO_0000": {
+  "5F-C_5012_DO_0000": {
     "id": "1",
-    "w_device_id": "C_512_BV_0000",
-    "r_device_id": "C_512_DO_0000",
+    "w_device_id": "C_5012_BV_0000",
+    "r_device_id": "C_5012_DO_0000",
     "devices": [
       { "roomNo": "525", "remark": "" },
       { "roomNo": "526", "remark": "" },
@@ -2693,124 +2693,124 @@
       { "roomNo": "528", "remark": "" }
     ]
   },
-  "5F-C_513_DO_0000": {
+  "5F-C_5013_DO_0000": {
     "id": "1",
-    "w_device_id": "C_513_BV_0000",
-    "r_device_id": "C_513_DO_0000",
+    "w_device_id": "C_5013_BV_0000",
+    "r_device_id": "C_5013_DO_0000",
     "devices": [
       { "roomNo": "531", "remark": "" },
       { "roomNo": "532", "remark": "" }
     ]
   },
-  "5F-C_514_DO_0000": {
+  "5F-C_5014_DO_0000": {
     "id": "1",
-    "w_device_id": "C_514_BV_0000",
-    "r_device_id": "C_514_DO_0000",
+    "w_device_id": "C_5014_BV_0000",
+    "r_device_id": "C_5014_DO_0000",
     "devices": [
       { "roomNo": "529", "remark": "" },
       { "roomNo": "530", "remark": "" }
     ]
   },
-  "5F-C_515_DO_0000": {
+  "5F-C_5015_DO_0000": {
     "id": "1",
-    "w_device_id": "C_515_BV_0000",
-    "r_device_id": "C_515_DO_0000",
+    "w_device_id": "C_5015_BV_0000",
+    "r_device_id": "C_5015_DO_0000",
     "devices": [{ "roomNo": "522", "remark": "" }]
   },
-  "5F-C_516_DO_0000": {
+  "5F-C_5016_DO_0000": {
     "id": "1",
-    "w_device_id": "C_516_BV_0000",
-    "r_device_id": "C_516_DO_0000",
+    "w_device_id": "C_5016_BV_0000",
+    "r_device_id": "C_5016_DO_0000",
     "devices": [{ "roomNo": "公区", "remark": "东单筒灯+南单筒灯+东南角公区" }]
   },
-  "6F-C_601_DO_0000": {
+  "6F-C_6001_DO_0000": {
     "id": "1",
-    "w_device_id": "C_601_BV_0000",
-    "r_device_id": "C_601_DO_0000",
+    "w_device_id": "C_6001_BV_0000",
+    "r_device_id": "C_6001_DO_0000",
     "devices": [
       { "roomNo": "604", "remark": "" },
       { "roomNo": "605", "remark": "" }
     ]
   },
-  "6F-C_601_DO_0001": {
+  "6F-C_6001_DO_0001": {
     "id": "2",
-    "w_device_id": "C_601_BV_0001",
-    "r_device_id": "C_601_DO_0001",
+    "w_device_id": "C_6001_BV_0001",
+    "r_device_id": "C_6001_DO_0001",
     "devices": [{ "roomNo": "606", "remark": "" }]
   },
-  "6F-C_604_DO_0000": {
+  "6F-C_6004_DO_0000": {
     "id": "1",
-    "w_device_id": "C_604_BV_0000",
-    "r_device_id": "C_604_DO_0000",
+    "w_device_id": "C_6004_BV_0000",
+    "r_device_id": "C_6004_DO_0000",
     "devices": [{ "roomNo": "610", "remark": "" }]
   },
-  "6F-C_604_DO_0001": {
+  "6F-C_6004_DO_0001": {
     "id": "2",
-    "w_device_id": "C_604_BV_0001",
-    "r_device_id": "C_604_DO_0001",
+    "w_device_id": "C_6004_BV_0001",
+    "r_device_id": "C_6004_DO_0001",
     "devices": [{ "roomNo": "611", "remark": "" }]
   },
-  "6F-C_605_DO_0000": {
+  "6F-C_6005_DO_0000": {
     "id": "1",
-    "w_device_id": "C_605_BV_0000",
-    "r_device_id": "C_605_DO_0000",
+    "w_device_id": "C_6005_BV_0000",
+    "r_device_id": "C_6005_DO_0000",
     "devices": [{ "roomNo": "613", "remark": "" }]
   },
-  "6F-C_605_DO_0001": {
+  "6F-C_6005_DO_0001": {
     "id": "2",
-    "w_device_id": "C_605_BV_0001",
-    "r_device_id": "C_605_DO_0001",
+    "w_device_id": "C_6005_BV_0001",
+    "r_device_id": "C_6005_DO_0001",
     "devices": [{ "roomNo": "614", "remark": "" }]
   },
-  "6F-C_607_DO_0000": {
+  "6F-C_6007_DO_0000": {
     "id": "1",
-    "w_device_id": "C_607_BV_0000",
-    "r_device_id": "C_607_DO_0000",
+    "w_device_id": "C_6007_BV_0000",
+    "r_device_id": "C_6007_DO_0000",
     "devices": [{ "roomNo": "616", "remark": "" }]
   },
-  "6F-C_609_DO_0000": {
+  "6F-C_6009_DO_0000": {
     "id": "1",
-    "w_device_id": "C_609_BV_0000",
-    "r_device_id": "C_609_DO_0000",
+    "w_device_id": "C_6009_BV_0000",
+    "r_device_id": "C_6009_DO_0000",
     "devices": [{ "roomNo": "621", "remark": "" }]
   },
-  "6F-C_610_DO_0000": {
+  "6F-C_6010_DO_0000": {
     "id": "1",
-    "w_device_id": "C_610_BV_0000",
-    "r_device_id": "C_610_DO_0000",
+    "w_device_id": "C_6010_BV_0000",
+    "r_device_id": "C_6010_DO_0000",
     "devices": [{ "roomNo": "624", "remark": "" }]
   },
-  "6F-C_610_DO_0001": {
+  "6F-C_6010_DO_0001": {
     "id": "2",
-    "w_device_id": "C_610_BV_0001",
-    "r_device_id": "C_610_DO_0001",
+    "w_device_id": "C_6010_BV_0001",
+    "r_device_id": "C_6010_DO_0001",
     "devices": [{ "roomNo": "623", "remark": "" }]
   },
-  "6F-C_611_DO_0000": {
+  "6F-C_6011_DO_0000": {
     "id": "1",
-    "w_device_id": "C_611_BV_0000",
-    "r_device_id": "C_611_DO_0000",
+    "w_device_id": "C_6011_BV_0000",
+    "r_device_id": "C_6011_DO_0000",
     "devices": [{ "roomNo": "公区", "remark": "" }]
   },
-  "6F-C_612_DO_0000": {
+  "6F-C_6012_DO_0000": {
     "id": "1",
-    "w_device_id": "C_612_BV_0000",
-    "r_device_id": "C_612_DO_0000",
+    "w_device_id": "C_6012_BV_0000",
+    "r_device_id": "C_6012_DO_0000",
     "devices": [{ "roomNo": "626", "remark": "" }]
   },
-  "6F-C_612_DO_0001": {
+  "6F-C_6012_DO_0001": {
     "id": "2",
-    "w_device_id": "C_612_BV_0001",
-    "r_device_id": "C_612_DO_0001",
+    "w_device_id": "C_6012_BV_0001",
+    "r_device_id": "C_6012_DO_0001",
     "devices": [
       { "roomNo": "625", "remark": "" },
       { "roomNo": "627", "remark": "" }
     ]
   },
-  "6F-C_614_DO_0000": {
+  "6F-C_6014_DO_0000": {
     "id": "1",
-    "w_device_id": "C_614_BV_0000",
-    "r_device_id": "C_614_DO_0000",
+    "w_device_id": "C_6014_BV_0000",
+    "r_device_id": "C_6014_DO_0000",
     "devices": [
       { "roomNo": "601", "remark": "" },
       { "roomNo": "602", "remark": "" },
