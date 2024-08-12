@@ -26,14 +26,21 @@ import os
 # e.to_excel('/Users/louisliu/Downloads/3.xlsx', index=False)
 
 
-ex = pd.read_excel('/Users/louisliu/Downloads/1.xlsx', sheet_name=0)
-ex1 = pd.read_excel('/Users/louisliu/Downloads/2.xlsx', sheet_name=0, skiprows=1)
+ex = pd.read_excel('/Users/louisliu/Downloads/3000.xlsx', sheet_name=0, skiprows=1)
+ex1 = pd.read_excel('/Users/louisliu/Downloads/wl.xlsx', sheet_name=0)
+ex2 = pd.read_excel('/Users/louisliu/Downloads/hj.xlsx', sheet_name=0)
 
-ids = ex.merge(ex1, how='left', left_on='设备名称', right_on='设备名称')
+ex1_ids = ex1.merge(ex, how='left', left_on='设备名称', right_on='设备名称')
+ex2_ids = ex2.merge(ex, how='left', left_on='设备名称', right_on='设备名称')
 
-e = ex.copy()
+e1 = ex1.copy()
+e2 = ex2.copy()
 
-e['设备编号'] = ids['编号']
-e['原始id'] = e['原始id'].astype(str)
+e1['空间位置'] = ex1_ids['空间位置_y']
+e1['原始id'] = e1['原始id'].astype(str)
+e2['空间位置'] = ex2_ids['空间位置_y']
+e2['原始id'] = e2['原始id'].astype(str)
 
-e.to_excel('/Users/louisliu/Downloads/3.xlsx', index=False)
+e3 = e1._append(e2)
+
+e3.to_excel('/Users/louisliu/Downloads/e3.xlsx', index=False)
