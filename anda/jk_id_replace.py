@@ -14,13 +14,26 @@ import os
 # e.to_excel('/Users/louisliu/Downloads/1.监控.xlsx', index=False)
 
 
-ex = pd.read_excel('~/Desktop/安大-区域点位导入/设备绑定表格/已绑定code/3.安防绑定+门锁.xlsx', sheet_name=0)
-ex1 = pd.read_excel('/Users/louisliu/Downloads/afid.xlsx', sheet_name=0)
+# ex = pd.read_excel('/Users/louisliu/Downloads/1.xlsx', sheet_name=0)
+# ex1 = pd.read_excel('/Users/louisliu/Downloads/2.xlsx', sheet_name=0)
 
-ids = ex.merge(ex1, how='left', left_on='原始id', right_on='device_guid')
+# ids = ex.merge(ex1, how='left', left_on='设备名称', right_on='设备名称')
+
+# e = ex.copy()
+
+# e.loc[e['设备来源']=='智能门锁系统', '业务主键'] = ids['business_key']
+
+# e.to_excel('/Users/louisliu/Downloads/3.xlsx', index=False)
+
+
+ex = pd.read_excel('/Users/louisliu/Downloads/1.xlsx', sheet_name=0)
+ex1 = pd.read_excel('/Users/louisliu/Downloads/2.xlsx', sheet_name=0, skiprows=1)
+
+ids = ex.merge(ex1, how='left', left_on='设备名称', right_on='设备名称')
 
 e = ex.copy()
 
-e.loc[e['设备来源']=='智能门锁系统', '业务主键'] = ids['business_key']
+e['设备编号'] = ids['编号']
+e['原始id'] = e['原始id'].astype(str)
 
-e.to_excel('/Users/louisliu/Downloads/3.安防绑定+门锁.xlsx', index=False)
+e.to_excel('/Users/louisliu/Downloads/3.xlsx', index=False)
