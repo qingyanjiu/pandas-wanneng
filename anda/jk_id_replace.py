@@ -53,10 +53,15 @@ import os
 # e3.to_excel('/Users/louisliu/Downloads/e3.xlsx', index=False)
 
 
-ex = pd.read_excel('/Users/louisliu/Downloads/3.xlsx', sheet_name=0)
-offset = 0
-loop_n = math.ceil(len(ex) / 100)
-for i in range(loop_n):
-    e = ex[offset: offset + 100]
-    e.to_excel(f'/Users/louisliu/Downloads/t/{i}.xlsx', index=False)
-    offset += 100
+# ex = pd.read_excel('/Users/louisliu/Downloads/3.xlsx', sheet_name=0)
+# offset = 0
+# loop_n = math.ceil(len(ex) / 100)
+# for i in range(loop_n):
+#     e = ex[offset: offset + 100]
+#     e.to_excel(f'/Users/louisliu/Downloads/t/{i}.xlsx', index=False)
+#     offset += 100
+    
+ex = pd.read_excel('/Users/louisliu/Desktop/安大-区域点位导入/设备绑定表格/已绑定code/剩余-网络(已填入空间位置).xlsx', sheet_name=0)
+ex['设备名称'] = ex['设备名称'] + '_'
+ex['原始id'] = ex['原始id'].astype(str)
+ex.to_excel('/Users/louisliu/Downloads/eee.xlsx', index=False)
