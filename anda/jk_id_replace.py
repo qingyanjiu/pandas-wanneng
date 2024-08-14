@@ -61,7 +61,7 @@ import os
 #     e.to_excel(f'/Users/louisliu/Downloads/t/{i}.xlsx', index=False)
 #     offset += 100
     
-ex = pd.read_excel('/Users/louisliu/Desktop/安大-区域点位导入/设备绑定表格/已绑定code/剩余-网络(已填入空间位置).xlsx', sheet_name=0)
+ex = pd.read_excel('/Users/louisliu/Downloads/ids.xlsx', sheet_name=0)
 ex['设备名称'] = ex['设备名称'] + '_'
 ex['原始id'] = ex['原始id'].astype(str)
 ex.to_excel('/Users/louisliu/Downloads/eee.xlsx', index=False)
