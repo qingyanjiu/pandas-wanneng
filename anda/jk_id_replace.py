@@ -1,3 +1,4 @@
+import json
 import math
 import pandas as pd
 import numpy as np
@@ -61,7 +62,14 @@ import os
 #     e.to_excel(f'/Users/louisliu/Downloads/t/{i}.xlsx', index=False)
 #     offset += 100
     
-ex = pd.read_excel('/Users/louisliu/Downloads/ids.xlsx', sheet_name=0)
-ex['设备名称'] = ex['设备名称'] + '_'
-ex['原始id'] = ex['原始id'].astype(str)
-ex.to_excel('/Users/louisliu/Downloads/eee.xlsx', index=False)
+ex = pd.read_excel('/Users/louisliu/Downloads/wty.xlsx', sheet_name=0)
+ex['name'] = ex['name'].apply(lambda x: 'r-' + x.split('_')[2])
+# ex.to_json('/Users/louisliu/Downloads/eee.xlsx', index=False)
+map = {}
+for index, row in ex.iterrows():
+        map[row.iloc[0]] = row.iloc[1]
+
+mapStr = json.dumps(map, ensure_ascii=False)
+        
+with open('/Users/louisliu/Downloads/eee.json', 'w', encoding='utf-8') as f:
+    f.write(mapStr)
