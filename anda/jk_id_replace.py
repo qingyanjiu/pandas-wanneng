@@ -56,7 +56,7 @@ ex = pd.read_excel('/Users/louisliu/Downloads/1.xlsx', sheet_name=0)
 ex1 = pd.read_json('/Users/louisliu/Downloads/2.json')
 ex1 = ex1.T
 ex1['code'] = ex1.apply(lambda x: x.name, axis=1)
-ids = ex.merge(ex1, how='inner', left_on='设备名称', right_on='name')
+ids = ex.merge(ex1, how='left', left_on='设备名称', right_on='name')
 e = ex.copy()
 e['设备编号'] = ids['code']
 
