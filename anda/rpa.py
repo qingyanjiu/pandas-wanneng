@@ -70,8 +70,10 @@ def get_data():
         
         # 导航到指定的URL
         page.goto(request_url)
-        page.wait_for_timeout(5000)
+        page.wait_for_timeout(10000)
         
+        page.goto(request_url)
+        page.wait_for_timeout(1000)
         # 获取并打印页面标题
         page.click("text=登录")
         page.get_by_placeholder("请输入用户名").fill("eduadmin")
@@ -80,7 +82,7 @@ def get_data():
         # 等待登录
         page.wait_for_timeout(5000)
 
-        # get_car_data(page)
+        get_car_data(page)
         get_person_data(page)
 
         # 关闭浏览器

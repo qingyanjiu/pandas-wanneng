@@ -14,46 +14,46 @@ from datetime import datetime
 date = datetime.now()
 today_date = date.strftime('%Y-%m-%d')
 
-request_url = 'https://wvpn.ahu.edu.cn/http/77726476706e69737468656265737421a1a013d2766726012e50c7fec8/iot-manage-web/#'
+request_url = 'http://stage.3d.com:5173/iot-screen/#'
 
-car_device_list = [
-    '新区南门东入口',
-    '新区西外围出口',
-    '新区西外围入口',
-    '新区东外围入口',
-    '新区东外围出口',
-    '新区东门西入口',
-    '新区东门西出口',
-    '新区南门东出口',
-    '新区南门西入口',
-    '新区东门东出口',
-    '新区东门东入口',
-    '新区北门出口',
-    '新区北门入口',
-    '新区南门西出口',
-    '老区南门西出口',
-    '老区南门东出口',
-    '老区南门入口'
-]
-person_device_list = [
-    '磬苑-西门出入口-通道2-QET-5301L-W-172-22-2-195', 
-    '磬苑-南门出入口-主道西侧-QET-5301L-W-172-22-28-182', 
-    '磬苑-北门出入口-通道1-QET-5301L-W-172-22-17-40', 
-    '磬苑-西门出入口-通道1-QET-5301L-W-172-22-2-186', 
-    '磬苑-北门出入口-通道2-QET-5301L-W-172-22-17-42', 
-    '磬苑-西门出入口-通道2-QET-5301L-W-172-22-2-194', 
-    '磬苑-南门出入口-主道西侧-QET-5301L-W-172-22-28-181', 
-    '磬苑-南门出入口-辅道东侧偏西-QET-5301L-W-172-22-28-95', 
-    '磬苑-东门出入口-东门-北侧-QET-5301L-W-172-22-17-39', 
-    '磬苑-南门出入口-辅道东侧偏东-QET-5301L-W-172-22-28-94', 
-    '磬苑-北门出入口-通道1-QET-5301L-W-172-22-17-41', 
-    '磬苑-西门出入口-通道1-QET-5301L-W-172-22-2-187', 
-    '磬苑-东门出入口-东门-北侧-QET-5301L-W-172-22-17-38', 
-    '磬苑-东门出入口-东门-南侧-QET-5301L-W-172-22-17-37', 
-    '磬苑-东门出入口-东门-南侧-QET-5301L-W-172-22-17-36', 
-    '龙河-南门东出入口-通道2-EG131-HF-172_22_30_194', 
-    '龙河-南门东出入口-通道1-EG131-HF-172_22_30_195'
-]
+car_device_list = {
+    '新区南门东入口': 'zhaji-c-nan-21',
+    '新区西外围出口': '286737408',
+    '新区西外围入口': '289347328',
+    '新区东外围入口': '218067968',
+    '新区东外围出口': '218047488',
+    '新区东门西入口': 'zhaji-c-dong-23',
+    '新区东门西出口': 'zhaji-c-dong-22',
+    '新区南门东出口': 'zhaji-c-nan-20',
+    '新区南门西入口': 'zhaji-c-nan-2',
+    '新区东门东出口': 'zhaji-c-dong-4',
+    '新区东门东入口': 'zhaji-c-dong-3',
+    '新区北门出口': 'zhaji-c-bei-19',
+    '新区北门入口': 'zhaji-c-bei-18',
+    '新区南门西出口': 'zhaji-c-nan-1',
+    '老区南门西出口': 'zhaji-c-nan-lh-1',
+    '老区南门东出口': 'zhaji-c-nan-lh-2',
+    '老区南门入口': 'zhaji-c-nan-lh-3'
+}
+person_device_list = {
+    '磬苑-西门出入口-通道2-QET-5301L-W-172-22-2-195': 'zhaji-p-xi-12',
+    '磬苑-南门出入口-主道西侧-QET-5301L-W-172-22-28-182': 'zhaji-p-nan-5',
+    '磬苑-北门出入口-通道1-QET-5301L-W-172-22-17-40': 'zhaji-p-bei-16',
+    '磬苑-西门出入口-通道1-QET-5301L-W-172-22-2-186': 'zhaji-p-xi-14',
+    '磬苑-北门出入口-通道2-QET-5301L-W-172-22-17-42': 'zhaji-p-bei-24',
+    '磬苑-西门出入口-通道2-QET-5301L-W-172-22-2-194': 'zhaji-p-xi-13',
+    '磬苑-南门出入口-主道西侧-QET-5301L-W-172-22-28-181': 'zhaji-p-nan-25',
+    '磬苑-南门出入口-辅道东侧偏西-QET-5301L-W-172-22-28-95': 'zhaji-p-nan-6',
+    '磬苑-东门出入口-东门-北侧-QET-5301L-W-172-22-17-39': 'zhaji-p-dong-11',
+    '磬苑-南门出入口-辅道东侧偏东-QET-5301L-W-172-22-28-94': 'zhaji-p-nan-7',
+    '磬苑-北门出入口-通道1-QET-5301L-W-172-22-17-41': 'zhaji-p-bei-17',
+    '磬苑-西门出入口-通道1-QET-5301L-W-172-22-2-187': 'zhaji-p-xi-15',
+    '磬苑-东门出入口-东门-北侧-QET-5301L-W-172-22-17-38': 'zhaji-p-dong-10',
+    '磬苑-东门出入口-东门-南侧-QET-5301L-W-172-22-17-37': 'zhaji-p-dong-8',
+    '磬苑-东门出入口-东门-南侧-QET-5301L-W-172-22-17-36': 'zhaji-p-dong-9',
+    '龙河-南门东出入口-通道2-EG131-HF-172_22_30_194': 'zhaji-p-nan-lh-11',
+    '龙河-南门东出入口-通道1-EG131-HF-172_22_30_195': 'zhaji-p-nan-lh-10'
+}
 
 screen_shot_save_path_car = '/Users/louisliu/Downloads/car' 
 screen_shot_save_path_person = '/Users/louisliu/Downloads/person'
@@ -70,18 +70,23 @@ def get_data():
         
         # 导航到指定的URL
         page.goto(request_url)
-        page.wait_for_timeout(5000)
+        page.wait_for_timeout(1000)
         
         # 获取并打印页面标题
         page.click("text=登录")
-        page.get_by_placeholder("请输入用户名").fill("eduadmin")
-        page.get_by_placeholder("请输入密码").fill("edu@adzhgl")
-        page.locator('//*[@id="app"]/div/div/div/div[2]/form/div/div[3]/button').click()
+        page.locator('//*[@id="username"]').fill("eduadmin")
+        page.locator('//*[@id="password"]').fill("edu@adzhgl")
+        page.locator('//*[@id="app"]/div/div[2]/div[2]/button').click()
         # 等待登录
+        page.wait_for_timeout(10000)
+        page.goto(f'{request_url}/visual/qingyuan/anFang/menJin/school')
+        page.wait_for_timeout(10000)
+        page.evaluate("window.hxhtApp.emit('onClick', hxhtApp.dm.getDataByTag('zhaji-p-nan-5'))")
         page.wait_for_timeout(5000)
 
+
         # get_car_data(page)
-        get_person_data(page)
+        # get_person_data(page)
 
         # 关闭浏览器
         browser.close()
