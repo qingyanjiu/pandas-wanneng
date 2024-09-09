@@ -15,7 +15,7 @@ from datetime import datetime
 date = datetime.now()
 today_date = date.strftime('%Y-%m-%d')
 
-request_url = 'http://stage.3d.com:5173/iot-screen/#'
+request_url = 'http://172.17.108.19/iot-screen/#'
 
 car_device_list_qy = {
     '新区南门东入口': 'zhaji-c-nan-21',
@@ -80,8 +80,8 @@ campus_map = dict({
     }
 })
 
-screen_shot_save_path_car_3d = '/Users/louisliu/Downloads/car-3d' 
-screen_shot_save_path_person_3d = '/Users/louisliu/Downloads/person-3d'
+screen_shot_save_path_car_3d = r'C:\Users\hp\Desktop\fb\car-3d' 
+screen_shot_save_path_person_3d = r'C:\Users\hp\Desktop\fb\person-3d'
 
 def get_data():
     # 使用Playwright上下文管理器
@@ -160,7 +160,7 @@ def get_car_data(page: Page, campus_id):
                 .click()
             page.get_by_placeholder('设备名称').fill(device_name)
             # 点击查询
-            page.locator('//*[@id="pageContent"]/div[7]/div[1]/div[2]/div[2]/div/div[1]/div[2]/div[2]/div[2]/div[3]/div/div[2]/div/div/div[2]/div[1]/div[2]/div[3]/div/span[1]')\
+            page.locator('//*[@id="pageContent"]/div[7]/div[1]/div[2]/div[2]/div/div[1]/div[2]/div[2]/div[2]/div[3]/div/div[2]/div/div/div[2]/div[1]/div[2]/div[2]/div/span[1]')\
                 .click()
             page.wait_for_timeout(2000)
             number = page.locator('//*[@id="pageContent"]/div[7]/div[1]/div[2]/div[2]/div/div[1]/div[2]/div[2]/div[2]/div[3]/div/div[2]/div/div/div[2]/div[3]/span[1]')\
