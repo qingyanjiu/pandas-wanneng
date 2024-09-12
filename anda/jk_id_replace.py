@@ -65,10 +65,10 @@ import os
 
 
 
-ex = pd.read_excel('/Users/louisliu/Downloads/1.xls', sheet_name=0)
-ex1 = pd.read_excel('/Users/louisliu/Downloads/2.xlsx', sheet_name=0)
-ids = ex1.merge(ex, how='left', left_on='设备编号', right_on='设备编号')
-e = ex1.copy()
-e['设备分类'] = '物联网设备\\综合安防\\安防监控\\' + ids['设备类型'] + '（数字）'
+ex = pd.read_excel('/Users/louisliu/Downloads/111.xlsx', sheet_name=0)
+ex1 = pd.read_excel('/Users/louisliu/Downloads/222.xls', sheet_name=1)
+ids = ex.merge(ex1, how='left', left_on='name', right_on='现房间号')
+e = ex.copy()
+e['设备编号'] = ids.apply(lambda x: x['code'] if pd.notnull(x['code']) else x['设备编号'], axis=1)
 
 e.to_excel('/Users/louisliu/Downloads/3333.xlsx', index=False)
