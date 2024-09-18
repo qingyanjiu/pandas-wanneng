@@ -13,7 +13,7 @@ point_df.rename(columns={
     '密码': 'password'
     }, inplace=True)
 
-point_df.ffill(inplace=True)
+# point_df.ffill(inplace=True)
 point_df.fillna('', inplace=True)
 
 # 设备dataframe - 设备名称 IP
@@ -39,10 +39,12 @@ p_d_left_df = point_df.merge(device_df, how='right', left_on='ip', right_on='ip'
 
 # 再与通道进行左连接
 p_d_left_c_df = p_d_left_df.merge(channel_df, how='left', left_on='deviceName', right_on='deviceName')
+
 p_d_left_c_df.drop(['workMode', 'status', 'orgCode', 'deviceModel', 'escFlag', 'flag', 'onlineStatus'], axis=1, inplace=True)
 p_d_left_c_df.fillna('0', inplace=True)
 p_d_left_c_df['channelSeq'] = p_d_left_c_df['channelSeq'].astype(int)
 p_d_left_c_df['deviceCode'] = p_d_left_c_df['deviceCode'].astype(int)
+
 
 
 map = {}
