@@ -1,0 +1,3890 @@
+{
+  "5F-JK7": {
+    "code": "5F-JK7",
+    "name": "A-L5消防电梯合用前室",
+    "ip": "172.16.5.13",
+    "app": "imported",
+    "stream": "100160",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000015"
+  },
+  "5F-JK8": {
+    "code": "5F-JK8",
+    "name": "A-L5东边消防楼梯",
+    "ip": "172.16.5.12",
+    "app": "imported",
+    "stream": "100159",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000014"
+  },
+  "6F-JK1": {
+    "code": "6F-JK1",
+    "name": "A-L6北过道",
+    "ip": "172.16.6.11",
+    "app": "imported",
+    "stream": "100166",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000021"
+  },
+  "6F-JK2": {
+    "code": "6F-JK2",
+    "name": "A-L6东过道",
+    "ip": "172.16.6.12",
+    "app": "imported",
+    "stream": "100167",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000022"
+  },
+  "6F-JK3": {
+    "code": "6F-JK3",
+    "name": "A-L6南过道",
+    "ip": "172.16.6.13",
+    "app": "imported",
+    "stream": "100168",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000023"
+  },
+  "6F-JK4": {
+    "code": "6F-JK4",
+    "name": "A-L6西过道",
+    "ip": "172.16.6.14",
+    "app": "imported",
+    "stream": "100169",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000024"
+  },
+  "6F-JK5": {
+    "code": "6F-JK5",
+    "name": "招标室",
+    "ip": "172.16.6.15",
+    "app": "imported",
+    "stream": "100170",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000025"
+  },
+  "6F-JK6": {
+    "code": "6F-JK6",
+    "name": "A-L6电梯厅南侧过道",
+    "ip": "172.16.6.16",
+    "app": "imported",
+    "stream": "100171",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000026"
+  },
+  "6F-JK7": {
+    "code": "6F-JK7",
+    "name": "A-L6电梯厅北侧过道",
+    "ip": "172.16.6.17",
+    "app": "imported",
+    "stream": "100172",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000027"
+  },
+  "6F-JK8": {
+    "code": "6F-JK8",
+    "name": "A-L6消防电梯合用前室",
+    "ip": "172.16.6.18",
+    "app": "imported",
+    "stream": "100173",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000028"
+  },
+  "6F-JK9": {
+    "code": "6F-JK9",
+    "name": "A-L6东边消防楼梯",
+    "ip": "172.16.6.19",
+    "app": "imported",
+    "stream": "100174",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000029"
+  },
+  "7F-JK5": {
+    "code": "7F-JK5",
+    "name": "A-L7电梯厅南侧过道",
+    "ip": "172.16.7.18",
+    "app": "imported",
+    "stream": "100182",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000037"
+  },
+  "7F-JK6": {
+    "code": "7F-JK6",
+    "name": "A-L7电梯厅北侧过道",
+    "ip": "172.16.7.11",
+    "app": "imported",
+    "stream": "100175",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000030"
+  },
+  "7F-JK7": {
+    "code": "7F-JK7",
+    "name": "A-L7消防电梯合用前室",
+    "ip": "172.16.7.12",
+    "app": "imported",
+    "stream": "100176",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000031"
+  },
+  "7F-JK8": {
+    "code": "7F-JK8",
+    "name": "A-L7东边消防楼梯",
+    "ip": "172.16.7.13",
+    "app": "imported",
+    "stream": "100177",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000032"
+  },
+  "8F-JK1": {
+    "code": "8F-JK1",
+    "name": "A-L8北过道",
+    "ip": "172.16.8.11",
+    "app": "imported",
+    "stream": "100183",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000038"
+  },
+  "8F-JK2": {
+    "code": "8F-JK2",
+    "name": "A-L8东过道",
+    "ip": "172.16.8.12",
+    "app": "imported",
+    "stream": "100184",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000039"
+  },
+  "8F-JK3": {
+    "code": "8F-JK3",
+    "name": "A-L8南过道",
+    "ip": "172.16.8.13",
+    "app": "imported",
+    "stream": "100185",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000040"
+  },
+  "8F-JK4": {
+    "code": "8F-JK4",
+    "name": "A-L8西过道",
+    "ip": "172.16.8.14",
+    "app": "imported",
+    "stream": "100186",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000041"
+  },
+  "8F-JK5": {
+    "code": "8F-JK5",
+    "name": "A-L8东南公区",
+    "ip": "172.16.8.15",
+    "app": "imported",
+    "stream": "100187",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000043"
+  },
+  "8F-JK6": {
+    "code": "8F-JK6",
+    "name": "A-L8电梯厅南侧过道",
+    "ip": "172.16.8.16",
+    "app": "imported",
+    "stream": "100188",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000042"
+  },
+  "8F-JK7": {
+    "code": "8F-JK7",
+    "name": "A-L8电梯厅北侧过道",
+    "ip": "172.16.8.17",
+    "app": "imported",
+    "stream": "100189",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000044"
+  },
+  "8F-JK8": {
+    "code": "8F-JK8",
+    "name": "A-L8消防电梯合用前室",
+    "ip": "172.16.8.18",
+    "app": "imported",
+    "stream": "100190",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000045"
+  },
+  "8F-JK9": {
+    "code": "8F-JK9",
+    "name": "A-L8东边消防楼梯",
+    "ip": "172.16.8.19",
+    "app": "imported",
+    "stream": "100191",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000046"
+  },
+  "9F-JK2": {
+    "code": "9F-JK2",
+    "name": "A-L9东过道",
+    "ip": "172.16.9.11",
+    "app": "imported",
+    "stream": "100192",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000047"
+  },
+  "9F-JK6": {
+    "code": "9F-JK6",
+    "name": "A-L9电梯厅南侧过道",
+    "ip": "172.16.9.12",
+    "app": "imported",
+    "stream": "100193",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000048"
+  },
+  "9F-JK7": {
+    "code": "9F-JK7",
+    "name": "A-L9电梯厅北侧过道",
+    "ip": "172.16.9.13",
+    "app": "imported",
+    "stream": "100194",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000049"
+  },
+  "9F-JK8": {
+    "code": "9F-JK8",
+    "name": "A-L9消防电梯合用前室",
+    "ip": "172.16.9.14",
+    "app": "imported",
+    "stream": "100195",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000050"
+  },
+  "9F-JK9": {
+    "code": "9F-JK9",
+    "name": "A-L9东边消防楼梯",
+    "ip": "172.16.9.15",
+    "app": "imported",
+    "stream": "100196",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000051"
+  },
+  "10F-JK1": {
+    "code": "10F-JK1",
+    "name": "A-L10北过道",
+    "ip": "172.16.10.11",
+    "app": "imported",
+    "stream": "100201",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000056"
+  },
+  "10F-JK2": {
+    "code": "10F-JK2",
+    "name": "A-L10东过道",
+    "ip": "172.16.10.12",
+    "app": "imported",
+    "stream": "100202",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000057"
+  },
+  "10F-JK3": {
+    "code": "10F-JK3",
+    "name": "A-L10南过道",
+    "ip": "172.16.10.13",
+    "app": "imported",
+    "stream": "100203",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000058"
+  },
+  "10F-JK4": {
+    "code": "10F-JK4",
+    "name": "A-L10西过道",
+    "ip": "172.16.10.14",
+    "app": "imported",
+    "stream": "100204",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000059"
+  },
+  "10F-JK5": {
+    "code": "10F-JK5",
+    "name": "A-L10开标室",
+    "ip": "172.16.10.15",
+    "app": "imported",
+    "stream": "100205",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000060"
+  },
+  "10F-JK6": {
+    "code": "10F-JK6",
+    "name": "A-L10电梯厅南侧过道",
+    "ip": "172.16.10.16",
+    "app": "imported",
+    "stream": "100206",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000061"
+  },
+  "10F-JK7": {
+    "code": "10F-JK7",
+    "name": "A-L10电梯厅北侧过道",
+    "ip": "172.16.10.17",
+    "app": "imported",
+    "stream": "100207",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000062"
+  },
+  "10F-JK8": {
+    "code": "10F-JK8",
+    "name": "A-L10消防电梯合用前室",
+    "ip": "172.16.10.18",
+    "app": "imported",
+    "stream": "100208",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000063"
+  },
+  "10F-JK9": {
+    "code": "10F-JK9",
+    "name": "A-L10东边消防楼梯",
+    "ip": "172.16.10.19",
+    "app": "imported",
+    "stream": "100209",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000064"
+  },
+  "12F-JK1": {
+    "code": "12F-JK1",
+    "name": "A-L12北过道",
+    "ip": "172.16.12.11",
+    "app": "imported",
+    "stream": "100214",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000069"
+  },
+  "12F-JK2": {
+    "code": "12F-JK2",
+    "name": "A-L12东过道",
+    "ip": "172.16.12.12",
+    "app": "imported",
+    "stream": "100215",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000070"
+  },
+  "12F-JK3": {
+    "code": "12F-JK3",
+    "name": "A-L12南过道",
+    "ip": "172.16.12.13",
+    "app": "imported",
+    "stream": "100216",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000071"
+  },
+  "12F-JK4": {
+    "code": "12F-JK4",
+    "name": "A-L12西过道",
+    "ip": "172.16.12.14",
+    "app": "imported",
+    "stream": "100217",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000072"
+  },
+  "12F-JK5": {
+    "code": "12F-JK5",
+    "name": "A-L12财务部东南",
+    "ip": "172.16.12.15",
+    "app": "imported",
+    "stream": "100218",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000073"
+  },
+  "12F-JK6": {
+    "code": "12F-JK6",
+    "name": "A-L12财务部西北",
+    "ip": "172.16.12.16",
+    "app": "imported",
+    "stream": "100219",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000074"
+  },
+  "12F-JK7": {
+    "code": "12F-JK7",
+    "name": "A-L12东南公区",
+    "ip": "172.16.12.17",
+    "app": "imported",
+    "stream": "100220",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000075"
+  },
+  "12F-JK8": {
+    "code": "12F-JK8",
+    "name": "A-L12电梯厅东侧过道",
+    "ip": "172.16.12.18",
+    "app": "imported",
+    "stream": "100221",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000076"
+  },
+  "12F-JK9": {
+    "code": "12F-JK9",
+    "name": "A-L12电梯厅西侧过道",
+    "ip": "172.16.12.19",
+    "app": "imported",
+    "stream": "100222",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000077"
+  },
+  "12F-JK10": {
+    "code": "12F-JK10",
+    "name": "A-L12消防电梯合用前室",
+    "ip": "172.16.12.20",
+    "app": "imported",
+    "stream": "100223",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000078"
+  },
+  "12F-JK11": {
+    "code": "12F-JK11",
+    "name": "A-L12东边消防楼梯",
+    "ip": "172.16.12.21",
+    "app": "imported",
+    "stream": "100224",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000079"
+  },
+  "13F-JK1": {
+    "code": "13F-JK1",
+    "name": "A-L13北过道",
+    "ip": "172.16.13.11",
+    "app": "imported",
+    "stream": "100225",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000080"
+  },
+  "13F-JK2": {
+    "code": "13F-JK2",
+    "name": "A-L13东过道",
+    "ip": "172.16.13.12",
+    "app": "imported",
+    "stream": "100226",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000081"
+  },
+  "13F-JK3": {
+    "code": "13F-JK3",
+    "name": "A-L13南过道",
+    "ip": "172.16.13.13",
+    "app": "imported",
+    "stream": "100227",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000082"
+  },
+  "13F-JK4": {
+    "code": "13F-JK4",
+    "name": "A-L13西过道",
+    "ip": "172.16.13.14",
+    "app": "imported",
+    "stream": "100228",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000083"
+  },
+  "13F-JK5": {
+    "code": "13F-JK5",
+    "name": "A-L13东南公区",
+    "ip": "172.16.13.15",
+    "app": "imported",
+    "stream": "100229",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000084"
+  },
+  "13F-JK6": {
+    "code": "13F-JK6",
+    "name": "A-L13西南公区",
+    "ip": "172.16.13.16",
+    "app": "imported",
+    "stream": "100230",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000085"
+  },
+  "13F-JK7": {
+    "code": "13F-JK7",
+    "name": "A-L13电梯厅东侧过道",
+    "ip": "172.16.13.17",
+    "app": "imported",
+    "stream": "100231",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000086"
+  },
+  "13F-JK8": {
+    "code": "13F-JK8",
+    "name": "A-L13电梯厅西侧过道",
+    "ip": "172.16.13.18",
+    "app": "imported",
+    "stream": "100232",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000087"
+  },
+  "13F-JK9": {
+    "code": "13F-JK9",
+    "name": "A-L13消防电梯合用前室",
+    "ip": "172.16.13.19",
+    "app": "imported",
+    "stream": "100233",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000088"
+  },
+  "13F-JK10": {
+    "code": "13F-JK10",
+    "name": "A-L13东边消防楼梯",
+    "ip": "172.16.13.20",
+    "app": "imported",
+    "stream": "100234",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000089"
+  },
+  "14F-JK1": {
+    "code": "14F-JK1",
+    "name": "A-L14北过道",
+    "ip": "172.16.14.11",
+    "app": "imported",
+    "stream": "100235",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000090"
+  },
+  "14F-JK2": {
+    "code": "14F-JK2",
+    "name": "A-L14东过道",
+    "ip": "172.16.14.12",
+    "app": "imported",
+    "stream": "100236",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000091"
+  },
+  "14F-JK3": {
+    "code": "14F-JK3",
+    "name": "A-L14南过道",
+    "ip": "172.16.14.13",
+    "app": "imported",
+    "stream": "100237",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000092"
+  },
+  "14F-JK4": {
+    "code": "14F-JK4",
+    "name": "A-L14西过道",
+    "ip": "172.16.14.14",
+    "app": "imported",
+    "stream": "100238",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000093"
+  },
+  "14F-JK5": {
+    "code": "14F-JK5",
+    "name": "A-L14电梯厅东侧过道",
+    "ip": "172.16.14.15",
+    "app": "imported",
+    "stream": "100239",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000094"
+  },
+  "14F-JK6": {
+    "code": "14F-JK6",
+    "name": "A-L14电梯厅西侧过道",
+    "ip": "172.16.14.16",
+    "app": "imported",
+    "stream": "100240",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000095"
+  },
+  "14F-JK7": {
+    "code": "14F-JK7",
+    "name": "A-L14消防电梯合用前室",
+    "ip": "172.16.14.17",
+    "app": "imported",
+    "stream": "100241",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000096"
+  },
+  "14F-JK8": {
+    "code": "14F-JK8",
+    "name": "A-L14东边消防楼梯",
+    "ip": "172.16.14.18",
+    "app": "imported",
+    "stream": "100242",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000097"
+  },
+  "15F-JK1": {
+    "code": "15F-JK1",
+    "name": "A-L15北过道",
+    "ip": "172.16.15.15",
+    "app": "imported",
+    "stream": "100247",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000102"
+  },
+  "15F-JK2": {
+    "code": "15F-JK2",
+    "name": "A-L15东过道",
+    "ip": "172.16.15.16",
+    "app": "imported",
+    "stream": "100248",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000103"
+  },
+  "15F-JK3": {
+    "code": "15F-JK3",
+    "name": "A-L15南过道",
+    "ip": "172.16.15.17",
+    "app": "imported",
+    "stream": "100249",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000104"
+  },
+  "15F-JK4": {
+    "code": "15F-JK4",
+    "name": "A-L15西过道",
+    "ip": "172.16.15.18",
+    "app": "imported",
+    "stream": "100250",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000105"
+  },
+  "15F-JK5": {
+    "code": "15F-JK5",
+    "name": "A-L15财务工位1",
+    "ip": "172.16.15.19",
+    "app": "imported",
+    "stream": "100251",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000106"
+  },
+  "15F-JK6": {
+    "code": "15F-JK6",
+    "name": "A-L15财务工位2",
+    "ip": "172.16.15.20",
+    "app": "imported",
+    "stream": "100252",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000107"
+  },
+  "15F-JK7": {
+    "code": "15F-JK7",
+    "name": "A-L15财务工位3",
+    "ip": "172.16.15.21",
+    "app": "imported",
+    "stream": "100253",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000108"
+  },
+  "15F-JK8": {
+    "code": "15F-JK8",
+    "name": "A-L15财务工位4",
+    "ip": "172.16.15.22",
+    "app": "imported",
+    "stream": "100254",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000109"
+  },
+  "15F-JK9": {
+    "code": "15F-JK9",
+    "name": "A-L15财务工位5",
+    "ip": "172.16.15.23",
+    "app": "imported",
+    "stream": "100255",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000110"
+  },
+  "15F-JK10": {
+    "code": "15F-JK10",
+    "name": "A-L15财务工位6",
+    "ip": "172.16.15.24",
+    "app": "imported",
+    "stream": "100256",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000111"
+  },
+  "15F-JK11": {
+    "code": "15F-JK11",
+    "name": "A-L15财务窗口大厅",
+    "ip": "172.16.15.25",
+    "app": "imported",
+    "stream": "100257",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000112"
+  },
+  "15F-JK12": {
+    "code": "15F-JK12",
+    "name": "A-L15展示厅",
+    "ip": "172.16.15.26",
+    "app": "imported",
+    "stream": "100258",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000113"
+  },
+  "15F-JK13": {
+    "code": "15F-JK13",
+    "name": "A-L15电梯厅东侧过道",
+    "ip": "172.16.15.11",
+    "app": "imported",
+    "stream": "100243",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000098"
+  },
+  "15F-JK14": {
+    "code": "15F-JK14",
+    "name": "A-L15电梯厅西侧过道",
+    "ip": "172.16.15.12",
+    "app": "imported",
+    "stream": "100244",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000099"
+  },
+  "15F-JK15": {
+    "code": "15F-JK15",
+    "name": "A-L15消防电梯合用前室",
+    "ip": "172.16.15.13",
+    "app": "imported",
+    "stream": "100245",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000100"
+  },
+  "15F-JK16": {
+    "code": "15F-JK16",
+    "name": "A-L15东边消防楼梯",
+    "ip": "172.16.15.14",
+    "app": "imported",
+    "stream": "100246",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000101"
+  },
+  "16F-JK1": {
+    "code": "16F-JK1",
+    "name": "A-L16北过道",
+    "ip": "172.16.16.11",
+    "app": "imported",
+    "stream": "100259",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000114"
+  },
+  "16F-JK2": {
+    "code": "16F-JK2",
+    "name": "A-L16东过道",
+    "ip": "172.16.16.12",
+    "app": "imported",
+    "stream": "100260",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000115"
+  },
+  "16F-JK3": {
+    "code": "16F-JK3",
+    "name": "A-L16南过道",
+    "ip": "172.16.16.13",
+    "app": "imported",
+    "stream": "100261",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000116"
+  },
+  "16F-JK4": {
+    "code": "16F-JK4",
+    "name": "A-L16西过道",
+    "ip": "172.16.16.14",
+    "app": "imported",
+    "stream": "100262",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000117"
+  },
+  "16F-JK5": {
+    "code": "16F-JK5",
+    "name": "A-L16东南公区",
+    "ip": "172.16.16.15",
+    "app": "imported",
+    "stream": "100263",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000118"
+  },
+  "16F-JK6": {
+    "code": "16F-JK6",
+    "name": "A-L16西南公区",
+    "ip": "172.16.16.16",
+    "app": "imported",
+    "stream": "100264",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000119"
+  },
+  "16F-JK7": {
+    "code": "16F-JK7",
+    "name": "A-L16电梯厅东侧过道",
+    "ip": "172.16.16.18",
+    "app": "imported",
+    "stream": "100266",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000120"
+  },
+  "16F-JK8": {
+    "code": "16F-JK8",
+    "name": "A-L16电梯厅西侧过道",
+    "ip": "172.16.16.17",
+    "app": "imported",
+    "stream": "100265",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000121"
+  },
+  "16F-JK9": {
+    "code": "16F-JK9",
+    "name": "A-L16消防电梯合用前室",
+    "ip": "172.16.16.19",
+    "app": "imported",
+    "stream": "100267",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000122"
+  },
+  "16F-JK10": {
+    "code": "16F-JK10",
+    "name": "A-L16东边消防楼梯",
+    "ip": "172.16.16.20",
+    "app": "imported",
+    "stream": "100268",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000123"
+  },
+  "17F-JK1": {
+    "code": "17F-JK1",
+    "name": "A-L17北过道",
+    "ip": "172.16.17.11",
+    "app": "imported",
+    "stream": "100269",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000124"
+  },
+  "17F-JK2": {
+    "code": "17F-JK2",
+    "name": "A-L17东过道",
+    "ip": "172.16.17.12",
+    "app": "imported",
+    "stream": "100270",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000125"
+  },
+  "17F-JK3": {
+    "code": "17F-JK3",
+    "name": "A-L17南过道",
+    "ip": "172.16.17.13",
+    "app": "imported",
+    "stream": "100271",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000126"
+  },
+  "17F-JK4": {
+    "code": "17F-JK4",
+    "name": "A-L17西过道",
+    "ip": "172.16.17.14",
+    "app": "imported",
+    "stream": "100272",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000127"
+  },
+  "17F-JK5": {
+    "code": "17F-JK5",
+    "name": "A-L17开标室",
+    "ip": "172.16.17.19",
+    "app": "imported",
+    "stream": "100277",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000132"
+  },
+  "17F-JK6": {
+    "code": "17F-JK6",
+    "name": "A-L17电梯厅东侧过道",
+    "ip": "172.16.17.15",
+    "app": "imported",
+    "stream": "100273",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000128"
+  },
+  "17F-JK7": {
+    "code": "17F-JK7",
+    "name": "A-L17电梯厅西侧过道",
+    "ip": "172.16.17.16",
+    "app": "imported",
+    "stream": "100274",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000129"
+  },
+  "17F-JK8": {
+    "code": "17F-JK8",
+    "name": "A-L17消防电梯合用前室",
+    "ip": "172.16.17.17",
+    "app": "imported",
+    "stream": "100275",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000130"
+  },
+  "17F-JK9": {
+    "code": "17F-JK9",
+    "name": "A-L17东边消防楼梯",
+    "ip": "172.16.17.18",
+    "app": "imported",
+    "stream": "100276",
+    "deviceId": "34020000001190000001",
+    "channelId": "34020000001310000131"
+  },
+  "18F-JK1": {
+    "code": "18F-JK1",
+    "name": "A-L18北过道",
+    "ip": "172.16.18.11",
+    "app": "imported",
+    "stream": "100001",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK2": {
+    "code": "18F-JK2",
+    "name": "A-L18东过道",
+    "ip": "172.16.18.12",
+    "app": "imported",
+    "stream": "100002",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK3": {
+    "code": "18F-JK3",
+    "name": "A-L18南过道",
+    "ip": "172.16.18.13",
+    "app": "imported",
+    "stream": "100003",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK4": {
+    "code": "18F-JK4",
+    "name": "A-L18西过道",
+    "ip": "172.16.18.14",
+    "app": "imported",
+    "stream": "100004",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK5": {
+    "code": "18F-JK5",
+    "name": "A-L18财务管理中心北",
+    "ip": "172.16.18.15",
+    "app": "imported",
+    "stream": "100005",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK6": {
+    "code": "18F-JK6",
+    "name": "A-L18财务管理中心南",
+    "ip": "172.16.18.23",
+    "app": "",
+    "stream": "",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK7": {
+    "code": "18F-JK7",
+    "name": "A-L18财务室北",
+    "ip": "172.16.18.17",
+    "app": "imported",
+    "stream": "100007",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK8": {
+    "code": "18F-JK8",
+    "name": "A-L18财务室南",
+    "ip": "172.16.18.24",
+    "app": "",
+    "stream": "",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK9": {
+    "code": "18F-JK9",
+    "name": "A-L18电梯厅东侧过道",
+    "ip": "172.16.18.19",
+    "app": "imported",
+    "stream": "100009",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK10": {
+    "code": "18F-JK10",
+    "name": "A-L18电梯厅西侧过道",
+    "ip": "172.16.18.20",
+    "app": "imported",
+    "stream": "100010",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK11": {
+    "code": "18F-JK11",
+    "name": "A-L18消防电梯合用前室",
+    "ip": "172.16.18.21",
+    "app": "imported",
+    "stream": "100011",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "18F-JK12": {
+    "code": "18F-JK12",
+    "name": "A-L18东边消防楼梯",
+    "ip": "172.16.18.22",
+    "app": "imported",
+    "stream": "100012",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK1": {
+    "code": "19F-JK1",
+    "name": "A-L19北过道",
+    "ip": "172.16.19.11",
+    "app": "imported",
+    "stream": "100013",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK2": {
+    "code": "19F-JK2",
+    "name": "A-L19东过道",
+    "ip": "172.16.19.12",
+    "app": "imported",
+    "stream": "100014",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK3": {
+    "code": "19F-JK3",
+    "name": "A-L19南过道",
+    "ip": "172.16.19.13",
+    "app": "imported",
+    "stream": "100015",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK4": {
+    "code": "19F-JK4",
+    "name": "A-L19西过道",
+    "ip": "172.16.19.14",
+    "app": "imported",
+    "stream": "100016",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK6": {
+    "code": "19F-JK6",
+    "name": "A-L19东南公区",
+    "ip": "172.16.19.15",
+    "app": "imported",
+    "stream": "100017",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK7": {
+    "code": "19F-JK7",
+    "name": "A-L19西南公区",
+    "ip": "172.16.19.16",
+    "app": "imported",
+    "stream": "100018",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK8": {
+    "code": "19F-JK8",
+    "name": "A-L19电梯厅东侧过道",
+    "ip": "172.16.19.17",
+    "app": "imported",
+    "stream": "100019",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK9": {
+    "code": "19F-JK9",
+    "name": "A-L19电梯厅西侧过道",
+    "ip": "172.16.19.18",
+    "app": "imported",
+    "stream": "100020",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK10": {
+    "code": "19F-JK10",
+    "name": "A-L19消防电梯合用前室",
+    "ip": "172.16.19.19",
+    "app": "imported",
+    "stream": "100021",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK11": {
+    "code": "19F-JK11",
+    "name": "A-L19东边消防楼梯",
+    "ip": "172.16.19.20",
+    "app": "imported",
+    "stream": "100022",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK12": {
+    "code": "19F-JK12",
+    "name": "纪委综合办",
+    "ip": "172.16.19.21",
+    "app": "imported",
+    "stream": "100023",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK13": {
+    "code": "19F-JK13",
+    "name": "纪委纪检办",
+    "ip": "172.16.19.22",
+    "app": "imported",
+    "stream": "100024",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK14": {
+    "code": "19F-JK14",
+    "name": "",
+    "ip": "",
+    "app": "",
+    "stream": "",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "19F-JK15": {
+    "code": "19F-JK15",
+    "name": "",
+    "ip": "",
+    "app": "",
+    "stream": "",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK1": {
+    "code": "20F-JK1",
+    "name": "A-L20北过道",
+    "ip": "172.16.20.11",
+    "app": "imported",
+    "stream": "100025",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK2": {
+    "code": "20F-JK2",
+    "name": "A-L20东过道",
+    "ip": "172.16.20.12",
+    "app": "imported",
+    "stream": "100026",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK3": {
+    "code": "20F-JK3",
+    "name": "A-L20南过道",
+    "ip": "172.16.20.13",
+    "app": "imported",
+    "stream": "100027",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK4": {
+    "code": "20F-JK4",
+    "name": "A-L20西过道",
+    "ip": "172.16.20.14",
+    "app": "imported",
+    "stream": "100028",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK5": {
+    "code": "20F-JK5",
+    "name": "A-L20开敞侯会室",
+    "ip": "172.16.20.15",
+    "app": "imported",
+    "stream": "100029",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK6": {
+    "code": "20F-JK6",
+    "name": "A-L20东南公区",
+    "ip": "172.16.20.16",
+    "app": "imported",
+    "stream": "100030",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK7": {
+    "code": "20F-JK7",
+    "name": "A-L20西南公区",
+    "ip": "172.16.20.17",
+    "app": "imported",
+    "stream": "100031",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK8": {
+    "code": "20F-JK8",
+    "name": "A-L20电梯厅东侧过道",
+    "ip": "172.16.20.18",
+    "app": "imported",
+    "stream": "100032",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK9": {
+    "code": "20F-JK9",
+    "name": "A-L20电梯厅西侧过道",
+    "ip": "172.16.20.19",
+    "app": "imported",
+    "stream": "100033",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK10": {
+    "code": "20F-JK10",
+    "name": "A-L20消防电梯合用前室",
+    "ip": "172.16.20.20",
+    "app": "imported",
+    "stream": "100034",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "20F-JK11": {
+    "code": "20F-JK11",
+    "name": "A-L20东边消防楼梯",
+    "ip": "172.16.20.21",
+    "app": "imported",
+    "stream": "100035",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "21F-JK1": {
+    "code": "21F-JK1",
+    "name": "A-L21北过道",
+    "ip": "172.16.21.11",
+    "app": "imported",
+    "stream": "100036",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "21F-JK2": {
+    "code": "21F-JK2",
+    "name": "A-L21东过道",
+    "ip": "172.16.21.12",
+    "app": "imported",
+    "stream": "100037",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "21F-JK3": {
+    "code": "21F-JK3",
+    "name": "A-L21南过道",
+    "ip": "172.16.21.17",
+    "app": "imported",
+    "stream": "100042",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "21F-JK4": {
+    "code": "21F-JK4",
+    "name": "A-L21西过道",
+    "ip": "172.16.21.13",
+    "app": "imported",
+    "stream": "100038",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "21F-JK5": {
+    "code": "21F-JK5",
+    "name": "A-L21电梯厅东侧过道",
+    "ip": "172.16.21.14",
+    "app": "imported",
+    "stream": "100039",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "21F-JK6": {
+    "code": "21F-JK6",
+    "name": "A-L21电梯厅西侧过道",
+    "ip": "172.16.21.15",
+    "app": "imported",
+    "stream": "100040",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "21F-JK7": {
+    "code": "21F-JK7",
+    "name": "A-L21消防电梯合用前室",
+    "ip": "172.16.21.16",
+    "app": "imported",
+    "stream": "100041",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "21F-JK8": {
+    "code": "21F-JK8",
+    "name": "A-L21东边消防楼梯",
+    "ip": "172.16.21.18",
+    "app": "imported",
+    "stream": "100043",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "22F-JK1": {
+    "code": "22F-JK1",
+    "name": "下",
+    "ip": "172.16.21.20",
+    "app": "imported",
+    "stream": "100045",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "22F-JK2": {
+    "code": "22F-JK2",
+    "name": "上",
+    "ip": "172.16.21.21",
+    "app": "imported",
+    "stream": "100046",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "22F-JK3": {
+    "code": "22F-JK3",
+    "name": "前室",
+    "ip": "172.16.21.18",
+    "app": "",
+    "stream": "",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "22F-JK4": {
+    "code": "22F-JK4",
+    "name": "",
+    "ip": "172.16.21.22",
+    "app": "imported",
+    "stream": "100047",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK1": {
+    "code": "23F-JK1",
+    "name": "A-L23北过道",
+    "ip": "172.16.23.11",
+    "app": "imported",
+    "stream": "100048",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK2": {
+    "code": "23F-JK2",
+    "name": "A-L23东过道",
+    "ip": "172.16.23.12",
+    "app": "imported",
+    "stream": "100049",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK3": {
+    "code": "23F-JK3",
+    "name": "A-L23南过道",
+    "ip": "172.16.23.13",
+    "app": "imported",
+    "stream": "100050",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK4": {
+    "code": "23F-JK4",
+    "name": "A-L23西过道",
+    "ip": "172.16.23.14",
+    "app": "imported",
+    "stream": "100051",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK5": {
+    "code": "23F-JK5",
+    "name": "A-L23东南公区",
+    "ip": "172.16.23.15",
+    "app": "imported",
+    "stream": "100052",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK6": {
+    "code": "23F-JK6",
+    "name": "A-L23电梯厅东侧过道",
+    "ip": "172.16.23.19",
+    "app": "imported",
+    "stream": "100056",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK7": {
+    "code": "23F-JK7",
+    "name": "A-L23电梯厅西侧过道",
+    "ip": "172.16.23.16",
+    "app": "imported",
+    "stream": "100053",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK8": {
+    "code": "23F-JK8",
+    "name": "A-L23消防电梯合用前室",
+    "ip": "172.16.23.17",
+    "app": "imported",
+    "stream": "100054",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "23F-JK9": {
+    "code": "23F-JK9",
+    "name": "A-L23东边消防楼梯",
+    "ip": "172.16.23.18",
+    "app": "imported",
+    "stream": "100055",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK1": {
+    "code": "24F-JK1",
+    "name": "A-L24北过道",
+    "ip": "172.16.24.11",
+    "app": "imported",
+    "stream": "100057",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK2": {
+    "code": "24F-JK2",
+    "name": "A-L24东过道",
+    "ip": "172.16.24.12",
+    "app": "imported",
+    "stream": "100058",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK3": {
+    "code": "24F-JK3",
+    "name": "A-L24南过道",
+    "ip": "172.16.24.13",
+    "app": "imported",
+    "stream": "100059",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK4": {
+    "code": "24F-JK4",
+    "name": "A-L24西过道",
+    "ip": "172.16.24.14",
+    "app": "imported",
+    "stream": "100060",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK5": {
+    "code": "24F-JK5",
+    "name": "A-L24东南公区",
+    "ip": "172.16.24.15",
+    "app": "imported",
+    "stream": "100061",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK6": {
+    "code": "24F-JK6",
+    "name": "A-L24财务办公室",
+    "ip": "172.16.24.16",
+    "app": "imported",
+    "stream": "100062",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK7": {
+    "code": "24F-JK7",
+    "name": "A-L24电梯厅东侧过道",
+    "ip": "172.16.24.17",
+    "app": "imported",
+    "stream": "100063",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK8": {
+    "code": "24F-JK8",
+    "name": "A-L24电梯厅西侧过道",
+    "ip": "172.16.24.18",
+    "app": "imported",
+    "stream": "100064",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK9": {
+    "code": "24F-JK9",
+    "name": "A-L24消防电梯合用前室",
+    "ip": "172.16.24.19",
+    "app": "imported",
+    "stream": "100065",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "24F-JK10": {
+    "code": "24F-JK10",
+    "name": "A-L24东边消防楼梯",
+    "ip": "172.16.24.20",
+    "app": "imported",
+    "stream": "100066",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "25F-JK1": {
+    "code": "25F-JK1",
+    "name": "A-L25北过道",
+    "ip": "172.16.25.11",
+    "app": "imported",
+    "stream": "100067",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "25F-JK2": {
+    "code": "25F-JK2",
+    "name": "A-L25东过道",
+    "ip": "172.16.25.12",
+    "app": "imported",
+    "stream": "100068",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "25F-JK3": {
+    "code": "25F-JK3",
+    "name": "A-L25南过道",
+    "ip": "172.16.25.13",
+    "app": "imported",
+    "stream": "100069",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "25F-JK4": {
+    "code": "25F-JK4",
+    "name": "A-L25西过道",
+    "ip": "172.16.25.14",
+    "app": "imported",
+    "stream": "100070",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "25F-JK5": {
+    "code": "25F-JK5",
+    "name": "A-L25电梯厅东侧过道",
+    "ip": "172.16.25.15",
+    "app": "imported",
+    "stream": "100071",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "25F-JK6": {
+    "code": "25F-JK6",
+    "name": "A-L25电梯厅西侧过道",
+    "ip": "172.16.25.16",
+    "app": "imported",
+    "stream": "100072",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "25F-JK7": {
+    "code": "25F-JK7",
+    "name": "A-L25消防电梯合用前室",
+    "ip": "172.16.25.17",
+    "app": "imported",
+    "stream": "100073",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "25F-JK8": {
+    "code": "25F-JK8",
+    "name": "A-L25东边消防楼梯",
+    "ip": "172.16.25.18",
+    "app": "imported",
+    "stream": "100074",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK1": {
+    "code": "26F-JK1",
+    "name": "A-L26北过道",
+    "ip": "172.16.26.11",
+    "app": "imported",
+    "stream": "100075",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK2": {
+    "code": "26F-JK2",
+    "name": "A-L26东过道",
+    "ip": "172.16.26.12",
+    "app": "imported",
+    "stream": "100076",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK3": {
+    "code": "26F-JK3",
+    "name": "A-L26南过道",
+    "ip": "172.16.26.13",
+    "app": "imported",
+    "stream": "100077",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK4": {
+    "code": "26F-JK4",
+    "name": "A-L26西过道",
+    "ip": "172.16.26.14",
+    "app": "imported",
+    "stream": "100078",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK5": {
+    "code": "26F-JK5",
+    "name": "A-L26东南公区",
+    "ip": "172.16.26.15",
+    "app": "imported",
+    "stream": "100079",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK6": {
+    "code": "26F-JK6",
+    "name": "A-L26西南公区",
+    "ip": "172.16.26.16",
+    "app": "imported",
+    "stream": "100080",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK7": {
+    "code": "26F-JK7",
+    "name": "A-L26电梯厅东侧过道",
+    "ip": "172.16.26.17",
+    "app": "imported",
+    "stream": "100081",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK8": {
+    "code": "26F-JK8",
+    "name": "A-L26电梯厅西侧过道",
+    "ip": "172.16.26.18",
+    "app": "imported",
+    "stream": "100082",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK9": {
+    "code": "26F-JK9",
+    "name": "A-L26消防电梯合用前室",
+    "ip": "172.16.26.19",
+    "app": "imported",
+    "stream": "100083",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "26F-JK10": {
+    "code": "26F-JK10",
+    "name": "A-L26东边消防楼梯",
+    "ip": "172.16.26.20",
+    "app": "imported",
+    "stream": "100084",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK1": {
+    "code": "27F-JK1",
+    "name": "A-L27北过道",
+    "ip": "172.16.27.11",
+    "app": "imported",
+    "stream": "100085",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK2": {
+    "code": "27F-JK2",
+    "name": "A-L27东过道",
+    "ip": "172.16.27.12",
+    "app": "imported",
+    "stream": "100086",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK3": {
+    "code": "27F-JK3",
+    "name": "A-L27南过道",
+    "ip": "172.16.27.13",
+    "app": "imported",
+    "stream": "100087",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK4": {
+    "code": "27F-JK4",
+    "name": "A-L27西过道",
+    "ip": "172.16.27.14",
+    "app": "imported",
+    "stream": "100088",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK5": {
+    "code": "27F-JK5",
+    "name": "A-L27东南公区",
+    "ip": "172.16.27.15",
+    "app": "imported",
+    "stream": "100089",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK6": {
+    "code": "27F-JK6",
+    "name": "A-L27西南公区",
+    "ip": "172.16.27.16",
+    "app": "imported",
+    "stream": "100090",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK7": {
+    "code": "27F-JK7",
+    "name": "A-L27电梯厅东侧过道",
+    "ip": "172.16.27.18",
+    "app": "imported",
+    "stream": "100092",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK8": {
+    "code": "27F-JK8",
+    "name": "A-L27电梯厅西侧过道",
+    "ip": "172.16.27.17",
+    "app": "imported",
+    "stream": "100091",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK9": {
+    "code": "27F-JK9",
+    "name": "A-L27消防电梯合用前室",
+    "ip": "172.16.27.19",
+    "app": "imported",
+    "stream": "100093",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "27F-JK10": {
+    "code": "27F-JK10",
+    "name": "A-L27东边消防楼梯",
+    "ip": "172.16.27.20",
+    "app": "imported",
+    "stream": "100094",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK1": {
+    "code": "28F-JK1",
+    "name": "A-L28北过道",
+    "ip": "172.16.28.11",
+    "app": "imported",
+    "stream": "100095",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK2": {
+    "code": "28F-JK2",
+    "name": "A-L28东过道",
+    "ip": "172.16.28.12",
+    "app": "imported",
+    "stream": "100096",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK3": {
+    "code": "28F-JK3",
+    "name": "A-L28南过道",
+    "ip": "172.16.28.13",
+    "app": "imported",
+    "stream": "100097",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK4": {
+    "code": "28F-JK4",
+    "name": "A-L28西过道",
+    "ip": "172.16.28.14",
+    "app": "imported",
+    "stream": "100098",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK5": {
+    "code": "28F-JK5",
+    "name": "A-L28东南公区",
+    "ip": "172.16.28.15",
+    "app": "imported",
+    "stream": "100099",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK6": {
+    "code": "28F-JK6",
+    "name": "A-L28电梯厅东侧过道",
+    "ip": "172.16.28.16",
+    "app": "imported",
+    "stream": "100100",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK7": {
+    "code": "28F-JK7",
+    "name": "A-L28电梯厅西侧过道",
+    "ip": "172.16.28.17",
+    "app": "imported",
+    "stream": "100101",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK8": {
+    "code": "28F-JK8",
+    "name": "A-L28消防电梯合用前室",
+    "ip": "172.16.28.18",
+    "app": "imported",
+    "stream": "100102",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "28F-JK9": {
+    "code": "28F-JK9",
+    "name": "A-L28东边消防楼梯",
+    "ip": "172.16.28.19",
+    "app": "imported",
+    "stream": "100103",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK1": {
+    "code": "29F-JK1",
+    "name": "A-L29北过道",
+    "ip": "172.16.29.11",
+    "app": "imported",
+    "stream": "100104",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK2": {
+    "code": "29F-JK2",
+    "name": "A-L29东过道",
+    "ip": "172.16.29.12",
+    "app": "imported",
+    "stream": "100105",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK3": {
+    "code": "29F-JK3",
+    "name": "A-L29南过道",
+    "ip": "172.16.29.13",
+    "app": "imported",
+    "stream": "100106",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK4": {
+    "code": "29F-JK4",
+    "name": "A-L29西过道",
+    "ip": "172.16.29.14",
+    "app": "imported",
+    "stream": "100107",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK5": {
+    "code": "29F-JK5",
+    "name": "A-L29东南公区",
+    "ip": "172.16.29.15",
+    "app": "imported",
+    "stream": "100108",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK6": {
+    "code": "29F-JK6",
+    "name": "A-L29西南公区",
+    "ip": "172.16.29.16",
+    "app": "imported",
+    "stream": "100109",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK7": {
+    "code": "29F-JK7",
+    "name": "A-L29电梯厅东侧过道",
+    "ip": "172.16.29.17",
+    "app": "imported",
+    "stream": "100110",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK8": {
+    "code": "29F-JK8",
+    "name": "A-L29电梯厅西侧过道",
+    "ip": "172.16.29.18",
+    "app": "imported",
+    "stream": "100111",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK9": {
+    "code": "29F-JK9",
+    "name": "A-L29消防电梯合用前室",
+    "ip": "172.16.29.19",
+    "app": "imported",
+    "stream": "100112",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "29F-JK10": {
+    "code": "29F-JK10",
+    "name": "A-L29东边消防楼梯",
+    "ip": "172.16.29.20",
+    "app": "imported",
+    "stream": "100113",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK1": {
+    "code": "30F-JK1",
+    "name": "A-L30北过道",
+    "ip": "172.16.30.11",
+    "app": "imported",
+    "stream": "100114",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK2": {
+    "code": "30F-JK2",
+    "name": "A-L30东过道",
+    "ip": "172.16.30.12",
+    "app": "imported",
+    "stream": "100115",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK3": {
+    "code": "30F-JK3",
+    "name": "A-L30南过道",
+    "ip": "172.16.30.13",
+    "app": "imported",
+    "stream": "100116",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK4": {
+    "code": "30F-JK4",
+    "name": "A-L30西过道",
+    "ip": "172.16.30.14",
+    "app": "imported",
+    "stream": "100117",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK5": {
+    "code": "30F-JK5",
+    "name": "A-L30东南公区",
+    "ip": "172.16.30.15",
+    "app": "imported",
+    "stream": "100118",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK6": {
+    "code": "30F-JK6",
+    "name": "A-L30西南公区",
+    "ip": "172.16.30.16",
+    "app": "imported",
+    "stream": "100119",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK7": {
+    "code": "30F-JK7",
+    "name": "A-L30电梯厅东侧过道",
+    "ip": "172.16.30.17",
+    "app": "imported",
+    "stream": "100120",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK8": {
+    "code": "30F-JK8",
+    "name": "A-L30电梯厅西侧过道",
+    "ip": "172.16.30.18",
+    "app": "imported",
+    "stream": "100121",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK9": {
+    "code": "30F-JK9",
+    "name": "A-L30消防电梯合用前室",
+    "ip": "172.16.30.19",
+    "app": "imported",
+    "stream": "100122",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "30F-JK10": {
+    "code": "30F-JK10",
+    "name": "A-L30东边消防楼梯",
+    "ip": "172.16.30.20",
+    "app": "imported",
+    "stream": "100123",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK1": {
+    "code": "31F-JK1",
+    "name": "A-L31北过道",
+    "ip": "172.16.31.11",
+    "app": "imported",
+    "stream": "100124",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK2": {
+    "code": "31F-JK2",
+    "name": "A-L31东过道",
+    "ip": "172.16.31.12",
+    "app": "imported",
+    "stream": "100125",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK3": {
+    "code": "31F-JK3",
+    "name": "A-L31南过道",
+    "ip": "172.16.31.13",
+    "app": "imported",
+    "stream": "100126",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK4": {
+    "code": "31F-JK4",
+    "name": "A-L31西过道",
+    "ip": "172.16.31.14",
+    "app": "imported",
+    "stream": "100127",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK5": {
+    "code": "31F-JK5",
+    "name": "A-L31东南公区",
+    "ip": "172.16.31.15",
+    "app": "imported",
+    "stream": "100128",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK6": {
+    "code": "31F-JK6",
+    "name": "A-L31西南公区",
+    "ip": "172.16.31.16",
+    "app": "imported",
+    "stream": "100129",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK7": {
+    "code": "31F-JK7",
+    "name": "A-L31通讯区",
+    "ip": "172.16.31.18",
+    "app": "imported",
+    "stream": "100131",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK8": {
+    "code": "31F-JK8",
+    "name": "A-L31机要室",
+    "ip": "172.16.31.17",
+    "app": "imported",
+    "stream": "100130",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK9": {
+    "code": "31F-JK9",
+    "name": "A-L31机要室2",
+    "ip": "172.16.31.19",
+    "app": "imported",
+    "stream": "100132",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK10": {
+    "code": "31F-JK10",
+    "name": "A-L31电梯厅东侧过道",
+    "ip": "172.16.31.20",
+    "app": "imported",
+    "stream": "100133",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK11": {
+    "code": "31F-JK11",
+    "name": "A-L31电梯厅西侧过道",
+    "ip": "172.16.31.21",
+    "app": "imported",
+    "stream": "100134",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK12": {
+    "code": "31F-JK12",
+    "name": "A-L31消防电梯合用前室",
+    "ip": "172.16.31.22",
+    "app": "imported",
+    "stream": "100135",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "31F-JK13": {
+    "code": "31F-JK13",
+    "name": "A-L31东边消防楼梯",
+    "ip": "172.16.31.23",
+    "app": "imported",
+    "stream": "100136",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK1": {
+    "code": "32F-JK1",
+    "name": "A-L32北过道",
+    "ip": "172.16.32.11",
+    "app": "imported",
+    "stream": "100137",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK2": {
+    "code": "32F-JK2",
+    "name": "A-L32东过道",
+    "ip": "172.16.32.12",
+    "app": "imported",
+    "stream": "100138",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK3": {
+    "code": "32F-JK3",
+    "name": "A-L32南过道",
+    "ip": "172.16.32.13",
+    "app": "imported",
+    "stream": "100139",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK4": {
+    "code": "32F-JK4",
+    "name": "A-L32西过道",
+    "ip": "172.16.32.14",
+    "app": "imported",
+    "stream": "100140",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK5": {
+    "code": "32F-JK5",
+    "name": "A-L32前台接待处",
+    "ip": "172.16.32.15",
+    "app": "imported",
+    "stream": "100141",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK6": {
+    "code": "32F-JK6",
+    "name": "A-L32东南公区",
+    "ip": "172.16.32.16",
+    "app": "imported",
+    "stream": "100142",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK7": {
+    "code": "32F-JK7",
+    "name": "A-L32西南公区",
+    "ip": "172.16.32.17",
+    "app": "imported",
+    "stream": "100143",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK8": {
+    "code": "32F-JK8",
+    "name": "A-L32电梯厅东侧过道",
+    "ip": "172.16.32.18",
+    "app": "imported",
+    "stream": "100144",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK9": {
+    "code": "32F-JK9",
+    "name": "A-L32电梯厅西侧过道",
+    "ip": "172.16.32.19",
+    "app": "imported",
+    "stream": "100145",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK10": {
+    "code": "32F-JK10",
+    "name": "A-L32消防电梯合用前室",
+    "ip": "172.16.32.20",
+    "app": "imported",
+    "stream": "100146",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "32F-JK11": {
+    "code": "32F-JK11",
+    "name": "A-L32东边消防楼梯",
+    "ip": "172.16.32.21",
+    "app": "imported",
+    "stream": "100147",
+    "deviceId": "",
+    "channelId": ""
+  },
+  "1F-JK1": {
+    "code": "1F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110153"
+  },
+  "1F-JK2": {
+    "code": "1F-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110154"
+  },
+  "1F-JK3": {
+    "code": "1F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110155"
+  },
+  "1F-JK4": {
+    "code": "1F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110156"
+  },
+  "1F-JK6": {
+    "code": "1F-JK6",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110158"
+  },
+  "1F-JK7": {
+    "code": "1F-JK7",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110159"
+  },
+  "1F-JK8": {
+    "code": "1F-JK8",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110160"
+  },
+  "1F-JK9": {
+    "code": "1F-JK9",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110161"
+  },
+  "1F-JK10": {
+    "code": "1F-JK10",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110162"
+  },
+  "1F-JK12": {
+    "code": "1F-JK12",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110164"
+  },
+  "1F-JK13": {
+    "code": "1F-JK13",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110165"
+  },
+  "1F-JK14": {
+    "code": "1F-JK14",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110166"
+  },
+  "1F-JK15": {
+    "code": "1F-JK15",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110167"
+  },
+  "1F-JK16": {
+    "code": "1F-JK16",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110168"
+  },
+  "1F-JK17": {
+    "code": "1F-JK17",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110169"
+  },
+  "1F-JK18": {
+    "code": "1F-JK18",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110170"
+  },
+  "1F-JK19": {
+    "code": "1F-JK19",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110171"
+  },
+  "1F-JK20": {
+    "code": "1F-JK20",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110172"
+  },
+  "1F-JK21": {
+    "code": "1F-JK21",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110173"
+  },
+  "1F-JK22": {
+    "code": "1F-JK22",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110174"
+  },
+  "1F-JK23": {
+    "code": "1F-JK23",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110175"
+  },
+  "1F-JK24": {
+    "code": "1F-JK24",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110029"
+  },
+  "1F-JK25": {
+    "code": "1F-JK25",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110030"
+  },
+  "1F-JK26": {
+    "code": "1F-JK26",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110031"
+  },
+  "1F-JK27": {
+    "code": "1F-JK27",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110032"
+  },
+  "1F-JK28": {
+    "code": "1F-JK28",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110033"
+  },
+  "1F-JK29": {
+    "code": "1F-JK29",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110034"
+  },
+  "1F-JK30": {
+    "code": "1F-JK30",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110035"
+  },
+  "1F-JK31": {
+    "code": "1F-JK31",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110036"
+  },
+  "1F-JK32": {
+    "code": "1F-JK32",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110037"
+  },
+  "1F-JK33": {
+    "code": "1F-JK33",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110038"
+  },
+  "1F-JK34": {
+    "code": "1F-JK34",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110039"
+  },
+  "1F-JK35": {
+    "code": "1F-JK35",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110040"
+  },
+  "1F-JK36": {
+    "code": "1F-JK36",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110041"
+  },
+  "1F-JK37": {
+    "code": "1F-JK37",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110042"
+  },
+  "1F-JK38": {
+    "code": "1F-JK38",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110043"
+  },
+  "1F-JK39": {
+    "code": "1F-JK39",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110044"
+  },
+  "1F-JK40": {
+    "code": "1F-JK40",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110045"
+  },
+  "1F-JK41": {
+    "code": "1F-JK41",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110046"
+  },
+  "1F-JK42": {
+    "code": "1F-JK42",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110047"
+  },
+  "1F-JK43": {
+    "code": "1F-JK43",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110048"
+  },
+  "1F-JK44": {
+    "code": "1F-JK44",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110049"
+  },
+  "1F-JK45": {
+    "code": "1F-JK45",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110050"
+  },
+  "1F-JK46": {
+    "code": "1F-JK46",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110051"
+  },
+  "1F-JK47": {
+    "code": "1F-JK47",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110052"
+  },
+  "1F-JK48": {
+    "code": "1F-JK48",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110053"
+  },
+  "1F-JK49": {
+    "code": "1F-JK49",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110054"
+  },
+  "1F-JK50": {
+    "code": "1F-JK50",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110055"
+  },
+  "1F-JK51": {
+    "code": "1F-JK51",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110056"
+  },
+  "1F-JK52": {
+    "code": "1F-JK52",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110057"
+  },
+  "1F-JK53": {
+    "code": "1F-JK53",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110058"
+  },
+  "1F-JK54": {
+    "code": "1F-JK54",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110059"
+  },
+  "1F-JK55": {
+    "code": "1F-JK55",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110060"
+  },
+  "1F-JK56": {
+    "code": "1F-JK56",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110061"
+  },
+  "1F-JK57": {
+    "code": "1F-JK57",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110062"
+  },
+  "1F-JK58": {
+    "code": "1F-JK58",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110063"
+  },
+  "1F-JK59": {
+    "code": "1F-JK59",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110064"
+  },
+  "1F-JK60": {
+    "code": "1F-JK60",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110065"
+  },
+  "1F-JK61": {
+    "code": "1F-JK61",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110066"
+  },
+  "2F-JK1": {
+    "code": "2F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110176"
+  },
+  "2F-JK2": {
+    "code": "2F-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110177"
+  },
+  "2F-JK3": {
+    "code": "2F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110178"
+  },
+  "2F-JK4": {
+    "code": "2F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110179"
+  },
+  "2F-JK5": {
+    "code": "2F-JK5",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110180"
+  },
+  "2F-JK6": {
+    "code": "2F-JK6",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110181"
+  },
+  "2F-JK8": {
+    "code": "2F-JK8",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110183"
+  },
+  "2F-JK9": {
+    "code": "2F-JK9",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110184"
+  },
+  "2F-JK11": {
+    "code": "2F-JK11",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110186"
+  },
+  "2F-JK12": {
+    "code": "2F-JK12",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110187"
+  },
+  "2F-JK13": {
+    "code": "2F-JK13",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110188"
+  },
+  "2F-JK14": {
+    "code": "2F-JK14",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110189"
+  },
+  "2F-JK15": {
+    "code": "2F-JK15",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110190"
+  },
+  "2F-JK17": {
+    "code": "2F-JK17",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110192"
+  },
+  "2F-JK18": {
+    "code": "2F-JK18",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110193"
+  },
+  "2F-JK19": {
+    "code": "2F-JK19",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110194"
+  },
+  "2F-JK20": {
+    "code": "2F-JK20",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110195"
+  },
+  "2F-JK21": {
+    "code": "2F-JK21",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110196"
+  },
+  "2F-JK22": {
+    "code": "2F-JK22",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110197"
+  },
+  "2F-JK23": {
+    "code": "2F-JK23",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110198"
+  },
+  "2F-JK24": {
+    "code": "2F-JK24",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110199"
+  },
+  "3F-JK1": {
+    "code": "3F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.11",
+    "app": "imported",
+    "stream": "110088"
+  },
+  "3F-JK2": {
+    "code": "3F-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.12",
+    "app": "imported",
+    "stream": "110089"
+  },
+  "3F-JK3": {
+    "code": "3F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.13",
+    "app": "imported",
+    "stream": "110090"
+  },
+  "3F-JK4": {
+    "code": "3F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.14",
+    "app": "imported",
+    "stream": "110091"
+  },
+  "3F-JK5": {
+    "code": "3F-JK5",
+    "channelId": "",
+    "deviceId": "",
+    "name": 9,
+    "ip": "172.16.3.15",
+    "app": "imported",
+    "stream": "110092"
+  },
+  "3F-JK6": {
+    "code": "3F-JK6",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.16",
+    "app": "imported",
+    "stream": "110093"
+  },
+  "3F-JK7": {
+    "code": "3F-JK7",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.17",
+    "app": "imported",
+    "stream": "110094"
+  },
+  "3F-JK8": {
+    "code": "3F-JK8",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.18",
+    "app": "imported",
+    "stream": "110095"
+  },
+  "3F-JK9": {
+    "code": "3F-JK9",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.19",
+    "app": "imported",
+    "stream": "110096"
+  },
+  "3F-JK10": {
+    "code": "3F-JK10",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.20",
+    "app": "imported",
+    "stream": "110097"
+  },
+  "3F-JK11": {
+    "code": "3F-JK11",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.21",
+    "app": "imported",
+    "stream": "110098"
+  },
+  "3F-JK12": {
+    "code": "3F-JK12",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.22",
+    "app": "imported",
+    "stream": "110099"
+  },
+  "3F-JK13": {
+    "code": "3F-JK13",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.23",
+    "app": "imported",
+    "stream": "110100"
+  },
+  "3F-JK14": {
+    "code": "3F-JK14",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.24",
+    "app": "imported",
+    "stream": "110101"
+  },
+  "3F-JK15": {
+    "code": "3F-JK15",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.25",
+    "app": "imported",
+    "stream": "110102"
+  },
+  "3F-JK16": {
+    "code": "3F-JK16",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.26",
+    "app": "imported",
+    "stream": "110103"
+  },
+  "3F-JK17": {
+    "code": "3F-JK17",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.27",
+    "app": "imported",
+    "stream": "110104"
+  },
+  "3F-JK18": {
+    "code": "3F-JK18",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.3.28",
+    "app": "imported",
+    "stream": "110105"
+  },
+  "3F-JK19": {
+    "code": "3F-JK19",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110106"
+  },
+  "3F-JK20": {
+    "code": "3F-JK20",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110107"
+  },
+  "3F-JK21": {
+    "code": "3F-JK21",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110108"
+  },
+  "3F-JK22": {
+    "code": "3F-JK22",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110109"
+  },
+  "3F-JK23": {
+    "code": "3F-JK23",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110110"
+  },
+  "3F-JK24": {
+    "code": "3F-JK24",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110111"
+  },
+  "3F-JK25": {
+    "code": "3F-JK25",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110112"
+  },
+  "3F-JK26": {
+    "code": "3F-JK26",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110113"
+  },
+  "3F-JK27": {
+    "code": "3F-JK27",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110114"
+  },
+  "3F-JK28": {
+    "code": "3F-JK28",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110115"
+  },
+  "4F-JK1": {
+    "code": "4F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4北过道",
+    "ip": "172.16.4.19",
+    "app": "imported",
+    "stream": "110116"
+  },
+  "4F-JK2": {
+    "code": "4F-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4东过道",
+    "ip": "172.16.4.17",
+    "app": "imported",
+    "stream": "110117"
+  },
+  "4F-JK3": {
+    "code": "4F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4南过道",
+    "ip": "172.16.4.11",
+    "app": "imported",
+    "stream": "110118"
+  },
+  "4F-JK4": {
+    "code": "4F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4西过道",
+    "ip": "172.16.4.16",
+    "app": "imported",
+    "stream": "110119"
+  },
+  "4F-JK5": {
+    "code": "4F-JK5",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4西出入口",
+    "ip": "172.16.4.14",
+    "app": "imported",
+    "stream": "110120"
+  },
+  "4F-JK6": {
+    "code": "4F-JK6",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4电梯厅北侧过道",
+    "ip": "172.16.4.13",
+    "app": "imported",
+    "stream": "110121"
+  },
+  "4F-JK7": {
+    "code": "4F-JK7",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4电梯厅东侧过道",
+    "ip": "172.16.4.17",
+    "app": "imported",
+    "stream": "110122"
+  },
+  "4F-JK8": {
+    "code": "4F-JK8",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4消防电梯合用前室",
+    "ip": "172.16.4.15",
+    "app": "imported",
+    "stream": "110123"
+  },
+  "4F-JK9": {
+    "code": "4F-JK9",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4西边消防楼梯",
+    "ip": "172.16.4.12",
+    "app": "imported",
+    "stream": "110124"
+  },
+  "4F-JK10": {
+    "code": "4F-JK10",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L4东边消防楼梯",
+    "ip": "172.16.4.18",
+    "app": "imported",
+    "stream": "110125"
+  },
+  "4F-JK11": {
+    "code": "4F-JK11",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.4.21",
+    "app": "imported",
+    "stream": "110126"
+  },
+  "4F-JK12": {
+    "code": "4F-JK12",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "172.16.4.22",
+    "app": "imported",
+    "stream": "110127"
+  },
+  "5F-JK1": {
+    "code": "5F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110128"
+  },
+  "5F-JK2": {
+    "code": "5F-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110129"
+  },
+  "5F-JK3": {
+    "code": "5F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110130"
+  },
+  "5F-JK4": {
+    "code": "5F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110131"
+  },
+  "5F-JK5": {
+    "code": "5F-JK5",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L5电梯厅南侧过道",
+    "ip": "",
+    "app": "imported",
+    "stream": "110132"
+  },
+  "5F-JK6": {
+    "code": "5F-JK6",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L5电梯厅北侧过道",
+    "ip": "172.16.511",
+    "app": "imported",
+    "stream": "110133"
+  },
+  "7F-JK1": {
+    "code": "7F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110134"
+  },
+  "7F-JK2": {
+    "code": "7F-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110135"
+  },
+  "7F-JK3": {
+    "code": "7F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110136"
+  },
+  "7F-JK4": {
+    "code": "7F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110137"
+  },
+  "9F-JK1": {
+    "code": "9F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L9北过道",
+    "ip": "",
+    "app": "imported",
+    "stream": "110138"
+  },
+  "9F-JK3": {
+    "code": "9F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L9南过道",
+    "ip": "",
+    "app": "imported",
+    "stream": "110139"
+  },
+  "9F-JK4": {
+    "code": "9F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L9西过道",
+    "ip": "",
+    "app": "imported",
+    "stream": "110140"
+  },
+  "9F-JK5": {
+    "code": "9F-JK5",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110141"
+  },
+  "11F-JK1": {
+    "code": "11F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110142"
+  },
+  "11F-JK2": {
+    "code": "11F-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110143"
+  },
+  "11F-JK3": {
+    "code": "11F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L11东边消防下行楼梯",
+    "ip": "",
+    "app": "imported",
+    "stream": "110144"
+  },
+  "11F-JK4": {
+    "code": "11F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "A-L11东边消防上行楼梯",
+    "ip": "",
+    "app": "imported",
+    "stream": "110145"
+  },
+  "33F-JK1": {
+    "code": "33F-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110146"
+  },
+  "33F-JK2": {
+    "code": "33F-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110147"
+  },
+  "33F-JK3": {
+    "code": "33F-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110148"
+  },
+  "33F-JK4": {
+    "code": "33F-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110149"
+  },
+  "33F-JK5": {
+    "code": "33F-JK5",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110150"
+  },
+  "33F-JK6": {
+    "code": "33F-JK6",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110151"
+  },
+  "33F-JK7": {
+    "code": "33F-JK7",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110152"
+  },
+  "1F-JK5": {
+    "code": "1F-JK5",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110157"
+  },
+  "1F-JK11": {
+    "code": "1F-JK11",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110163"
+  },
+  "2F-JK7": {
+    "code": "2F-JK7",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110182"
+  },
+  "2F-JK10": {
+    "code": "2F-JK10",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110185"
+  },
+  "2F-JK16": {
+    "code": "2F-JK16",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110191"
+  },
+  "2F-JK25": {
+    "code": "2F-JK25",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110200"
+  },
+  "2F-JK26": {
+    "code": "2F-JK26",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110201"
+  },
+  "2F-JK27": {
+    "code": "2F-JK27",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110202"
+  },
+  "SW-JK1": {
+    "code": "SW-JK1",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110203"
+  },
+  "SW-JK2": {
+    "code": "SW-JK2",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110204"
+  },
+  "SW-JK3": {
+    "code": "SW-JK3",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110205"
+  },
+  "SW-JK4": {
+    "code": "SW-JK4",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110206"
+  },
+  "SW-JK5": {
+    "code": "SW-JK5",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110207"
+  },
+  "SW-JK6": {
+    "code": "SW-JK6",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110208"
+  },
+  "SW-JK7": {
+    "code": "SW-JK7",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110209"
+  },
+  "SW-JK8": {
+    "code": "SW-JK8",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110210"
+  },
+  "SW-JK9": {
+    "code": "SW-JK9",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110211"
+  },
+  "SW-JK10": {
+    "code": "SW-JK10",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110212"
+  },
+  "SW-JK11": {
+    "code": "SW-JK11",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110213"
+  },
+  "SW-JK12": {
+    "code": "SW-JK12",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110214"
+  },
+  "SW-JK13": {
+    "code": "SW-JK13",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110215"
+  },
+  "SW-JK14": {
+    "code": "SW-JK14",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110216"
+  },
+  "SW-JK15": {
+    "code": "SW-JK15",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110217"
+  },
+  "SW-JK16": {
+    "code": "SW-JK16",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110218"
+  },
+  "SW-JK17": {
+    "code": "SW-JK17",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110219"
+  },
+  "SW-JK18": {
+    "code": "SW-JK18",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110220"
+  },
+  "SW-JK19": {
+    "code": "SW-JK19",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110221"
+  },
+  "SW-JK20": {
+    "code": "SW-JK20",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110222"
+  },
+  "SW-JK21": {
+    "code": "SW-JK21",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110223"
+  },
+  "SW-JK22": {
+    "code": "SW-JK22",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110224"
+  },
+  "SW-JK23": {
+    "code": "SW-JK23",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110225"
+  },
+  "SW-JK24": {
+    "code": "SW-JK24",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110226"
+  },
+  "SW-JK25": {
+    "code": "SW-JK25",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110227"
+  },
+  "SW-JK26": {
+    "code": "SW-JK26",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110228"
+  },
+  "SW-JK27": {
+    "code": "SW-JK27",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110229"
+  },
+  "SW-JK28": {
+    "code": "SW-JK28",
+    "channelId": "",
+    "deviceId": "",
+    "name": "",
+    "ip": "",
+    "app": "imported",
+    "stream": "110230"
+  }
+}
