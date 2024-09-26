@@ -65,10 +65,26 @@ import os
 
 
 
-ex = pd.read_excel('/Users/louisliu/Downloads/111.xlsx', sheet_name=0)
-ex1 = pd.read_excel('/Users/louisliu/Downloads/222.xls', sheet_name=1)
-ids = ex.merge(ex1, how='left', left_on='name', right_on='现房间号')
-e = ex.copy()
-e['设备编号'] = ids.apply(lambda x: x['code'] if pd.notnull(x['code']) else x['设备编号'], axis=1)
+# ex = pd.read_excel('/Users/louisliu/Downloads/111.xlsx', sheet_name=0)
+# ex1 = pd.read_excel('/Users/louisliu/Downloads/222.xls', sheet_name=1)
+# ids = ex.merge(ex1, how='left', left_on='name', right_on='现房间号')
+# e = ex.copy()
+# e['设备编号'] = ids.apply(lambda x: x['code'] if pd.notnull(x['code']) else x['设备编号'], axis=1)
 
-e.to_excel('/Users/louisliu/Downloads/3333.xlsx', index=False)
+# e.to_excel('/Users/louisliu/Downloads/3333.xlsx', index=False)
+
+def genCode(name):
+    part = 'A' if name.find('A') > -1 else 'B'
+    prefix = ''
+    if name.find('空调') > -1:
+        prefix = 'wty-ele-k-' + ('a-' if part == 'A' else 'b-')
+    else:
+        prefix = 'd-r-' + ('A' if part == 'A' else 'B')
+    code = prefix + name.split('-')[-1]
+    return code
+
+ex = pd.read_excel('anda/11-elec-data.xlsx', sheet_name=0)
+
+ex['设备编号'] = ex.apply(lambda x: genCode(x['设备名称']), axis=1)
+
+ex.to_excel('/Users/louisliu/Downloads/3333.xlsx', index=False)
