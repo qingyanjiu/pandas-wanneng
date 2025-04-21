@@ -85,7 +85,17 @@ def process_map(map):
                     if len(sValue) > 0:
                         kv_txt = ''
                         for k, v in tValue.items():
-                            # json转为键值对字符串
+                            # if k in [
+                            #         "姓名", "身份证号码", "性别", "民族", "政治面貌", "文化程度", "户口所在地",
+                            #         "家庭住址", "本人联系方式", "主要亲属姓名", "主要亲属联系方式", "工作单位详细名称",
+                            #         "工作单位详细地址", "工作单位联系方式", "是否为退役军人", "分队编码", "分队名称",
+                            #         "队伍级别", "力量类型", "专业", "职务", "专业是否对口", "是否为参训对象", "采集批次号",
+                            #         "地理位置", "机构名称"
+                            #         ]:
+                            #     kv_txt += f'{k}: "",'
+                            # else:
+                            #     # json转为键值对字符串
+                            #     kv_txt += f"{k}: {v},"
                             kv_txt += f"{k}: {v},"
                         result.append(f"{kv_txt}\n")
                 sValueCountStr += f"{sKey}\n"
@@ -117,5 +127,5 @@ area_map['全部区域'] = all_map
 #     f.write(map_str)
 
 dataset_txt = process_map(area_map)
-with open('gd/dataset1.txt', 'w', encoding='utf-8') as f:
+with open('gd/dataset.txt', 'w', encoding='utf-8') as f:
     f.write(dataset_txt)
