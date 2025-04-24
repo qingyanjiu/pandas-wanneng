@@ -3,6 +3,24 @@ import numpy as np
 import json
 from collections import defaultdict
 
+# 添加缺失的类目信息列
+# 一级类目 type_1 二级类目 type_2 三级类目 type_3 叶子类目 type_leaf
+def pre_process_data(df: pd.DataFrame, type_map: dict):
+    """
+    数据预处理
+    :param df: 数据frame
+    :param type_map: 数据类映射字典
+    :return: 处理后的数据框
+    """
+    df.drop('一级类目', axis=1, inplace=True)
+    for leaf_titile, up_level_titiles in type_map.items():
+            for title in up_level_titiles:
+                # 插入上级类目的列
+                # df.loc[df['二级类目'] == leaf_titile, f"level_{str(title['level'])}"] = title['name']
+                df.insert(0, f"type_{str(title['level'])}", title['name'])
+            # 将二级类目列名改为 leaf_level
+            df.rename(columns={"二级类目": "type_leaf"}, inplace=True)
+
 # 根据传入的列名列表动态进行分组，返回嵌套map
 def gen_dynamic_level_map(dataframe: pd.DataFrame, groupby_cols: list, current_level: int):
     """
@@ -109,7 +127,6 @@ def process_map(map):
             result.append(f"------\n")
             result.append(f"{sValueCountStr}")
     return ''.join(result)
-
 
 
 df = pd.read_json('gd/data.json', encoding='utf-8')
