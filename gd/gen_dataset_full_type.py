@@ -1,30 +1,35 @@
 import pandas as pd
-import numpy as np
 import json
-from collections import defaultdict
 
 # 添加缺失的类目信息列
 # 一级类目 type_1 二级类目 type_2 三级类目 type_3 叶子类目 type_leaf
-def pre_process_data(df: pd.DataFrame, type_maps: list, max_level):
+def pre_process_data(df: pd.DataFrame, title_level_map: list, max_level):
     """
     数据预处理
     :param df: 数据frame
     :param type_map: 数据类映射字典
     :return: 处理后的数据框
     """
-    # 删除一级类目列
     df.drop('一级类目', axis=1, inplace=True)
-    # 叶子类目列名
-    max_level_col_name = f"level_{max_level}"
-    # 将二级类目列名改为 level_最大类目层级
-    df.rename(columns={"二级类目": max_level_col_name}, inplace=True)
-    for type_map in type_maps:
+    # 添加所有空列名，现在都是空值，后面赋值
+    for i in range(1, max_level + 1):
+        df.insert(i, f"level_{i}", 'Empty')
+    # 对每一列进行赋值
+    for type_map in title_level_map:
+        # 叶子结点数据
         leaf_name = type_map['name']
+        # 叶子结点层级
+        leaf_level = type_map['level']
+        # 其他节点列表
         leaf_parents = type_map['parents']
+        # 将叶子类目名称赋值到对应的列
+        df.loc[df["二级类目"] == leaf_name, f"level_{leaf_level}"] = leaf_name
+        # 其他类目名称赋值到对应的列
         for up_level_titile in leaf_parents:
             # 插入上级类目的列
-            df.loc[df[max_level_col_name] == leaf_name, f"level_{str(up_level_titile['level'])}"] = up_level_titile['name']
-
+            df.loc[df["二级类目"] == leaf_name, f"level_{str(up_level_titile['level'])}"] = up_level_titile['name']
+    # 处理完后，删除二级类目列
+    df.drop('二级类目', axis=1, inplace=True)
 
 
 # 根据传入的列名列表动态进行分组，返回嵌套map
@@ -77,7 +82,7 @@ def process_map(data):
             full_path = ''.join(path)
             # 叶子节点：打印资源详情
             result.append("******\n")
-            result.append(f"{full_path}资源\n")
+            result.append(f"{full_path}\n")
             result.append("------\n")
             result.append(f"总计: {len(node)}\n")
             for item in node:
@@ -104,7 +109,7 @@ def process_map(data):
                 # path长度大于0，且不包含"Empty"的节点，且不是叶子类目(叶子类目不需要做数量统计，只需要详情)，说明是一个有效的区域 
                 if len(path) > 0 and 'Empty' not in path and not area_info['is_leaf_type']:
                     result.append("******\n")
-                    result.append(f"{''.join(path)}资源\n")
+                    result.append(f"{''.join(path)}统计\n")
                     result.append("------\n")
                     result.append(summary)
                 # 一次递归走完，下一个节点肯定不是叶子类目
@@ -118,26 +123,53 @@ def process_map(data):
 
 
 def do_gen_dataset(dataframe, max_level, title_level_map):
-    # 将缺失的类目层级添加到map中,保证生成完整的列
+
+    ''' 补全缺失的类目信息列, 例如
+    {
+        "name": "基干民兵",
+        "level": 3,
+        "parents": [
+            {
+                "name": "基干民兵222",
+                "level": 2
+            },
+            {
+                "name": "人民武装类",
+                "level": 1
+            }
+        ]
+    }
+    补全后:
+    {
+        "name": "基干民兵",
+        "level": 3,
+        "parents": [
+            {
+                "name": "基干民兵222",
+                "level": 2
+            },
+            {
+                "name": "人民武装类",
+                "level": 1
+            },
+            {
+                "name": "基干民兵",
+                "level": 4
+            }
+        ]
+    }
+    '''
     for m in title_level_map:
-        # 算出当前类目最大类型层级比最大层级少多少
-        level_offset = max_level - m['level']
-        m['level'] = m['level'] + level_offset
-        # 所有的上级类目都要加上这个偏移量
-        for l in m['parents']:
-            l['level'] = l['level'] + level_offset
-        # 将不存在的类目的列的值设为Empty
-        for i in range(1, level_offset + 1):
+        # 添加当前类目下级空层级的目录
+        for i in range(m['level'] + 1, max_level + 1):
             # 如果没有下级类目，则下级类目的name全都和叶子类目名称一样
             m['parents'].append({
-                "name": 'Empty',
+                "name": m['name'],
                 "level": i
             })
 
     # 预处理，删除一级类目，根据二级类目信息添加实际类目层级
     pre_process_data(dataframe, title_level_map, max_level)
-    # 测试数据
-    # dataframe = dataframe.loc[dataframe['level_4'] == '人防指挥所']
 
     # 根据总层级，生成按每一个层级分组的map
     # 按区域、1234类目层级分组的map
@@ -160,7 +192,8 @@ if __name__ == "__main__":
     df = pd.read_json('gd/data.json', encoding='utf-8')
     # 设置最大类目层级
     max_level = 4
-    # 类目映射信息
+
+    # 测试数据
     # title_level_map = [
     #     {
     #         "name": "基干民兵",
@@ -177,6 +210,8 @@ if __name__ == "__main__":
     #         ]
     #     }
     # ]
+    # df = df.loc[df['二级类目'] == '基干民兵']
+
     # 所有叶子类目相关的层级关系
     title_level_map = pd.read_json('gd/title_level.txt', encoding='utf-8').to_dict(orient='records')
     # 生成的知识库文本
