@@ -1,3 +1,4 @@
+import os
 import pandas as pd
 import json
 
@@ -188,10 +189,12 @@ def do_gen_dataset(dataframe, max_level, title_level_map):
     return dataset_txt
 
 if __name__ == "__main__":
+    base_path = 'gd/data20250425143936'
+
     # 读取源数据到dataframe
-    df = pd.read_json('gd/data.json', encoding='utf-8')
+    df = pd.read_json(os.path.join(base_path, 'data.json'), encoding='utf-8')
     # 设置最大类目层级
-    max_level = 4
+    max_level = 5
 
     # 测试数据
     # title_level_map = [
@@ -213,10 +216,10 @@ if __name__ == "__main__":
     # df = df.loc[df['二级类目'] == '基干民兵']
 
     # 所有叶子类目相关的层级关系
-    title_level_map = pd.read_json('gd/title_level.txt', encoding='utf-8').to_dict(orient='records')
+    title_level_map = pd.read_json(os.path.join(base_path, 'title_level.json'), encoding='utf-8').to_dict(orient='records')
     # 生成的知识库文本
     dataset_txt = do_gen_dataset(df, max_level, title_level_map)
     # 写入文件
-    with open('gd/dataset.txt', 'w', encoding='utf-8') as f:
+    with open(os.path.join(base_path, 'dataset.txt'), 'w', encoding='utf-8') as f:
         f.write(dataset_txt)
 
