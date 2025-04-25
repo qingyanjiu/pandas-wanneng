@@ -82,7 +82,7 @@ def process_map(data):
             full_path = ''.join(path)
             # 叶子节点：打印资源详情
             result.append("******\n")
-            result.append(f"{full_path}\n")
+            result.append(f"{full_path}详情\n")
             result.append("------\n")
             result.append(f"总计: {len(node)}\n")
             for item in node:
@@ -92,7 +92,7 @@ def process_map(data):
             # 到本个mapitem的末尾，下面是区域信息
             # 走到最后一层(list)，说明这里肯定是最低级的类目了，打个标签，让生成文本的时候不要进行该类目的统计（因为最低一级类目有详情信息）
             area_info['is_leaf_type'] = True
-            return f"{path[-1]}\n总计: {len(node)}\n"
+            return f"{path[-1]}\n总计: {len(node)}\n------\n"
         elif isinstance(node, dict):
             # 中间节点：递归处理
             summary = ''
