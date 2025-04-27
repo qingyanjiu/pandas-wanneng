@@ -81,39 +81,14 @@ def pre_process_data(df: pd.DataFrame, title_level_map: list, max_level):
     # 处理完后，删除二级类目列
     df.drop('二级类目', axis=1, inplace=True)
 
-
-# 根据传入的列名列表动态进行分组，返回嵌套map
-def gen_dynamic_level_map(dataframe: pd.DataFrame, groupby_cols: list, current_level: int):
-    """
-    递归生成动态分级map
-    :param dataframe: 数据框
-    :param groupby_cols: 分组列
-    :param current_level: 当前级别
-    :return: map
-    """
-    if current_level >= len(groupby_cols):
-        df_json_str = dataframe.to_json(force_ascii=False, orient='records')
-        # ✅ 先解析成 Python 对象（list of dicts）
-        df_json = json.loads(df_json_str)
-        # 清除值为null的key
-        cleaned = [{k: v for k, v in item.items() if v} for item in df_json]
-        return cleaned
-
-    # 获取当前级别的列名
-    current_col = groupby_cols[current_level]
-
-    # 按当前级别分组
-    grouped = dataframe.groupby(current_col)
-
-    # 递归处理每个组
-    result = {}
-    for name, group in grouped:
-        result[name] = gen_dynamic_level_map(group, groupby_cols, current_level + 1)
-
-    return result
+    # 构造所有区域数据，合并到原数据中
+    df_total_area = df.copy()
+    df_total_area['所属区域'] = '整个区域'
+    df_all = pd.concat([df, df_total_area], ignore_index=True)
+    return df_all
 
 # 切分数据集，分别生成知识库文本。然后进行拼接
-def do_gen_dataset(dataframe, max_level, title_level_map):
+def do_gen_dataset(dataframe, title_level_map):
     # 循环处理各个级别的数据
     # 总层级的最低的类的层级
     最高层级 = min(list(map(lambda x: x['level'], title_level_map)))
@@ -138,7 +113,6 @@ def do_gen_dataset(dataframe, max_level, title_level_map):
         对 index=['所属区域', 'level_2'], columns=['level_4'] 生成透视表，对 level_4 下的数据进行数量统计
         对 index=['所属区域', 'level_3'], columns=['level_4'] 生成透视表，对 level_4 下的数据进行数量统计
         获取 '所属区域'==当前区域，'level_4'==当前类型 的数据列表，作为 level_4 的统计详情
-        TODO 还没添加 整个区域 的数据信息 TODO
         '''
         # 对当前这一类最高类别层级一致的数据进行分层级groupby统计
         for 要统计的大类层级 in range(1, 当前要统计的最低类层级 + 1):
@@ -158,6 +132,10 @@ def do_gen_dataset(dataframe, max_level, title_level_map):
                     data_list = 详情数据记录.to_dict(orient='records')
                     # 去除空字段，过滤掉之前增加的辅助统计的类型字段(level_x)和最大类型层级字段(max_type_level)
                     cleaned_list = [{k: v for k, v in item.items() if (v and pd.notna(v) and 'level' not in k)} for item in data_list]
+                    # 插入总计数据
+                    最终知识库文本.append(子级分段符)
+                    最终知识库文本.append(f'总计: {len(cleaned_list)}\n')
+                    # 插入详情数据
                     for 详情数据 in cleaned_list:
                         最终知识库文本.append(子级分段符)
                         最终知识库文本.append(f'{str(详情数据)}\n')
@@ -169,12 +147,7 @@ def do_gen_dataset(dataframe, max_level, title_level_map):
                         if 数量 > 0:
                             最终知识库文本.append(子级分段符)
                             最终知识库文本.append(f'{最低层级类名字}\n')
-                            最终知识库文本.append(f'总计{数量}\n')
-
-    print(''.join(最终知识库文本))
-    exit(0)
-    # TODO
-        
+                            最终知识库文本.append(f'总计{数量}\n')      
 
     return ''.join(最终知识库文本)
 
@@ -188,31 +161,12 @@ if __name__ == "__main__":
     # 设置最大类目层级
     max_level = 5
 
-    # 测试数据
-    # title_level_map = [
-    #     {
-    #         "name": "基干民兵",
-    #         "level": 3,
-    #         "parents": [
-    #             {
-    #                 "name": "基干民兵222",
-    #                 "level": 2
-    #             },
-    #             {
-    #                 "name": "人民武装类",
-    #                 "level": 1
-    #             }
-    #         ]
-    #     }
-    # ]
-    # df = df.loc[df['二级类目'] == '基干民兵']
-
     # 所有叶子类目相关的层级关系
     title_level_map = pd.read_json(os.path.join(base_path, 'title_level.json'), encoding='utf-8').to_dict(orient='records')
     # 预处理，删除一级类目，根据二级类目信息添加实际类目层级,增加一列标识该数据的最大目录层级
-    pre_process_data(df, title_level_map, max_level)
+    df_all = pre_process_data(df, title_level_map, max_level)
     # 生成的知识库文本
-    dataset_txt = do_gen_dataset(df, max_level, title_level_map)
+    dataset_txt = do_gen_dataset(df_all, title_level_map)
 
     # 写入文件
     with open(os.path.join(base_path, 'dataset.txt'), 'w', encoding='utf-8') as f:
