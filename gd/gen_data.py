@@ -56,7 +56,7 @@ def pre_process_data(df: pd.DataFrame, title_level_map: list, max_level):
                 "name": m['name'],
                 "level": i
             })
-    
+
     df.drop('一级类目', axis=1, inplace=True)
     df["max_type_level"] = -1
     # 添加所有空列名，现在都是空值，后面赋值
@@ -81,6 +81,8 @@ def pre_process_data(df: pd.DataFrame, title_level_map: list, max_level):
     # 处理完后，删除二级类目列
     df.drop('二级类目', axis=1, inplace=True)
 
+   
+
     # 构造所有区域数据，合并到原数据中
     df_total_area = df.copy()
     df_total_area['所属区域'] = '整个区域'
@@ -96,9 +98,13 @@ def do_gen_dataset(dataframe, title_level_map):
     最低层级 = max(list(map(lambda x: x['level'], title_level_map)))
     # 最高层级数字小，最低层级数字大
 
-    最终知识库文本 = []
+    知识库信息列表 = []
     父级分段符 = f"{'*' * 6}\n"
     子级分段符 = f"{'-' * 6}\n"
+
+    # 因为每个大类下面的最低一级小类层级不同，目前是通过最低层级分开几份数据去统计。就会导致一个大类的最下级小类统计信息在各个数据集合中分别出现
+    # 需要将这些统计数据进行合并。所以定义一个map key是大类的名字。value是拼接好的统计数据
+    type_statistics_map = {}
 
     for idx, 当前要统计的最低类层级 in enumerate(range(最高层级, 最低层级 + 1)):
         # 查询最高类别层级对应当前层级数的数据，例如所有最高类别为2级的数据，比如 "人防专业队" 数据
@@ -114,6 +120,7 @@ def do_gen_dataset(dataframe, title_level_map):
         对 index=['所属区域', 'level_3'], columns=['level_4'] 生成透视表，对 level_4 下的数据进行数量统计
         获取 '所属区域'==当前区域，'level_4'==当前类型 的数据列表，作为 level_4 的统计详情
         '''
+
         # 对当前这一类最高类别层级一致的数据进行分层级groupby统计
         for 要统计的大类层级 in range(1, 当前要统计的最低类层级 + 1):
             # 按区域统计各个层级数据
@@ -123,8 +130,8 @@ def do_gen_dataset(dataframe, title_level_map):
             for (要统计的区域, 要统计的大类), row in pivot.iterrows():
                 # 当前要统计的不是最低类层级，取最低类的详情数据列表
                 if 要统计的大类层级 == 当前要统计的最低类层级:
-                    最终知识库文本.append(父级分段符)
-                    最终知识库文本.append(f"{要统计的区域}{要统计的大类}详情\n")
+                    知识库信息列表.append(父级分段符)
+                    知识库信息列表.append(f"{要统计的区域}{要统计的大类}详情\n")
                     详情数据记录: pd.DataFrame = df_with_level[ \
                         (df_with_level['所属区域'] == 要统计的区域) \
                         & (df_with_level[f'level_{要统计的大类层级}'] == 要统计的大类) \
@@ -133,27 +140,48 @@ def do_gen_dataset(dataframe, title_level_map):
                     # 去除空字段，过滤掉之前增加的辅助统计的类型字段(level_x)和最大类型层级字段(max_type_level)
                     cleaned_list = [{k: v for k, v in item.items() if (v and pd.notna(v) and 'level' not in k)} for item in data_list]
                     # 插入总计数据
-                    最终知识库文本.append(子级分段符)
-                    最终知识库文本.append(f'总计: {len(cleaned_list)}\n')
+                    知识库信息列表.append(子级分段符)
+                    知识库信息列表.append(f'总计: {len(cleaned_list)}\n')
                     # 插入详情数据
                     for 详情数据 in cleaned_list:
-                        最终知识库文本.append(子级分段符)
-                        最终知识库文本.append(f'{str(详情数据)}\n')
+                        知识库信息列表.append(子级分段符)
+                        知识库信息列表.append(f'{str(详情数据)}\n')
                 # 当前要统计的不是最低类层级，取大类下最低类的统计数据
                 else:
-                    最终知识库文本.append(父级分段符)
-                    最终知识库文本.append(f"{要统计的区域}{要统计的大类}统计\n")
+                    statistic_key = f"{要统计的区域}{要统计的大类}统计"
                     for 最低层级类名字, 数量 in row.items():
                         if 数量 > 0:
-                            最终知识库文本.append(子级分段符)
-                            最终知识库文本.append(f'{最低层级类名字}\n')
-                            最终知识库文本.append(f'总计{数量}\n')      
+                            statistic_text = []
+                            statistic_text.append(子级分段符)
+                            statistic_text.append(f'{最低层级类名字}\n')
+                            statistic_text.append(f'总计{数量}\n')
+                            # 如果该统计类型中没添加过统计信息，则初始化
+                            if statistic_key not in type_statistics_map.keys():
+                                type_statistics_map[statistic_key] = []
+                                # 第一次进来，添加父级文本信息（xxx地区xxx统计）
+                                知识库信息列表.append(父级分段符)
+                                知识库信息列表.append(f"{statistic_key}\n")
+                                # 第一次进来，将文本数组添加到最终文本中，是个引用类型，后面再添加文本，会改变其值
+                                知识库信息列表.append(type_statistics_map[statistic_key])
+                            # 否则就将新的统计数据拼接到后面
+                            type_statistics_map[statistic_key].extend(statistic_text)
 
-    return ''.join(最终知识库文本)
+    # list嵌套转为文本处理 
+    final_list = []
+    for data in 知识库信息列表:
+        # 如果是统计对象（list类型）
+        if isinstance(data, list):
+            # 列表中item分别转为字符串，铺平
+            final_list.append(''.join(list(map(lambda x: ''.join(x), data))))
+        else:
+            final_list.append(data)
+
+    return ''.join(final_list)
+    
 
 if __name__ == "__main__":
-    # base_path = 'gd/data20250425143936'
     base_path = 'gd/data_test'
+    base_path = 'gd/data20250425143936'
 
     # 读取源数据到dataframe
     df = pd.read_json(os.path.join(base_path, 'data.json'), encoding='utf-8')
