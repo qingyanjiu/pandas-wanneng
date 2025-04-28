@@ -153,7 +153,7 @@ def do_gen_dataset(dataframe, title_level_map):
 
 if __name__ == "__main__":
     # base_path = 'gd/data20250425143936'
-    base_path = 'gd/data_test'
+    base_path = 'gd/data20250425143936'
 
     # 读取源数据到dataframe
     df = pd.read_json(os.path.join(base_path, 'data.json'), encoding='utf-8')
