@@ -81,7 +81,6 @@ def pre_process_data(df: pd.DataFrame, title_level_map: list, max_level):
     # 处理完后，删除二级类目列
     df.drop('二级类目', axis=1, inplace=True)
 
-   
 
     # 构造所有区域数据，合并到原数据中
     df_total_area = df.copy()
@@ -131,7 +130,7 @@ def do_gen_dataset(dataframe, title_level_map):
                 # 当前要统计的不是最低类层级，取最低类的详情数据列表
                 if 要统计的大类层级 == 当前要统计的最低类层级:
                     知识库信息列表.append(父级分段符)
-                    知识库信息列表.append(f"{要统计的区域}{要统计的大类}详情\n")
+                    知识库信息列表.append(f"{要统计的区域}{要统计的大类}统计\n")
                     详情数据记录: pd.DataFrame = df_with_level[ \
                         (df_with_level['所属区域'] == 要统计的区域) \
                         & (df_with_level[f'level_{要统计的大类层级}'] == 要统计的大类) \
@@ -142,6 +141,8 @@ def do_gen_dataset(dataframe, title_level_map):
                     # 插入总计数据
                     知识库信息列表.append(子级分段符)
                     知识库信息列表.append(f'总计: {len(cleaned_list)}\n')
+                    知识库信息列表.append(子级分段符)
+                    知识库信息列表.append(f"{要统计的区域}{要统计的大类}详情\n")
                     # 插入详情数据
                     for 详情数据 in cleaned_list:
                         知识库信息列表.append(子级分段符)
@@ -154,7 +155,7 @@ def do_gen_dataset(dataframe, title_level_map):
                             statistic_text = []
                             statistic_text.append(子级分段符)
                             statistic_text.append(f'{最低层级类名字}\n')
-                            statistic_text.append(f'总计{数量}\n')
+                            statistic_text.append(f'总计: {数量}\n')
                             # 如果该统计类型中没添加过统计信息，则初始化
                             if statistic_key not in type_statistics_map.keys():
                                 type_statistics_map[statistic_key] = []
