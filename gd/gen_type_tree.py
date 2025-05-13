@@ -1,5 +1,6 @@
 import json
 from collections import defaultdict
+import pandas as pd
 
 def nested_dict():
     return defaultdict(nested_dict)
@@ -34,14 +35,32 @@ with open('gd/data_test/title_level.json', 'r', encoding='utf-8') as f:
 # 所有节点变成同一级，parents拿出来和最下级分类合并
 flat_types = [item['parents'] + [{'name': item['name'], 'level': item['level']}] for item in types]
 
-# 循环所有数据，写入嵌套map
+# 转为数据行，通过parent_id指定父级
 for t in flat_types:
-    t.sort(key = lambda x: x['level'])
-    keys = [item['name'] for item in t]
-    insert_dict(final_data['root'], keys)
+    t.sort(key=lambda x: x['level'])
+    last_id = 'root'
+    for item in t:
+        item['id'] = item['name']
+        item['parent_id'] = last_id
+        item['order'] = 0
+        last_id = item['name']
 
-data_list = []
-nest_dict_to_list(final_data, data_list)
+flat_types = [item for sublist in flat_types for item in sublist]
+# 去重
+df = pd.DataFrame(flat_types)
+df = df.drop_duplicates()
 
-with open('title.json', 'w', encoding='utf-8') as f:
-    f.write(json.dumps(data_list, ensure_ascii=False, indent=4))
+df.to_json('title.json', indent=4, orient='records', index=False, force_ascii=False)
+
+
+# # 循环所有数据，写入嵌套map
+# for t in flat_types:
+#     t.sort(key = lambda x: x['level'])
+#     keys = [item['name'] for item in t]
+#     insert_dict(final_data['root'], keys)
+
+# data_list = []
+# nest_dict_to_list(final_data, data_list)
+
+# with open('title.json', 'w', encoding='utf-8') as f:
+#     f.write(json.dumps(data_list, ensure_ascii=False, indent=4))
