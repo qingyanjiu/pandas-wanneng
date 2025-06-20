@@ -2,6 +2,8 @@ import os
 import pandas as pd
 import json
 
+# 用于通过资源名称检索资源所属的资源类目
+
 # 添加缺失的类目信息列
 # 一级类目 type_1 二级类目 type_2 三级类目 type_3 依此类推
 # max_type_level 表示该数据的最大类目层级
@@ -130,7 +132,7 @@ def do_gen_dataset(dataframe, title_level_map):
                 # 当前要统计的不是最低类层级，取最低类的详情数据列表
                 if 要统计的大类层级 == 当前要统计的最低类层级:
                     知识库信息列表.append(父级分段符)
-                    知识库信息列表.append(f"{要统计的区域}{要统计的大类}统计\n")
+                    # 知识库信息列表.append(f"{要统计的区域}{要统计的大类}统计\n")
                     详情数据记录: pd.DataFrame = df_with_level[ \
                         (df_with_level['所属区域'] == 要统计的区域) \
                         & (df_with_level[f'level_{要统计的大类层级}'] == 要统计的大类) \
@@ -139,33 +141,33 @@ def do_gen_dataset(dataframe, title_level_map):
                     # 去除空字段，过滤掉之前增加的辅助统计的类型字段(level_x)和最大类型层级字段(max_type_level)
                     cleaned_list = [{k: v for k, v in item.items() if (v and pd.notna(v) and 'level' not in k)} for item in data_list]
                     # 插入总计数据
-                    知识库信息列表.append(子级分段符)
-                    知识库信息列表.append(f'总计: {len(cleaned_list)}\n')
-                    知识库信息列表.append(子级分段符)
-                    知识库信息列表.append(f"{要统计的区域}{要统计的大类}详情\n")
+                    # 知识库信息列表.append(子级分段符)
+                    # 知识库信息列表.append(f'总计: {len(cleaned_list)}\n')
+                    # 知识库信息列表.append(子级分段符)
+                    知识库信息列表.append(f"{要统计的大类}\n")
                     # 插入详情数据
                     for 详情数据 in cleaned_list:
                         知识库信息列表.append(子级分段符)
                         知识库信息列表.append(f'{str(详情数据)}\n')
-                # 当前要统计的不是最低类层级，取大类下最低类的统计数据
-                else:
-                    statistic_key = f"{要统计的区域}{要统计的大类}统计"
-                    for 最低层级类名字, 数量 in row.items():
-                        if 数量 > 0:
-                            statistic_text = []
-                            statistic_text.append(子级分段符)
-                            statistic_text.append(f'{最低层级类名字}\n')
-                            statistic_text.append(f'总计: {数量}\n')
-                            # 如果该统计类型中没添加过统计信息，则初始化
-                            if statistic_key not in type_statistics_map.keys():
-                                type_statistics_map[statistic_key] = []
-                                # 第一次进来，添加父级文本信息（xxx地区xxx统计）
-                                知识库信息列表.append(父级分段符)
-                                知识库信息列表.append(f"{statistic_key}\n")
-                                # 第一次进来，将文本数组添加到最终文本中，是个引用类型，后面再添加文本，会改变其值
-                                知识库信息列表.append(type_statistics_map[statistic_key])
-                            # 否则就将新的统计数据拼接到后面
-                            type_statistics_map[statistic_key].extend(statistic_text)
+                # # 当前要统计的不是最低类层级，取大类下最低类的统计数据
+                # else:
+                #     statistic_key = f"{要统计的区域}{要统计的大类}统计"
+                #     for 最低层级类名字, 数量 in row.items():
+                #         if 数量 > 0:
+                #             statistic_text = []
+                #             statistic_text.append(子级分段符)
+                #             statistic_text.append(f'{最低层级类名字}\n')
+                #             statistic_text.append(f'总计: {数量}\n')
+                #             # 如果该统计类型中没添加过统计信息，则初始化
+                #             if statistic_key not in type_statistics_map.keys():
+                #                 type_statistics_map[statistic_key] = []
+                #                 # 第一次进来，添加父级文本信息（xxx地区xxx统计）
+                #                 知识库信息列表.append(父级分段符)
+                #                 知识库信息列表.append(f"{statistic_key}\n")
+                #                 # 第一次进来，将文本数组添加到最终文本中，是个引用类型，后面再添加文本，会改变其值
+                #                 知识库信息列表.append(type_statistics_map[statistic_key])
+                #             # 否则就将新的统计数据拼接到后面
+                #             type_statistics_map[statistic_key].extend(statistic_text)
 
     # list嵌套转为文本处理 
     final_list = []
@@ -185,22 +187,22 @@ if __name__ == "__main__":
     # base_path = 'gd/data20250425143936'
     
     # ########## 脱敏
-    json_str = ''
-    with open(os.path.join(base_path, 'data.json'), 'r', encoding='utf-8') as f:
-        json_str = f.read()
+    # json_str = ''
+    # with open(os.path.join(base_path, 'data.json'), 'r', encoding='utf-8') as f:
+    #     json_str = f.read()
     
-    json_obj = json.loads(json_str)
-    for o in json_obj:
-        for k,v in o.items():
-            if k.find('身份证') > -1 or k.find('姓名') > -1 or k.find('联系方式') > -1 \
-                or k.find('部门') > -1 or k.find('地理') > -1 or k.find('项目') > -1 or k.find('地址') > -1 \
-                or k.find('负责') > -1 or k.find('经度') > -1 or k.find('纬度') > -1:
-                new_v = v[0:2] + '***'
-                o[k] = new_v
+    # json_obj = json.loads(json_str)
+    # for o in json_obj:
+    #     for k,v in o.items():
+    #         if k.find('身份证') > -1 or k.find('姓名') > -1 or k.find('联系方式') > -1 \
+    #             or k.find('部门') > -1 or k.find('地理') > -1 or k.find('项目') > -1 or k.find('地址') > -1 \
+    #             or k.find('负责') > -1 or k.find('经度') > -1 or k.find('纬度') > -1:
+    #             new_v = v[0:2] + '***'
+    #             o[k] = new_v
 
-    json_str = json.dumps(json_obj, ensure_ascii=False)
-    with open(os.path.join(base_path, 'data1.json'), 'w', encoding='utf-8') as f:
-        f.write(json_str)
+    # json_str = json.dumps(json_obj, ensure_ascii=False)
+    # with open(os.path.join(base_path, 'data1.json'), 'w', encoding='utf-8') as f:
+    #     f.write(json_str)
     # ########## 脱敏
     
     # 读取源数据到dataframe
@@ -217,6 +219,6 @@ if __name__ == "__main__":
     dataset_txt = do_gen_dataset(df_all, title_level_map)
 
     # 写入文件
-    with open(os.path.join(base_path, 'dataset.txt'), 'w', encoding='utf-8') as f:
+    with open(os.path.join(base_path, 'dataset_for_catagory_query.txt'), 'w', encoding='utf-8') as f:
         f.write(dataset_txt)
 

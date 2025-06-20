@@ -1,3 +1,5 @@
+# 生成树状潜力资源数据
+
 import json
 from collections import defaultdict
 import pandas as pd
