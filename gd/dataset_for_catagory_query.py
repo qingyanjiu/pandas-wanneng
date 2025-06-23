@@ -183,26 +183,26 @@ def do_gen_dataset(dataframe, title_level_map):
     
 
 if __name__ == "__main__":
-    base_path = 'gd/data_test'
-    # base_path = 'gd/data20250425143936'
+    # base_path = 'gd/data_test'
+    base_path = '/Volumes/elements-bk/BM-DATA/GD-data/data20250425143936'
     
     # ########## 脱敏
-    # json_str = ''
-    # with open(os.path.join(base_path, 'data.json'), 'r', encoding='utf-8') as f:
-    #     json_str = f.read()
+    json_str = ''
+    with open(os.path.join(base_path, 'data.json'), 'r', encoding='utf-8') as f:
+        json_str = f.read()
     
-    # json_obj = json.loads(json_str)
-    # for o in json_obj:
-    #     for k,v in o.items():
-    #         if k.find('身份证') > -1 or k.find('姓名') > -1 or k.find('联系方式') > -1 \
-    #             or k.find('部门') > -1 or k.find('地理') > -1 or k.find('项目') > -1 or k.find('地址') > -1 \
-    #             or k.find('负责') > -1 or k.find('经度') > -1 or k.find('纬度') > -1:
-    #             new_v = v[0:2] + '***'
-    #             o[k] = new_v
+    json_obj = json.loads(json_str)
+    for o in json_obj:
+        for k,v in o.items():
+            if k.find('身份证') > -1 or k.find('姓名') > -1 or k.find('联系方式') > -1 \
+                or k.find('部门') > -1 or k.find('地理') > -1 or k.find('项目') > -1 or k.find('地址') > -1 \
+                or k.find('负责') > -1 or k.find('经度') > -1 or k.find('纬度') > -1:
+                new_v = v[0:2] + '***'
+                o[k] = new_v
 
-    # json_str = json.dumps(json_obj, ensure_ascii=False)
-    # with open(os.path.join(base_path, 'data1.json'), 'w', encoding='utf-8') as f:
-    #     f.write(json_str)
+    json_str = json.dumps(json_obj, ensure_ascii=False)
+    with open(os.path.join(base_path, 'data1.json'), 'w', encoding='utf-8') as f:
+        f.write(json_str)
     # ########## 脱敏
     
     # 读取源数据到dataframe
