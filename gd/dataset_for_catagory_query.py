@@ -131,7 +131,7 @@ def do_gen_dataset(dataframe, title_level_map):
             for (要统计的区域, 要统计的大类), row in pivot.iterrows():
                 # 当前要统计的不是最低类层级，取最低类的详情数据列表
                 if 要统计的大类层级 == 当前要统计的最低类层级:
-                    知识库信息列表.append(父级分段符)
+                    # 知识库信息列表.append(父级分段符)
                     # 知识库信息列表.append(f"{要统计的区域}{要统计的大类}统计\n")
                     详情数据记录: pd.DataFrame = df_with_level[ \
                         (df_with_level['所属区域'] == 要统计的区域) \
@@ -144,11 +144,11 @@ def do_gen_dataset(dataframe, title_level_map):
                     # 知识库信息列表.append(子级分段符)
                     # 知识库信息列表.append(f'总计: {len(cleaned_list)}\n')
                     # 知识库信息列表.append(子级分段符)
-                    知识库信息列表.append(f"{要统计的大类}\n")
+                    # 知识库信息列表.append(f"{要统计的大类}\n")
                     # 插入详情数据
                     for 详情数据 in cleaned_list:
                         知识库信息列表.append(子级分段符)
-                        知识库信息列表.append(f'{str(详情数据)}\n')
+                        知识库信息列表.append(f'{要统计的大类}@@@{str(详情数据)}\n')
                 # # 当前要统计的不是最低类层级，取大类下最低类的统计数据
                 # else:
                 #     statistic_key = f"{要统计的区域}{要统计的大类}统计"
@@ -187,22 +187,22 @@ if __name__ == "__main__":
     base_path = '/Volumes/elements-bk/BM-DATA/GD-data/data20250425143936'
     
     # ########## 脱敏
-    json_str = ''
-    with open(os.path.join(base_path, 'data.json'), 'r', encoding='utf-8') as f:
-        json_str = f.read()
+    # json_str = ''
+    # with open(os.path.join(base_path, 'data.json'), 'r', encoding='utf-8') as f:
+    #     json_str = f.read()
     
-    json_obj = json.loads(json_str)
-    for o in json_obj:
-        for k,v in o.items():
-            if k.find('身份证') > -1 or k.find('姓名') > -1 or k.find('联系方式') > -1 \
-                or k.find('部门') > -1 or k.find('地理') > -1 or k.find('项目') > -1 or k.find('地址') > -1 \
-                or k.find('负责') > -1 or k.find('经度') > -1 or k.find('纬度') > -1:
-                new_v = v[0:2] + '***'
-                o[k] = new_v
+    # json_obj = json.loads(json_str)
+    # for o in json_obj:
+    #     for k,v in o.items():
+    #         if k.find('身份证') > -1 or k.find('姓名') > -1 or k.find('联系方式') > -1 \
+    #             or k.find('部门') > -1 or k.find('地理') > -1 or k.find('项目') > -1 or k.find('地址') > -1 \
+    #             or k.find('负责') > -1 or k.find('经度') > -1 or k.find('纬度') > -1:
+    #             new_v = v[0:2] + '***'
+    #             o[k] = new_v
 
-    json_str = json.dumps(json_obj, ensure_ascii=False)
-    with open(os.path.join(base_path, 'data1.json'), 'w', encoding='utf-8') as f:
-        f.write(json_str)
+    # json_str = json.dumps(json_obj, ensure_ascii=False)
+    # with open(os.path.join(base_path, 'data1.json'), 'w', encoding='utf-8') as f:
+    #     f.write(json_str)
     # ########## 脱敏
     
     # 读取源数据到dataframe
