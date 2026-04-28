@@ -1,2277 +1,1556 @@
 [
   {
     "name":"10f-10F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_10f_0000",
-    "space_name":"10f"
-  },
-  {
-    "name":"10f-10F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_10f_0001",
-    "space_name":"10f"
-  },
-  {
-    "name":"10f-10F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_10f_0002",
-    "space_name":"10f"
-  },
-  {
-    "name":"10f-10F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.188",
     "app":"imported",
     "stream":"jk_zl_10f_0003",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_10f_0004",
-    "space_name":"10f"
-  },
-  {
-    "name":"10f-10F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"10f-10F监控02",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.189",
     "app":"imported",
     "stream":"jk_zl_10f_0005",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_10f_0006",
-    "space_name":"10f"
-  },
-  {
-    "name":"10f-10F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_10f_0007",
-    "space_name":"10f"
-  },
-  {
-    "name":"10f-10F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"10f-10F监控03",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.190",
     "app":"imported",
     "stream":"jk_zl_10f_0008",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"10f-10F监控04",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.191",
+    "app":"imported",
+    "stream":"jk_zl_10f_0002",
+    "space_name":"10f"
+  },
+  {
+    "name":"10f-10F监控05",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.192",
     "app":"imported",
     "stream":"jk_zl_10f_0009",
     "space_name":"10f"
   },
   {
-    "name":"11f-WM-监控1",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"10f-10F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.193",
     "app":"imported",
-    "stream":"jk_zl_11f_0000",
-    "space_name":"11f"
+    "stream":"jk_zl_10f_0006",
+    "space_name":"10f"
   },
   {
-    "name":"11f-WM-监控2",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"10f-10F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.194",
     "app":"imported",
-    "stream":"jk_zl_11f_0001",
-    "space_name":"11f"
+    "stream":"jk_zl_10f_0001",
+    "space_name":"10f"
   },
   {
-    "name":"11f-WM-监控3",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"10f-10F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.195",
     "app":"imported",
-    "stream":"jk_zl_11f_0002",
-    "space_name":"11f"
+    "stream":"jk_zl_10f_0004",
+    "space_name":"10f"
   },
   {
-    "name":"1f-监控1",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"10f-10F监控09",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.196",
     "app":"imported",
-    "stream":"jk_zl_1f_0000",
-    "space_name":"1f"
+    "stream":"jk_zl_10f_0007",
+    "space_name":"10f"
   },
   {
-    "name":"1f-监控2",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"10f-10F监控10",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.197",
     "app":"imported",
-    "stream":"jk_zl_1f_0001",
-    "space_name":"1f"
+    "stream":"jk_zl_10f_0000",
+    "space_name":"10f"
   },
   {
-    "name":"1f-监控3",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0002",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控4",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0003",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控5",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0004",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控6",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0005",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控7",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0006",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控8",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0007",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控9",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0008",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0009",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0010",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0011",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0012",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0013",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控15",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0014",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控16",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0015",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控17",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0016",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控18",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0017",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控19",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0018",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控20",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0019",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控21",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0020",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-监控22",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"1f-1F监控01",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.10",
     "app":"imported",
     "stream":"jk_zl_1f_0021",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0022",
-    "space_name":"1f"
-  },
-  {
     "name":"1f-1F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0023",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0024",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0025",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0026",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0027",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0028",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0029",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0030",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0031",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0032",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0033",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0034",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0035",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控15",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0036",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控16",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0037",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控17",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0038",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控18",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0039",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控19",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0040",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控20",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0041",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控21",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0042",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控22",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0043",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控23",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0044",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控24",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0045",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控25",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0046",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控26",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0047",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控27",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.11",
     "app":"imported",
     "stream":"jk_zl_1f_0048",
     "space_name":"1f"
   },
   {
+    "name":"1f-1F监控03",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.12",
+    "app":"imported",
+    "stream":"jk_zl_1f_0043",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控04",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.13",
+    "app":"imported",
+    "stream":"jk_zl_1f_0007",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控05",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.14",
+    "app":"imported",
+    "stream":"jk_zl_1f_0005",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.15",
+    "app":"imported",
+    "stream":"jk_zl_1f_0010",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.16",
+    "app":"imported",
+    "stream":"jk_zl_1f_0003",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.17",
+    "app":"imported",
+    "stream":"jk_zl_1f_0016",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控09",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.18",
+    "app":"imported",
+    "stream":"jk_zl_1f_0047",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控10",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.19",
+    "app":"imported",
+    "stream":"jk_zl_1f_0045",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控11",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.20",
+    "app":"imported",
+    "stream":"jk_zl_1f_0014",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控12",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.21",
+    "app":"imported",
+    "stream":"jk_zl_1f_0006",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控13",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.22",
+    "app":"imported",
+    "stream":"jk_zl_1f_0015",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控14",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.23",
+    "app":"imported",
+    "stream":"jk_zl_1f_0002",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控15",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.24",
+    "app":"imported",
+    "stream":"jk_zl_1f_0000",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控16",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.25",
+    "app":"imported",
+    "stream":"jk_zl_1f_0019",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控17",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.26",
+    "app":"imported",
+    "stream":"jk_zl_1f_0046",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控18",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.27",
+    "app":"imported",
+    "stream":"jk_zl_1f_0042",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控19",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.28",
+    "app":"imported",
+    "stream":"jk_zl_1f_0009",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控20",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.29",
+    "app":"imported",
+    "stream":"jk_zl_1f_0004",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控21",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.30",
+    "app":"imported",
+    "stream":"jk_zl_1f_0001",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控22",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.31",
+    "app":"imported",
+    "stream":"jk_zl_1f_0013",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控23",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.32",
+    "app":"imported",
+    "stream":"jk_zl_1f_0012",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控24",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.33",
+    "app":"imported",
+    "stream":"jk_zl_1f_0011",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控25",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.34",
+    "app":"imported",
+    "stream":"jk_zl_1f_0008",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控26",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.35",
+    "app":"imported",
+    "stream":"jk_zl_1f_0017",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控27",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.36",
+    "app":"imported",
+    "stream":"jk_zl_1f_0044",
+    "space_name":"1f"
+  },
+  {
     "name":"1f-1F监控28",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.37",
     "app":"imported",
     "stream":"jk_zl_1f_0049",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控29",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.38",
+    "app":"imported",
+    "stream":"jk_zl_1f_0029",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控30",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.39",
     "app":"imported",
     "stream":"jk_zl_1f_0050",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控30",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"1f-1F监控31",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.40",
+    "app":"imported",
+    "stream":"jk_zl_1f_0028",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控32",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.41",
+    "app":"imported",
+    "stream":"jk_zl_1f_0024",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控33",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.42",
+    "app":"imported",
+    "stream":"jk_zl_1f_0027",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控34",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.43",
+    "app":"imported",
+    "stream":"jk_zl_1f_0033",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控35",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.44",
+    "app":"imported",
+    "stream":"jk_zl_1f_0032",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控36",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.45",
+    "app":"imported",
+    "stream":"jk_zl_1f_0035",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控37",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.46",
+    "app":"imported",
+    "stream":"jk_zl_1f_0036",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控38",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.47",
+    "app":"imported",
+    "stream":"jk_zl_1f_0041",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控39",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.48",
+    "app":"imported",
+    "stream":"jk_zl_1f_0037",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控40",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.49",
+    "app":"imported",
+    "stream":"jk_zl_1f_0038",
+    "space_name":"1f"
+  },
+  {
+    "name":"1f-1F监控41",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.50",
     "app":"imported",
     "stream":"jk_zl_1f_0051",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控31",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"1f-1F监控42",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.51",
     "app":"imported",
     "stream":"jk_zl_1f_0052",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控32",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0053",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控33",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0054",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控34",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0055",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控35",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0056",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控36",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0057",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控37",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0058",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控38",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0059",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控39",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0060",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控40",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0061",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控41",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0062",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-1F监控42",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0063",
-    "space_name":"1f"
-  },
-  {
     "name":"1f-1F监控43",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.52",
     "app":"imported",
-    "stream":"jk_zl_1f_0064",
+    "stream":"jk_zl_1f_0034",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控44",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.150",
     "app":"imported",
-    "stream":"jk_zl_1f_0065",
+    "stream":"jk_zl_1f_0023",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控45",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.151",
     "app":"imported",
-    "stream":"jk_zl_1f_0066",
+    "stream":"jk_zl_1f_0026",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控46",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.152",
     "app":"imported",
-    "stream":"jk_zl_1f_0067",
+    "stream":"jk_zl_1f_0018",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控47",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.153",
     "app":"imported",
-    "stream":"jk_zl_1f_0068",
+    "stream":"jk_zl_1f_0025",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控48",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.154",
     "app":"imported",
-    "stream":"jk_zl_1f_0069",
+    "stream":"jk_zl_1f_0020",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控49",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.155",
     "app":"imported",
-    "stream":"jk_zl_1f_0070",
+    "stream":"jk_zl_1f_0022",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控50",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.156",
     "app":"imported",
-    "stream":"jk_zl_1f_0071",
+    "stream":"jk_zl_1f_0039",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控51",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.157",
     "app":"imported",
-    "stream":"jk_zl_1f_0072",
+    "stream":"jk_zl_1f_0040",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控52",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.158",
     "app":"imported",
-    "stream":"jk_zl_1f_0073",
+    "stream":"jk_zl_1f_0031",
     "space_name":"1f"
   },
   {
     "name":"1f-1F监控53",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.159",
     "app":"imported",
-    "stream":"jk_zl_1f_0074",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址1",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0075",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址2",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0076",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址3",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0077",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址4",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0078",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址5",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0079",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址6",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0080",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址7",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0081",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址8",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0082",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址9",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0083",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0084",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0085",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0086",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0087",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0088",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址15",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0089",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址16",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0090",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址17",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0091",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址18",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0092",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址19",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0093",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址20",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0094",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址21",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0095",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址22",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0096",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址23",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0097",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址24",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0098",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址25",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0099",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址26",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0100",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址27",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0101",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址28",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0102",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址29",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0103",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址30",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0104",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址31",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0105",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址32",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0106",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址33",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0107",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址34",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0108",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址35",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0109",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址36",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0110",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址37",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0111",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址38",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0112",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址39",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0113",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-网桥预留地址40",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0114",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址1",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0115",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址2",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0116",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址3",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0117",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址4",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0118",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址5",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0119",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址6",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0120",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址7",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0121",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址8",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0122",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址9",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0123",
-    "space_name":"1f"
-  },
-  {
-    "name":"1f-电梯屏预留地址10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_1f_0124",
+    "stream":"jk_zl_1f_0030",
     "space_name":"1f"
   },
   {
     "name":"2f-2F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0000",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0001",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0002",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0003",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0004",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0005",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.63",
     "app":"imported",
     "stream":"jk_zl_2f_0006",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0007",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0008",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0009",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0010",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0011",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"2f-2F监控02",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.64",
     "app":"imported",
     "stream":"jk_zl_2f_0012",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0013",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控15",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0014",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控16",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0015",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控17",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0016",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控18",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0017",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控19",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0018",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控20",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0019",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控21",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0020",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控22",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0021",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控23",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0022",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控24",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0023",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控25",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0024",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控26",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0025",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控27",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0026",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控28",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0027",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控29",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_2f_0028",
-    "space_name":"2f"
-  },
-  {
-    "name":"2f-2F监控30",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"2f-2F监控03",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.65",
     "app":"imported",
     "stream":"jk_zl_2f_0029",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控31",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"2f-2F监控04",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.66",
+    "app":"imported",
+    "stream":"jk_zl_2f_0028",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控05",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.67",
+    "app":"imported",
+    "stream":"jk_zl_2f_0005",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.68",
+    "app":"imported",
+    "stream":"jk_zl_2f_0004",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.69",
+    "app":"imported",
+    "stream":"jk_zl_2f_0015",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.70",
+    "app":"imported",
+    "stream":"jk_zl_2f_0011",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控09",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.71",
+    "app":"imported",
+    "stream":"jk_zl_2f_0027",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控10",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.72",
+    "app":"imported",
+    "stream":"jk_zl_2f_0003",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控11",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.73",
+    "app":"imported",
+    "stream":"jk_zl_2f_0001",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控12",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.74",
+    "app":"imported",
+    "stream":"jk_zl_2f_0000",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控13",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.75",
+    "app":"imported",
+    "stream":"jk_zl_2f_0009",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控14",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.76",
+    "app":"imported",
+    "stream":"jk_zl_2f_0008",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控15",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.77",
+    "app":"imported",
+    "stream":"jk_zl_2f_0010",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控16",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.78",
+    "app":"imported",
+    "stream":"jk_zl_2f_0002",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控17",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.79",
+    "app":"imported",
+    "stream":"jk_zl_2f_0007",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控18",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.80",
     "app":"imported",
     "stream":"jk_zl_2f_0030",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控32",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"2f-2F监控19",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.81",
+    "app":"imported",
+    "stream":"jk_zl_2f_0014",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控20",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.82",
+    "app":"imported",
+    "stream":"jk_zl_2f_0016",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控21",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.83",
+    "app":"imported",
+    "stream":"jk_zl_2f_0023",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控22",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.84",
+    "app":"imported",
+    "stream":"jk_zl_2f_0025",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控23",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.85",
+    "app":"imported",
+    "stream":"jk_zl_2f_0019",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控24",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.86",
+    "app":"imported",
+    "stream":"jk_zl_2f_0018",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控25",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.87",
+    "app":"imported",
+    "stream":"jk_zl_2f_0017",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控26",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.88",
+    "app":"imported",
+    "stream":"jk_zl_2f_0013",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控27",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.89",
+    "app":"imported",
+    "stream":"jk_zl_2f_0020",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控28",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.90",
+    "app":"imported",
+    "stream":"jk_zl_2f_0022",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控29",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.91",
+    "app":"imported",
+    "stream":"jk_zl_2f_0021",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控30",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.92",
+    "app":"imported",
+    "stream":"jk_zl_2f_0026",
+    "space_name":"2f"
+  },
+  {
+    "name":"2f-2F监控31",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.93",
     "app":"imported",
     "stream":"jk_zl_2f_0031",
     "space_name":"2f"
   },
   {
-    "name":"3f-3F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"2f-2F监控32",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.94",
     "app":"imported",
-    "stream":"jk_zl_3f_0000",
-    "space_name":"3f"
+    "stream":"jk_zl_2f_0024",
+    "space_name":"2f"
   },
   {
-    "name":"3f-3F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"3f-3F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.100",
     "app":"imported",
     "stream":"jk_zl_3f_0001",
     "space_name":"3f"
   },
   {
+    "name":"3f-3F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.101",
+    "app":"imported",
+    "stream":"jk_zl_3f_0000",
+    "space_name":"3f"
+  },
+  {
     "name":"3f-3F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_3f_0002",
-    "space_name":"3f"
-  },
-  {
-    "name":"3f-3F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_3f_0003",
-    "space_name":"3f"
-  },
-  {
-    "name":"3f-3F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_3f_0004",
-    "space_name":"3f"
-  },
-  {
-    "name":"3f-3F监控11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_3f_0005",
-    "space_name":"3f"
-  },
-  {
-    "name":"3f-3F监控12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_3f_0006",
-    "space_name":"3f"
-  },
-  {
-    "name":"3f-3F监控13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_3f_0007",
-    "space_name":"3f"
-  },
-  {
-    "name":"3f-3F监控14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.102",
     "app":"imported",
     "stream":"jk_zl_3f_0008",
     "space_name":"3f"
   },
   {
+    "name":"3f-3F监控09",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.103",
+    "app":"imported",
+    "stream":"jk_zl_3f_0007",
+    "space_name":"3f"
+  },
+  {
+    "name":"3f-3F监控10",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.104",
+    "app":"imported",
+    "stream":"jk_zl_3f_0013",
+    "space_name":"3f"
+  },
+  {
+    "name":"3f-3F监控11",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.105",
+    "app":"imported",
+    "stream":"jk_zl_3f_0012",
+    "space_name":"3f"
+  },
+  {
+    "name":"3f-3F监控12",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.106",
+    "app":"imported",
+    "stream":"jk_zl_3f_0020",
+    "space_name":"3f"
+  },
+  {
+    "name":"3f-3F监控13",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.107",
+    "app":"imported",
+    "stream":"jk_zl_3f_0006",
+    "space_name":"3f"
+  },
+  {
+    "name":"3f-3F监控14",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.108",
+    "app":"imported",
+    "stream":"jk_zl_3f_0010",
+    "space_name":"3f"
+  },
+  {
     "name":"3f-3F监控15",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.109",
     "app":"imported",
     "stream":"jk_zl_3f_0009",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控16",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.110",
     "app":"imported",
-    "stream":"jk_zl_3f_0010",
+    "stream":"jk_zl_3f_0003",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控17",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.111",
     "app":"imported",
-    "stream":"jk_zl_3f_0011",
+    "stream":"jk_zl_3f_0005",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控18",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.112",
     "app":"imported",
-    "stream":"jk_zl_3f_0012",
+    "stream":"jk_zl_3f_0023",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控19",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_3f_0013",
-    "space_name":"3f"
-  },
-  {
-    "name":"3f-3F监控20",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.113",
     "app":"imported",
     "stream":"jk_zl_3f_0014",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控21",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"3f-3F监控20",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.114",
     "app":"imported",
-    "stream":"jk_zl_3f_0015",
+    "stream":"jk_zl_3f_0017",
+    "space_name":"3f"
+  },
+  {
+    "name":"3f-3F监控21",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.115",
+    "app":"imported",
+    "stream":"jk_zl_3f_0019",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控22",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.116",
     "app":"imported",
     "stream":"jk_zl_3f_0016",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控23",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_3f_0017",
-    "space_name":"3f"
-  },
-  {
-    "name":"3f-3F监控24",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.117",
     "app":"imported",
     "stream":"jk_zl_3f_0018",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控25",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"3f-3F监控24",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.118",
     "app":"imported",
-    "stream":"jk_zl_3f_0019",
+    "stream":"jk_zl_3f_0024",
+    "space_name":"3f"
+  },
+  {
+    "name":"3f-3F监控25",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.119",
+    "app":"imported",
+    "stream":"jk_zl_3f_0015",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.95",
     "app":"imported",
-    "stream":"jk_zl_3f_0020",
+    "stream":"jk_zl_3f_0004",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.96",
     "app":"imported",
-    "stream":"jk_zl_3f_0021",
+    "stream":"jk_zl_3f_0011",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.97",
     "app":"imported",
     "stream":"jk_zl_3f_0022",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.98",
     "app":"imported",
-    "stream":"jk_zl_3f_0023",
+    "stream":"jk_zl_3f_0002",
     "space_name":"3f"
   },
   {
     "name":"3f-3F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.99",
     "app":"imported",
-    "stream":"jk_zl_3f_0024",
+    "stream":"jk_zl_3f_0021",
     "space_name":"3f"
   },
   {
     "name":"4f-4F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.120",
     "app":"imported",
     "stream":"jk_zl_4f_0000",
     "space_name":"4f"
   },
   {
     "name":"4f-4F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.121",
     "app":"imported",
-    "stream":"jk_zl_4f_0001",
+    "stream":"jk_zl_4f_0005",
     "space_name":"4f"
   },
   {
     "name":"4f-4F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.122",
     "app":"imported",
-    "stream":"jk_zl_4f_0002",
+    "stream":"jk_zl_4f_0007",
     "space_name":"4f"
   },
   {
     "name":"4f-4F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.123",
     "app":"imported",
     "stream":"jk_zl_4f_0003",
     "space_name":"4f"
   },
   {
     "name":"4f-4F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.124",
     "app":"imported",
-    "stream":"jk_zl_4f_0004",
+    "stream":"jk_zl_4f_0009",
     "space_name":"4f"
   },
   {
     "name":"4f-4F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_4f_0005",
-    "space_name":"4f"
-  },
-  {
-    "name":"4f-4F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.125",
     "app":"imported",
     "stream":"jk_zl_4f_0006",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"4f-4F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.126",
     "app":"imported",
-    "stream":"jk_zl_4f_0007",
+    "stream":"jk_zl_4f_0002",
+    "space_name":"4f"
+  },
+  {
+    "name":"4f-4F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.127",
+    "app":"imported",
+    "stream":"jk_zl_4f_0004",
     "space_name":"4f"
   },
   {
     "name":"4f-4F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.128",
     "app":"imported",
     "stream":"jk_zl_4f_0008",
     "space_name":"4f"
   },
   {
     "name":"4f-4F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.129",
     "app":"imported",
-    "stream":"jk_zl_4f_0009",
+    "stream":"jk_zl_4f_0001",
     "space_name":"4f"
   },
   {
     "name":"5f-5F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.130",
     "app":"imported",
     "stream":"jk_zl_5f_0000",
     "space_name":"5f"
   },
   {
     "name":"5f-5F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_5f_0001",
-    "space_name":"5f"
-  },
-  {
-    "name":"5f-5F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_5f_0002",
-    "space_name":"5f"
-  },
-  {
-    "name":"5f-5F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_5f_0003",
-    "space_name":"5f"
-  },
-  {
-    "name":"5f-5F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_5f_0004",
-    "space_name":"5f"
-  },
-  {
-    "name":"5f-5F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.131",
     "app":"imported",
     "stream":"jk_zl_5f_0005",
     "space_name":"5f"
   },
   {
+    "name":"5f-5F监控03",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.132",
+    "app":"imported",
+    "stream":"jk_zl_5f_0008",
+    "space_name":"5f"
+  },
+  {
+    "name":"5f-5F监控04",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.133",
+    "app":"imported",
+    "stream":"jk_zl_5f_0011",
+    "space_name":"5f"
+  },
+  {
+    "name":"5f-5F监控05",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.134",
+    "app":"imported",
+    "stream":"jk_zl_5f_0002",
+    "space_name":"5f"
+  },
+  {
+    "name":"5f-5F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.135",
+    "app":"imported",
+    "stream":"jk_zl_5f_0007",
+    "space_name":"5f"
+  },
+  {
     "name":"5f-5F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.136",
     "app":"imported",
     "stream":"jk_zl_5f_0006",
     "space_name":"5f"
   },
   {
     "name":"5f-5F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.137",
     "app":"imported",
-    "stream":"jk_zl_5f_0007",
+    "stream":"jk_zl_5f_0001",
     "space_name":"5f"
   },
   {
     "name":"5f-5F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.138",
     "app":"imported",
-    "stream":"jk_zl_5f_0008",
+    "stream":"jk_zl_5f_0004",
     "space_name":"5f"
   },
   {
     "name":"5f-5F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.139",
     "app":"imported",
     "stream":"jk_zl_5f_0009",
     "space_name":"5f"
   },
   {
     "name":"5f-5F监控11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.140",
+    "app":"imported",
+    "stream":"jk_zl_5f_0003",
+    "space_name":"5f"
+  },
+  {
+    "name":"5f-5F监控12",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.141",
     "app":"imported",
     "stream":"jk_zl_5f_0010",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_5f_0011",
-    "space_name":"5f"
-  },
-  {
     "name":"5f-5F监控13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.142",
     "app":"imported",
     "stream":"jk_zl_5f_0012",
     "space_name":"5f"
   },
   {
     "name":"5f-5F监控14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.143",
     "app":"imported",
     "stream":"jk_zl_5f_0013",
     "space_name":"5f"
   },
   {
     "name":"6f-6F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_6f_0000",
-    "space_name":"6f"
-  },
-  {
-    "name":"6f-6F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_6f_0001",
-    "space_name":"6f"
-  },
-  {
-    "name":"6f-6F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.144",
     "app":"imported",
     "stream":"jk_zl_6f_0002",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_6f_0003",
-    "space_name":"6f"
-  },
-  {
-    "name":"6f-6F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"6f-6F监控02",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.145",
     "app":"imported",
     "stream":"jk_zl_6f_0004",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"6f-6F监控03",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.146",
     "app":"imported",
-    "stream":"jk_zl_6f_0005",
+    "stream":"jk_zl_6f_0010",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"6f-6F监控04",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.147",
+    "app":"imported",
+    "stream":"jk_zl_6f_0001",
+    "space_name":"6f"
+  },
+  {
+    "name":"6f-6F监控05",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.148",
+    "app":"imported",
+    "stream":"jk_zl_6f_0009",
+    "space_name":"6f"
+  },
+  {
+    "name":"6f-6F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.149",
     "app":"imported",
     "stream":"jk_zl_6f_0006",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"6f-6F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.150",
     "app":"imported",
-    "stream":"jk_zl_6f_0007",
+    "stream":"jk_zl_6f_0003",
+    "space_name":"6f"
+  },
+  {
+    "name":"6f-6F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.151",
+    "app":"imported",
+    "stream":"jk_zl_6f_0005",
     "space_name":"6f"
   },
   {
     "name":"6f-6F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.152",
     "app":"imported",
     "stream":"jk_zl_6f_0008",
     "space_name":"6f"
   },
   {
     "name":"6f-6F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.153",
     "app":"imported",
-    "stream":"jk_zl_6f_0009",
+    "stream":"jk_zl_6f_0000",
     "space_name":"6f"
   },
   {
     "name":"7f-7F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_7f_0000",
-    "space_name":"7f"
-  },
-  {
-    "name":"7f-7F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_7f_0001",
-    "space_name":"7f"
-  },
-  {
-    "name":"7f-7F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.154",
     "app":"imported",
     "stream":"jk_zl_7f_0002",
     "space_name":"7f"
   },
   {
+    "name":"7f-7F监控02",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.155",
+    "app":"imported",
+    "stream":"jk_zl_7f_0004",
+    "space_name":"7f"
+  },
+  {
+    "name":"7f-7F监控03",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.156",
+    "app":"imported",
+    "stream":"jk_zl_7f_0009",
+    "space_name":"7f"
+  },
+  {
     "name":"7f-7F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.157",
     "app":"imported",
     "stream":"jk_zl_7f_0003",
     "space_name":"7f"
   },
   {
     "name":"7f-7F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_7f_0004",
-    "space_name":"7f"
-  },
-  {
-    "name":"7f-7F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_7f_0005",
-    "space_name":"7f"
-  },
-  {
-    "name":"7f-7F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_7f_0006",
-    "space_name":"7f"
-  },
-  {
-    "name":"7f-7F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_7f_0007",
-    "space_name":"7f"
-  },
-  {
-    "name":"7f-7F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.158",
     "app":"imported",
     "stream":"jk_zl_7f_0008",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"7f-7F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.159",
     "app":"imported",
-    "stream":"jk_zl_7f_0009",
+    "stream":"jk_zl_7f_0006",
+    "space_name":"7f"
+  },
+  {
+    "name":"7f-7F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.160",
+    "app":"imported",
+    "stream":"jk_zl_7f_0001",
+    "space_name":"7f"
+  },
+  {
+    "name":"7f-7F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.161",
+    "app":"imported",
+    "stream":"jk_zl_7f_0005",
+    "space_name":"7f"
+  },
+  {
+    "name":"7f-7F监控09",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.162",
+    "app":"imported",
+    "stream":"jk_zl_7f_0007",
+    "space_name":"7f"
+  },
+  {
+    "name":"7f-7F监控10",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.163",
+    "app":"imported",
+    "stream":"jk_zl_7f_0000",
     "space_name":"7f"
   },
   {
     "name":"8f-8F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_8f_0000",
-    "space_name":"8f"
-  },
-  {
-    "name":"8f-8F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_8f_0001",
-    "space_name":"8f"
-  },
-  {
-    "name":"8f-8F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_8f_0002",
-    "space_name":"8f"
-  },
-  {
-    "name":"8f-8F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.164",
     "app":"imported",
     "stream":"jk_zl_8f_0003",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"8f-8F监控02",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.165",
     "app":"imported",
     "stream":"jk_zl_8f_0004",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_8f_0005",
-    "space_name":"8f"
-  },
-  {
-    "name":"8f-8F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_8f_0006",
-    "space_name":"8f"
-  },
-  {
-    "name":"8f-8F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_8f_0007",
-    "space_name":"8f"
-  },
-  {
-    "name":"8f-8F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_8f_0008",
-    "space_name":"8f"
-  },
-  {
-    "name":"8f-8F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"8f-8F监控03",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.166",
     "app":"imported",
     "stream":"jk_zl_8f_0009",
     "space_name":"8f"
   },
   {
-    "name":"9f-9F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"8f-8F监控04",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.167",
     "app":"imported",
-    "stream":"jk_zl_9f_0000",
+    "stream":"jk_zl_8f_0002",
+    "space_name":"8f"
+  },
+  {
+    "name":"8f-8F监控05",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.168",
+    "app":"imported",
+    "stream":"jk_zl_8f_0008",
+    "space_name":"8f"
+  },
+  {
+    "name":"8f-8F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.169",
+    "app":"imported",
+    "stream":"jk_zl_8f_0006",
+    "space_name":"8f"
+  },
+  {
+    "name":"8f-8F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.170",
+    "app":"imported",
+    "stream":"jk_zl_8f_0001",
+    "space_name":"8f"
+  },
+  {
+    "name":"8f-8F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.171",
+    "app":"imported",
+    "stream":"jk_zl_8f_0005",
+    "space_name":"8f"
+  },
+  {
+    "name":"8f-8F监控09",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.172",
+    "app":"imported",
+    "stream":"jk_zl_8f_0007",
+    "space_name":"8f"
+  },
+  {
+    "name":"8f-8F监控10",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.173",
+    "app":"imported",
+    "stream":"jk_zl_8f_0000",
+    "space_name":"8f"
+  },
+  {
+    "name":"9f-9F监控01",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.174",
+    "app":"imported",
+    "stream":"jk_zl_9f_0007",
     "space_name":"9f"
   },
   {
     "name":"9f-9F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.175",
     "app":"imported",
     "stream":"jk_zl_9f_0001",
     "space_name":"9f"
   },
   {
     "name":"9f-9F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_9f_0002",
-    "space_name":"9f"
-  },
-  {
-    "name":"9f-9F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_9f_0003",
-    "space_name":"9f"
-  },
-  {
-    "name":"9f-9F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_9f_0004",
-    "space_name":"9f"
-  },
-  {
-    "name":"9f-9F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_9f_0005",
-    "space_name":"9f"
-  },
-  {
-    "name":"9f-9F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_9f_0006",
-    "space_name":"9f"
-  },
-  {
-    "name":"9f-9F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_9f_0007",
-    "space_name":"9f"
-  },
-  {
-    "name":"9f-9F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.176",
     "app":"imported",
     "stream":"jk_zl_9f_0008",
     "space_name":"9f"
   },
   {
+    "name":"9f-9F监控04",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.177",
+    "app":"imported",
+    "stream":"jk_zl_9f_0013",
+    "space_name":"9f"
+  },
+  {
+    "name":"9f-9F监控05",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.178",
+    "app":"imported",
+    "stream":"jk_zl_9f_0002",
+    "space_name":"9f"
+  },
+  {
+    "name":"9f-9F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.179",
+    "app":"imported",
+    "stream":"jk_zl_9f_0006",
+    "space_name":"9f"
+  },
+  {
+    "name":"9f-9F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.180",
+    "app":"imported",
+    "stream":"jk_zl_9f_0012",
+    "space_name":"9f"
+  },
+  {
+    "name":"9f-9F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.181",
+    "app":"imported",
+    "stream":"jk_zl_9f_0010",
+    "space_name":"9f"
+  },
+  {
+    "name":"9f-9F监控09",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.182",
+    "app":"imported",
+    "stream":"jk_zl_9f_0005",
+    "space_name":"9f"
+  },
+  {
     "name":"9f-9F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.183",
     "app":"imported",
     "stream":"jk_zl_9f_0009",
     "space_name":"9f"
   },
   {
     "name":"9f-9F监控11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_9f_0010",
-    "space_name":"9f"
-  },
-  {
-    "name":"9f-9F监控12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.184",
     "app":"imported",
     "stream":"jk_zl_9f_0011",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"9f-9F监控12",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.185",
     "app":"imported",
-    "stream":"jk_zl_9f_0012",
+    "stream":"jk_zl_9f_0000",
+    "space_name":"9f"
+  },
+  {
+    "name":"9f-9F监控13",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.186",
+    "app":"imported",
+    "stream":"jk_zl_9f_0003",
     "space_name":"9f"
   },
   {
     "name":"9f-9F监控14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.187",
     "app":"imported",
-    "stream":"jk_zl_9f_0013",
+    "stream":"jk_zl_9f_0004",
     "space_name":"9f"
   },
   {
     "name":"b1f-B1F监控01",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.201",
     "app":"imported",
-    "stream":"jk_zl_b1f_0000",
+    "stream":"jk_zl_b1f_0015",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控02",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.202",
     "app":"imported",
     "stream":"jk_zl_b1f_0001",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控03",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.203",
     "app":"imported",
-    "stream":"jk_zl_b1f_0002",
+    "stream":"jk_zl_b1f_0020",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控04",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.204",
     "app":"imported",
-    "stream":"jk_zl_b1f_0003",
+    "stream":"jk_zl_b1f_0021",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控05",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0004",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控06",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0005",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控07",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0006",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控08",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0007",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控09",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0008",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.205",
     "app":"imported",
     "stream":"jk_zl_b1f_0009",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控06",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.206",
     "app":"imported",
-    "stream":"jk_zl_b1f_0010",
+    "stream":"jk_zl_b1f_0008",
+    "space_name":"b1f"
+  },
+  {
+    "name":"b1f-B1F监控07",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.207",
+    "app":"imported",
+    "stream":"jk_zl_b1f_0016",
+    "space_name":"b1f"
+  },
+  {
+    "name":"b1f-B1F监控08",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.208",
+    "app":"imported",
+    "stream":"jk_zl_b1f_0019",
+    "space_name":"b1f"
+  },
+  {
+    "name":"b1f-B1F监控09",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.209",
+    "app":"imported",
+    "stream":"jk_zl_b1f_0017",
+    "space_name":"b1f"
+  },
+  {
+    "name":"b1f-B1F监控10",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.210",
+    "app":"imported",
+    "stream":"jk_zl_b1f_0002",
+    "space_name":"b1f"
+  },
+  {
+    "name":"b1f-B1F监控11",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.211",
+    "app":"imported",
+    "stream":"jk_zl_b1f_0014",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.212",
     "app":"imported",
-    "stream":"jk_zl_b1f_0011",
+    "stream":"jk_zl_b1f_0000",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.213",
     "app":"imported",
-    "stream":"jk_zl_b1f_0012",
+    "stream":"jk_zl_b1f_0018",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.214",
     "app":"imported",
     "stream":"jk_zl_b1f_0013",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控15",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.215",
     "app":"imported",
-    "stream":"jk_zl_b1f_0014",
+    "stream":"jk_zl_b1f_0010",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控16",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.216",
     "app":"imported",
-    "stream":"jk_zl_b1f_0015",
+    "stream":"jk_zl_b1f_0006",
     "space_name":"b1f"
   },
   {
     "name":"b1f-B1F监控17",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0016",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控18",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0017",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控19",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0018",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控20",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0019",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控21",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0020",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控22",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0021",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控23",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0022",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控24",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0023",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控25",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0024",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控26",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0025",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控27",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0026",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控28",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0027",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控29",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.217",
     "app":"imported",
     "stream":"jk_zl_b1f_0028",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控30",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0029",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控31",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_zl_b1f_0030",
-    "space_name":"b1f"
-  },
-  {
-    "name":"b1f-B1F监控32",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控18",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.218",
     "app":"imported",
     "stream":"jk_zl_b1f_0031",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控33",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控19",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.219",
     "app":"imported",
     "stream":"jk_zl_b1f_0032",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控34",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控20",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.220",
+    "app":"imported",
+    "stream":"jk_zl_b1f_0007",
+    "space_name":"b1f"
+  },
+  {
+    "name":"b1f-B1F监控21",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.221",
+    "app":"imported",
+    "stream":"jk_zl_b1f_0029",
+    "space_name":"b1f"
+  },
+  {
+    "name":"b1f-B1F监控22",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.222",
     "app":"imported",
     "stream":"jk_zl_b1f_0033",
     "space_name":"b1f"
   },
   {
-    "name":"park-室外监控1",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控23",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.223",
     "app":"imported",
-    "stream":"jk_park_0000",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0030",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控2",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控24",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.224",
     "app":"imported",
-    "stream":"jk_park_0001",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0027",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控3",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控25",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.225",
     "app":"imported",
-    "stream":"jk_park_0002",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0025",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控4",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控26",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.226",
     "app":"imported",
-    "stream":"jk_park_0003",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0003",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控5",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控27",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.227",
     "app":"imported",
-    "stream":"jk_park_0004",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0004",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控6",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控28",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.228",
     "app":"imported",
-    "stream":"jk_park_0005",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0005",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控7",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控29",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.229",
     "app":"imported",
-    "stream":"jk_park_0006",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0026",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控8",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控30",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.230",
     "app":"imported",
-    "stream":"jk_park_0007",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0024",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控9",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控31",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.231",
     "app":"imported",
-    "stream":"jk_park_0008",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0023",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控10",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控32",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.232",
     "app":"imported",
-    "stream":"jk_park_0009",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0022",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控11",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控33",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.233",
     "app":"imported",
-    "stream":"jk_park_0010",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0011",
+    "space_name":"b1f"
   },
   {
-    "name":"park-室外监控12",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
+    "name":"b1f-B1F监控34",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.234",
     "app":"imported",
-    "stream":"jk_park_0011",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控13",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0012",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控14",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0013",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控15",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0014",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控16",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0015",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控17",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0016",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控18",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0017",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控19",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0018",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控20",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0019",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控22",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0020",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控21",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0021",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控24",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0022",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控25",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0023",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控26",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0024",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控27",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0025",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控28",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0026",
-    "space_name":"park"
-  },
-  {
-    "name":"park-室外监控23",
-    "source_url":"https:\/\/gcalic.v.myalicdn.com\/gc\/zsslsjjfsd_1\/index.m3u8",
-    "app":"imported",
-    "stream":"jk_park_0027",
-    "space_name":"park"
+    "stream":"jk_zl_b1f_0012",
+    "space_name":"b1f"
   }
 ]

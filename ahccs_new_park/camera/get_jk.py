@@ -2,25 +2,32 @@ import pandas as pd
 import math
 
 def gen_stream_name(row):
-    num_size = math.floor(math.log(row.name, 10)) + 1 if row.name != 0 else 1
-    num_str = '0' * (4 - num_size) + str(row.name)
-    return 'jk_zl_{}_{}'.format(row['location'], num_str) if 'f' in row['location'] else 'jk_park_{}'.format(num_str)
+    if row['tag_num'] != None:
+        num_size = math.floor(math.log(row['tag_num'], 10)) + 1 if row['tag_num'] != 0 else 1
+        num_str = '0' * (4 - num_size) + str(row['tag_num'])
+        return 'jk_zl_{}_{}'.format(row['location'], num_str) if 'f' in row['location'] else 'jk_park_{}'.format(num_str)
+    return ''
 
-exclude_cols = ['位置','监控名字','IP地址','通道名称']
+include_cols = ['位置','监控名字','IP地址','通道名称', '监控设备楼层内ID']
 
-df = pd.read_excel("/Users/louisliu/dev/通服园区/监控点位标注/IP地址（更新版）.xls", sheet_name=0, 
-    usecols=lambda c: c in exclude_cols)
+df = pd.read_excel("/Users/louisliu/dev/通服园区/点位标注/IP地址（更新版）.xls", sheet_name=0, 
+    usecols=lambda c: c in include_cols)
 df['位置'] = df['位置'].ffill(axis=0)
 
 df.rename(columns={
     '位置': 'location',
     '监控名字': 'name',
     'IP地址': 'ip',
-    '通道名称': 'channel_name'
+    '通道名称': 'channel_name',
+    '监控设备楼层内ID': 'tag_num'
 }, inplace=True)
 
+df.dropna(subset=['tag_num'], inplace=True)
+
+df['tag_num'] = pd.to_numeric(df['tag_num'], downcast='integer')
+
 df['name'] = df['location'] + '-' + df['name']
-df['source_url'] = 'https://gcalic.v.myalicdn.com/gc/zsslsjjfsd_1/index.m3u8'
+df['source_url'] = 'rtsp://admin:admin123@' + df['ip']
 df['app'] = 'imported'
 df.sort_values(by=['location', 'ip'], inplace=True)
 
@@ -34,7 +41,7 @@ for location in locations:
 
 final_df['space_name'] = final_df['location']
 
-final_df.drop(columns=['location', 'ip', 'channel_name'], inplace=True)
+final_df.drop(columns=['location', 'ip', 'channel_name', 'tag_num'], inplace=True)
 
 final_df.to_json('ahccs_new_park/camera/jk.json', orient='records', force_ascii=False, index=False, indent=2)
 
