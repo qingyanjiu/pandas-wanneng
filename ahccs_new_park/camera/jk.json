@@ -1,1556 +1,2034 @@
 [
   {
-    "name":"10f-10F监控01",
+    "name":"10F西通道西向东",
+    "ip":"192.168.25.188",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.188",
     "app":"imported",
     "stream":"jk_zl_10f_0003",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控02",
+    "name":"10F西消防电梯厅",
+    "ip":"192.168.25.189",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.189",
     "app":"imported",
     "stream":"jk_zl_10f_0005",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控03",
+    "name":"10F西步梯间",
+    "ip":"192.168.25.190",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.190",
     "app":"imported",
     "stream":"jk_zl_10f_0008",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控04",
+    "name":"10F中通道西向东",
+    "ip":"192.168.25.191",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.191",
     "app":"imported",
     "stream":"jk_zl_10f_0002",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控05",
+    "name":"10F中步梯间",
+    "ip":"192.168.25.192",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.192",
     "app":"imported",
     "stream":"jk_zl_10f_0009",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控06",
+    "name":"10F客梯厅",
+    "ip":"192.168.25.193",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.193",
     "app":"imported",
     "stream":"jk_zl_10f_0006",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控07",
+    "name":"10F中通道东向西",
+    "ip":"192.168.25.194",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.194",
     "app":"imported",
     "stream":"jk_zl_10f_0001",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控08",
+    "name":"10F东消防电梯厅",
+    "ip":"192.168.25.195",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.195",
     "app":"imported",
     "stream":"jk_zl_10f_0004",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控09",
+    "name":"10F东步梯间",
+    "ip":"192.168.25.196",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.196",
     "app":"imported",
     "stream":"jk_zl_10f_0007",
     "space_name":"10f"
   },
   {
-    "name":"10f-10F监控10",
+    "name":"10F东通道东向西",
+    "ip":"192.168.25.197",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.197",
     "app":"imported",
     "stream":"jk_zl_10f_0000",
     "space_name":"10f"
   },
   {
-    "name":"1f-1F监控01",
+    "name":"1F-西消防电梯口",
+    "ip":"192.168.25.10",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.10",
     "app":"imported",
     "stream":"jk_zl_1f_0021",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控02",
+    "name":"1F-JK2西楼梯口向下",
+    "ip":"192.168.25.11",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.11",
     "app":"imported",
     "stream":"jk_zl_1f_0048",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控03",
+    "name":"1F-JK3西楼梯向上",
+    "ip":"192.168.25.12",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.12",
     "app":"imported",
     "stream":"jk_zl_1f_0043",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控04",
+    "name":"1F-JK4过道西2向西",
+    "ip":"192.168.25.13",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.13",
     "app":"imported",
     "stream":"jk_zl_1f_0007",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控05",
+    "name":"1F-JK5过道向东",
+    "ip":"192.168.25.14",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.14",
     "app":"imported",
     "stream":"jk_zl_1f_0005",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控06",
+    "name":"1F-JK6过道西向东",
+    "ip":"192.168.25.15",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.15",
     "app":"imported",
     "stream":"jk_zl_1f_0010",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控07",
+    "name":"1F大厅西北角",
+    "ip":"192.168.25.16",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.16",
     "app":"imported",
     "stream":"jk_zl_1f_0003",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控08",
+    "name":"1F中楼梯北出口",
+    "ip":"192.168.25.17",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.17",
     "app":"imported",
     "stream":"jk_zl_1f_0016",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控09",
+    "name":"1F-JK9中间楼梯向上",
+    "ip":"192.168.25.18",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.18",
     "app":"imported",
     "stream":"jk_zl_1f_0047",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控10",
+    "name":"1F-JK10中间楼梯向北",
+    "ip":"192.168.25.19",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.19",
     "app":"imported",
     "stream":"jk_zl_1f_0045",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控11",
+    "name":"1F-消控室西",
+    "ip":"192.168.25.20",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.20",
     "app":"imported",
     "stream":"jk_zl_1f_0014",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控12",
+    "name":"1F-JK12电梯厅",
+    "ip":"192.168.25.21",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.21",
     "app":"imported",
     "stream":"jk_zl_1f_0006",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控13",
+    "name":"1F-消控室东",
+    "ip":"192.168.25.22",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.22",
     "app":"imported",
     "stream":"jk_zl_1f_0015",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控14",
+    "name":"1F大厅东北角",
+    "ip":"192.168.25.23",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.23",
     "app":"imported",
     "stream":"jk_zl_1f_0002",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控15",
+    "name":"1F-咖啡厅向西",
+    "ip":"192.168.25.24",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.24",
     "app":"imported",
     "stream":"jk_zl_1f_0000",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控16",
+    "name":"1F-东消防电梯口",
+    "ip":"192.168.25.25",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.25",
     "app":"imported",
     "stream":"jk_zl_1f_0019",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控17",
+    "name":"1F-东楼梯口向下",
+    "ip":"192.168.25.26",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.26",
     "app":"imported",
     "stream":"jk_zl_1f_0046",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控18",
+    "name":"1F-东楼梯口向上",
+    "ip":"192.168.25.27",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.27",
     "app":"imported",
     "stream":"jk_zl_1f_0042",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控19",
+    "name":"1F-过道东向西",
+    "ip":"192.168.25.28",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.28",
     "app":"imported",
     "stream":"jk_zl_1f_0009",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控20",
+    "name":"1F群楼餐厅西南角",
+    "ip":"192.168.25.29",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.29",
     "app":"imported",
     "stream":"jk_zl_1f_0004",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控21",
+    "name":"1F裙楼餐厅东南角",
+    "ip":"192.168.25.30",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.30",
     "app":"imported",
     "stream":"jk_zl_1f_0001",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控22",
+    "name":"1F裙楼取餐区南向北",
+    "ip":"192.168.25.31",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.31",
     "app":"imported",
     "stream":"jk_zl_1f_0013",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控23",
+    "name":"通道23",
+    "ip":"192.168.25.32",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.32",
     "app":"imported",
     "stream":"jk_zl_1f_0012",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控24",
+    "name":"通道24",
+    "ip":"192.168.25.33",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.33",
     "app":"imported",
     "stream":"jk_zl_1f_0011",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控25",
+    "name":"通道25",
+    "ip":"192.168.25.34",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.34",
     "app":"imported",
     "stream":"jk_zl_1f_0008",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控26",
+    "name":"通道26",
+    "ip":"192.168.25.35",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.35",
     "app":"imported",
     "stream":"jk_zl_1f_0017",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控27",
+    "name":"1F裙楼东侧地下室入口",
+    "ip":"192.168.25.36",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.36",
     "app":"imported",
     "stream":"jk_zl_1f_0044",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控28",
+    "name":"1F裙楼东侧步梯间",
+    "ip":"192.168.25.37",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.37",
     "app":"imported",
     "stream":"jk_zl_1f_0049",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控29",
+    "name":"通道29",
+    "ip":"192.168.25.38",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.38",
     "app":"imported",
     "stream":"jk_zl_1f_0029",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控30",
+    "name":"1F裙楼东北角地下室入口",
+    "ip":"192.168.25.39",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.39",
     "app":"imported",
     "stream":"jk_zl_1f_0050",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控31",
+    "name":"通道31",
+    "ip":"192.168.25.40",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.40",
     "app":"imported",
     "stream":"jk_zl_1f_0028",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控32",
+    "name":"通道32",
+    "ip":"192.168.25.41",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.41",
     "app":"imported",
     "stream":"jk_zl_1f_0024",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控33",
+    "name":"通道33",
+    "ip":"192.168.25.42",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.42",
     "app":"imported",
     "stream":"jk_zl_1f_0027",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控34",
+    "name":"通道34",
+    "ip":"192.168.25.43",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.43",
     "app":"imported",
     "stream":"jk_zl_1f_0033",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控35",
+    "name":"1F裙楼取餐区北向南",
+    "ip":"192.168.25.44",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.44",
     "app":"imported",
     "stream":"jk_zl_1f_0032",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控36",
+    "name":"1F裙楼餐厅东出口通道",
+    "ip":"192.168.25.45",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.45",
     "app":"imported",
     "stream":"jk_zl_1f_0035",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控37",
+    "name":"1F裙楼餐厅东北角",
+    "ip":"192.168.25.46",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.46",
     "app":"imported",
     "stream":"jk_zl_1f_0036",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控38",
+    "name":"1F裙楼餐厅超市门口",
+    "ip":"192.168.25.47",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.47",
     "app":"imported",
     "stream":"jk_zl_1f_0041",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控39",
+    "name":"1F裙楼餐厅北出口",
+    "ip":"192.168.25.48",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.48",
     "app":"imported",
     "stream":"jk_zl_1f_0037",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控40",
+    "name":"1F裙楼餐厅电梯口",
+    "ip":"192.168.25.49",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.49",
     "app":"imported",
     "stream":"jk_zl_1f_0038",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控41",
+    "name":"1F裙楼西北角地下室入口",
+    "ip":"192.168.25.50",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.50",
     "app":"imported",
     "stream":"jk_zl_1f_0051",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控42",
+    "name":"1F裙楼西北角步梯间",
+    "ip":"192.168.25.51",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.51",
     "app":"imported",
     "stream":"jk_zl_1f_0052",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控43",
+    "name":"1F裙楼餐厅西北角",
+    "ip":"192.168.25.52",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.52",
     "app":"imported",
     "stream":"jk_zl_1f_0034",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控44",
+    "name":null,
+    "ip":"192.168.26.150",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.150",
     "app":"imported",
     "stream":"jk_zl_1f_0023",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控45",
+    "name":null,
+    "ip":"192.168.26.151",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.151",
     "app":"imported",
     "stream":"jk_zl_1f_0026",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控46",
+    "name":null,
+    "ip":"192.168.26.152",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.152",
     "app":"imported",
     "stream":"jk_zl_1f_0018",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控47",
+    "name":null,
+    "ip":"192.168.26.153",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.153",
     "app":"imported",
     "stream":"jk_zl_1f_0025",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控48",
+    "name":null,
+    "ip":"192.168.26.154",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.154",
     "app":"imported",
     "stream":"jk_zl_1f_0020",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控49",
+    "name":null,
+    "ip":"192.168.26.155",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.155",
     "app":"imported",
     "stream":"jk_zl_1f_0022",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控50",
+    "name":null,
+    "ip":"192.168.26.156",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.156",
     "app":"imported",
     "stream":"jk_zl_1f_0039",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控51",
+    "name":null,
+    "ip":"192.168.26.157",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.157",
     "app":"imported",
     "stream":"jk_zl_1f_0040",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控52",
+    "name":null,
+    "ip":"192.168.26.158",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.158",
     "app":"imported",
     "stream":"jk_zl_1f_0031",
     "space_name":"1f"
   },
   {
-    "name":"1f-1F监控53",
+    "name":null,
+    "ip":"192.168.26.159",
     "source_url":"rtsp:\/\/admin:admin123@192.168.26.159",
     "app":"imported",
     "stream":"jk_zl_1f_0030",
     "space_name":"1f"
   },
   {
-    "name":"2f-2F监控01",
+    "name":"2F-通道西向东",
+    "ip":"192.168.25.63",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.63",
     "app":"imported",
     "stream":"jk_zl_2f_0006",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控02",
+    "name":"2F-西消防电梯",
+    "ip":"192.168.25.64",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.64",
     "app":"imported",
     "stream":"jk_zl_2f_0012",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控03",
+    "name":"2F-西楼梯口",
+    "ip":"192.168.25.65",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.65",
     "app":"imported",
     "stream":"jk_zl_2f_0029",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控04",
+    "name":"2F中间楼梯口",
+    "ip":"192.168.25.66",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.66",
     "app":"imported",
     "stream":"jk_zl_2f_0028",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控05",
+    "name":"2F-电梯厅向西",
+    "ip":"192.168.25.67",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.67",
     "app":"imported",
     "stream":"jk_zl_2f_0005",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控06",
+    "name":"2F-电梯厅向东",
+    "ip":"192.168.25.68",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.68",
     "app":"imported",
     "stream":"jk_zl_2f_0004",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控07",
+    "name":"2F客梯厅",
+    "ip":"192.168.25.69",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.69",
     "app":"imported",
     "stream":"jk_zl_2f_0015",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控08",
+    "name":"2F-东边消防电梯口",
+    "ip":"192.168.25.70",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.70",
     "app":"imported",
     "stream":"jk_zl_2f_0011",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控09",
+    "name":"2F-东楼梯口",
+    "ip":"192.168.25.71",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.71",
     "app":"imported",
     "stream":"jk_zl_2f_0027",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控10",
+    "name":"2F-东过道向西",
+    "ip":"192.168.25.72",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.72",
     "app":"imported",
     "stream":"jk_zl_2f_0003",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控11",
+    "name":"2F-裙楼西南角",
+    "ip":"192.168.25.73",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.73",
     "app":"imported",
     "stream":"jk_zl_2f_0001",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控12",
+    "name":"2F裙楼餐厅东南角",
+    "ip":"192.168.25.74",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.74",
     "app":"imported",
     "stream":"jk_zl_2f_0000",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控13",
+    "name":"通道66",
+    "ip":"192.168.25.75",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.75",
     "app":"imported",
     "stream":"jk_zl_2f_0009",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控14",
+    "name":"通道67",
+    "ip":"192.168.25.76",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.76",
     "app":"imported",
     "stream":"jk_zl_2f_0008",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控15",
+    "name":"通道68",
+    "ip":"192.168.25.77",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.77",
     "app":"imported",
     "stream":"jk_zl_2f_0010",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控16",
+    "name":"通道69",
+    "ip":"192.168.25.78",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.78",
     "app":"imported",
     "stream":"jk_zl_2f_0002",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控17",
+    "name":"通道70",
+    "ip":"192.168.25.79",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.79",
     "app":"imported",
     "stream":"jk_zl_2f_0007",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控18",
+    "name":"2F裙楼东侧步梯间",
+    "ip":"192.168.25.80",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.80",
     "app":"imported",
     "stream":"jk_zl_2f_0030",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控19",
+    "name":"通道72",
+    "ip":"192.168.25.81",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.81",
     "app":"imported",
     "stream":"jk_zl_2f_0014",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控20",
+    "name":"2F裙楼东侧楼梯入口",
+    "ip":"192.168.25.82",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.82",
     "app":"imported",
     "stream":"jk_zl_2f_0016",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控21",
+    "name":"2F裙楼包厢通道东向西",
+    "ip":"192.168.25.83",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.83",
     "app":"imported",
     "stream":"jk_zl_2f_0023",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控22",
+    "name":"2F裙楼东侧通道北向南",
+    "ip":"192.168.25.84",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.84",
     "app":"imported",
     "stream":"jk_zl_2f_0025",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控23",
+    "name":"通道76",
+    "ip":"192.168.25.85",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.85",
     "app":"imported",
     "stream":"jk_zl_2f_0019",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控24",
+    "name":"通道77",
+    "ip":"192.168.25.86",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.86",
     "app":"imported",
     "stream":"jk_zl_2f_0018",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控25",
+    "name":"通道78",
+    "ip":"192.168.25.87",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.87",
     "app":"imported",
     "stream":"jk_zl_2f_0017",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控26",
+    "name":"通道79",
+    "ip":"192.168.25.88",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.88",
     "app":"imported",
     "stream":"jk_zl_2f_0013",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控27",
+    "name":"通道80",
+    "ip":"192.168.25.89",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.89",
     "app":"imported",
     "stream":"jk_zl_2f_0020",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控28",
+    "name":"通道81",
+    "ip":"192.168.25.90",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.90",
     "app":"imported",
     "stream":"jk_zl_2f_0022",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控29",
+    "name":"2F裙楼取餐区",
+    "ip":"192.168.25.91",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.91",
     "app":"imported",
     "stream":"jk_zl_2f_0021",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控30",
+    "name":"2F裙楼西北角电梯厅",
+    "ip":"192.168.25.92",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.92",
     "app":"imported",
     "stream":"jk_zl_2f_0026",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控31",
+    "name":"2F裙楼西北角步梯间",
+    "ip":"192.168.25.93",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.93",
     "app":"imported",
     "stream":"jk_zl_2f_0031",
     "space_name":"2f"
   },
   {
-    "name":"2f-2F监控32",
+    "name":"2F裙楼餐厅西北角",
+    "ip":"192.168.25.94",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.94",
     "app":"imported",
     "stream":"jk_zl_2f_0024",
     "space_name":"2f"
   },
   {
-    "name":"3f-3F监控06",
+    "name":"3F-西培训室",
+    "ip":"192.168.25.100",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.100",
     "app":"imported",
     "stream":"jk_zl_3f_0001",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控07",
+    "name":"3F-东培训室",
+    "ip":"192.168.25.101",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.101",
     "app":"imported",
     "stream":"jk_zl_3f_0000",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控08",
+    "name":"3F-电梯厅向西",
+    "ip":"192.168.25.102",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.102",
     "app":"imported",
     "stream":"jk_zl_3f_0008",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控09",
+    "name":"3F-电梯厅向东",
+    "ip":"192.168.25.103",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.103",
     "app":"imported",
     "stream":"jk_zl_3f_0007",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控10",
+    "name":"3F客梯厅",
+    "ip":"192.168.25.104",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.104",
     "app":"imported",
     "stream":"jk_zl_3f_0013",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控11",
+    "name":"3F东消防电梯厅",
+    "ip":"192.168.25.105",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.105",
     "app":"imported",
     "stream":"jk_zl_3f_0012",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控12",
+    "name":"3F东步梯间",
+    "ip":"192.168.25.106",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.106",
     "app":"imported",
     "stream":"jk_zl_3f_0020",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控13",
+    "name":"3F东通道东向西",
+    "ip":"192.168.25.107",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.107",
     "app":"imported",
     "stream":"jk_zl_3f_0006",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控14",
+    "name":"3F-报告厅西南角",
+    "ip":"192.168.25.108",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.108",
     "app":"imported",
     "stream":"jk_zl_3f_0010",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控15",
+    "name":"3F-报告厅东南角",
+    "ip":"192.168.25.109",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.109",
     "app":"imported",
     "stream":"jk_zl_3f_0009",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控16",
+    "name":"3F-报告厅过道向北",
+    "ip":"192.168.25.110",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.110",
     "app":"imported",
     "stream":"jk_zl_3f_0003",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控17",
+    "name":"3F-报告厅过道向西",
+    "ip":"192.168.25.111",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.111",
     "app":"imported",
     "stream":"jk_zl_3f_0005",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控18",
+    "name":"3FQ-东楼梯口",
+    "ip":"192.168.25.112",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.112",
     "app":"imported",
     "stream":"jk_zl_3f_0023",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控19",
+    "name":"3FQ-报告厅机房",
+    "ip":"192.168.25.113",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.113",
     "app":"imported",
     "stream":"jk_zl_3f_0014",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控20",
+    "name":"3FQ-北过道向西",
+    "ip":"192.168.25.114",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.114",
     "app":"imported",
     "stream":"jk_zl_3f_0017",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控21",
+    "name":"3FQ-前厅休息区东向西",
+    "ip":"192.168.25.115",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.115",
     "app":"imported",
     "stream":"jk_zl_3f_0019",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控22",
+    "name":"3FQ-报告厅东北角",
+    "ip":"192.168.25.116",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.116",
     "app":"imported",
     "stream":"jk_zl_3f_0016",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控23",
+    "name":"3FQ-前厅休息区西向东",
+    "ip":"192.168.25.117",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.117",
     "app":"imported",
     "stream":"jk_zl_3f_0018",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控24",
+    "name":"3FQ-西北角楼梯",
+    "ip":"192.168.25.118",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.118",
     "app":"imported",
     "stream":"jk_zl_3f_0024",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控25",
+    "name":"3FQ-报告厅西北角",
+    "ip":"192.168.25.119",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.119",
     "app":"imported",
     "stream":"jk_zl_3f_0015",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控01",
+    "name":"3F-过道西向东",
+    "ip":"192.168.25.95",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.95",
     "app":"imported",
     "stream":"jk_zl_3f_0004",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控02",
+    "name":"3F-西消防电梯",
+    "ip":"192.168.25.96",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.96",
     "app":"imported",
     "stream":"jk_zl_3f_0011",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控03",
+    "name":"3F-西楼梯口",
+    "ip":"192.168.25.97",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.97",
     "app":"imported",
     "stream":"jk_zl_3f_0022",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控04",
+    "name":"3F-过道西向北",
+    "ip":"192.168.25.98",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.98",
     "app":"imported",
     "stream":"jk_zl_3f_0002",
     "space_name":"3f"
   },
   {
-    "name":"3f-3F监控05",
+    "name":"3F-中间楼梯",
+    "ip":"192.168.25.99",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.99",
     "app":"imported",
     "stream":"jk_zl_3f_0021",
     "space_name":"3f"
   },
   {
-    "name":"4f-4F监控01",
+    "name":"4F西通道西向东",
+    "ip":"192.168.25.120",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.120",
     "app":"imported",
     "stream":"jk_zl_4f_0000",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控02",
+    "name":"4F西消防电梯厅",
+    "ip":"192.168.25.121",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.121",
     "app":"imported",
     "stream":"jk_zl_4f_0005",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控03",
+    "name":"4F西步梯间",
+    "ip":"192.168.25.122",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.122",
     "app":"imported",
     "stream":"jk_zl_4f_0007",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控04",
+    "name":"4F中通道西向东",
+    "ip":"192.168.25.123",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.123",
     "app":"imported",
     "stream":"jk_zl_4f_0003",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控05",
+    "name":"4F中步梯间",
+    "ip":"192.168.25.124",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.124",
     "app":"imported",
     "stream":"jk_zl_4f_0009",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控06",
+    "name":"4F客梯厅",
+    "ip":"192.168.25.125",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.125",
     "app":"imported",
     "stream":"jk_zl_4f_0006",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控07",
+    "name":"4F中通道东向西",
+    "ip":"192.168.25.126",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.126",
     "app":"imported",
     "stream":"jk_zl_4f_0002",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控08",
+    "name":"4F东消防电梯厅",
+    "ip":"192.168.25.127",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.127",
     "app":"imported",
     "stream":"jk_zl_4f_0004",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控09",
+    "name":"4F东步梯间",
+    "ip":"192.168.25.128",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.128",
     "app":"imported",
     "stream":"jk_zl_4f_0008",
     "space_name":"4f"
   },
   {
-    "name":"4f-4F监控10",
+    "name":"4F东通道东向西",
+    "ip":"192.168.25.129",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.129",
     "app":"imported",
     "stream":"jk_zl_4f_0001",
     "space_name":"4f"
   },
   {
-    "name":"5f-5F监控01",
+    "name":"5F西通道西向东",
+    "ip":"192.168.25.130",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.130",
     "app":"imported",
     "stream":"jk_zl_5f_0000",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控02",
+    "name":"5F西消防电梯厅",
+    "ip":"192.168.25.131",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.131",
     "app":"imported",
     "stream":"jk_zl_5f_0005",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控03",
+    "name":"5F西步梯间",
+    "ip":"192.168.25.132",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.132",
     "app":"imported",
     "stream":"jk_zl_5f_0008",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控04",
+    "name":"5F保密机房",
+    "ip":"192.168.25.133",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.133",
     "app":"imported",
     "stream":"jk_zl_5f_0011",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控05",
+    "name":"5F中通道西向东",
+    "ip":"192.168.25.134",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.134",
     "app":"imported",
     "stream":"jk_zl_5f_0002",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控06",
+    "name":"5F中步梯间",
+    "ip":"192.168.25.135",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.135",
     "app":"imported",
     "stream":"jk_zl_5f_0007",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控07",
+    "name":"5F客梯厅",
+    "ip":"192.168.25.136",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.136",
     "app":"imported",
     "stream":"jk_zl_5f_0006",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控08",
+    "name":"5F中通道东向西",
+    "ip":"192.168.25.137",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.137",
     "app":"imported",
     "stream":"jk_zl_5f_0001",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控09",
+    "name":"5F东消防电梯厅",
+    "ip":"192.168.25.138",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.138",
     "app":"imported",
     "stream":"jk_zl_5f_0004",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控10",
+    "name":"5F东步梯间",
+    "ip":"192.168.25.139",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.139",
     "app":"imported",
     "stream":"jk_zl_5f_0009",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控11",
+    "name":"5F东通道东向西",
+    "ip":"192.168.25.140",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.140",
     "app":"imported",
     "stream":"jk_zl_5f_0003",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控12",
+    "name":"5F裙楼北步梯间",
+    "ip":"192.168.25.141",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.141",
     "app":"imported",
     "stream":"jk_zl_5f_0010",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控13",
+    "name":"5FQ-鹰眼",
+    "ip":"192.168.25.142",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.142",
     "app":"imported",
     "stream":"jk_zl_5f_0012",
     "space_name":"5f"
   },
   {
-    "name":"5f-5F监控14",
+    "name":"群楼鹰眼监控",
+    "ip":"192.168.25.142",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.142",
+    "app":"imported",
+    "stream":"jk_zl_5f_0012",
+    "space_name":"5f"
+  },
+  {
+    "name":"5FQ-屋面东球机",
+    "ip":"192.168.25.143",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.143",
     "app":"imported",
     "stream":"jk_zl_5f_0013",
     "space_name":"5f"
   },
   {
-    "name":"6f-6F监控01",
+    "name":"IPPT",
+    "ip":"192.168.25.143",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.143",
+    "app":"imported",
+    "stream":"jk_zl_5f_0013",
+    "space_name":"5f"
+  },
+  {
+    "name":"6F西通道西向东",
+    "ip":"192.168.25.144",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.144",
     "app":"imported",
     "stream":"jk_zl_6f_0002",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控02",
+    "name":"6F西消防电梯间",
+    "ip":"192.168.25.145",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.145",
     "app":"imported",
     "stream":"jk_zl_6f_0004",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控03",
+    "name":"6F西步梯间",
+    "ip":"192.168.25.146",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.146",
     "app":"imported",
     "stream":"jk_zl_6f_0010",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控04",
+    "name":"6F中通道西向东",
+    "ip":"192.168.25.147",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.147",
     "app":"imported",
     "stream":"jk_zl_6f_0001",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控05",
+    "name":"6F中步梯间",
+    "ip":"192.168.25.148",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.148",
     "app":"imported",
     "stream":"jk_zl_6f_0009",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控06",
+    "name":"6F客梯厅",
+    "ip":"192.168.25.149",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.149",
     "app":"imported",
     "stream":"jk_zl_6f_0006",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控07",
+    "name":"6F中通道东向西",
+    "ip":"192.168.25.150",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.150",
     "app":"imported",
     "stream":"jk_zl_6f_0003",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控08",
+    "name":"6F东消防电梯厅",
+    "ip":"192.168.25.151",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.151",
     "app":"imported",
     "stream":"jk_zl_6f_0005",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控09",
+    "name":"6F东步梯间",
+    "ip":"192.168.25.152",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.152",
     "app":"imported",
     "stream":"jk_zl_6f_0008",
     "space_name":"6f"
   },
   {
-    "name":"6f-6F监控10",
+    "name":"6F东通道东向西",
+    "ip":"192.168.25.153",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.153",
     "app":"imported",
     "stream":"jk_zl_6f_0000",
     "space_name":"6f"
   },
   {
-    "name":"7f-7F监控01",
+    "name":"7F西通道西向东",
+    "ip":"192.168.25.154",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.154",
     "app":"imported",
     "stream":"jk_zl_7f_0002",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控02",
+    "name":"7F西消防电梯厅",
+    "ip":"192.168.25.155",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.155",
     "app":"imported",
     "stream":"jk_zl_7f_0004",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控03",
+    "name":"7F西步梯间",
+    "ip":"192.168.25.156",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.156",
     "app":"imported",
     "stream":"jk_zl_7f_0009",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控04",
+    "name":"7F中通道西向东",
+    "ip":"192.168.25.157",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.157",
     "app":"imported",
     "stream":"jk_zl_7f_0003",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控05",
+    "name":"7F中步梯间",
+    "ip":"192.168.25.158",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.158",
     "app":"imported",
     "stream":"jk_zl_7f_0008",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控06",
+    "name":"7F客梯厅",
+    "ip":"192.168.25.159",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.159",
     "app":"imported",
     "stream":"jk_zl_7f_0006",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控07",
+    "name":"7F中通道东向西",
+    "ip":"192.168.25.160",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.160",
     "app":"imported",
     "stream":"jk_zl_7f_0001",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控08",
+    "name":"7F东消防电梯厅",
+    "ip":"192.168.25.161",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.161",
     "app":"imported",
     "stream":"jk_zl_7f_0005",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控09",
+    "name":"7F东步梯间",
+    "ip":"192.168.25.162",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.162",
     "app":"imported",
     "stream":"jk_zl_7f_0007",
     "space_name":"7f"
   },
   {
-    "name":"7f-7F监控10",
+    "name":"7F东通道东向西",
+    "ip":"192.168.25.163",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.163",
     "app":"imported",
     "stream":"jk_zl_7f_0000",
     "space_name":"7f"
   },
   {
-    "name":"8f-8F监控01",
+    "name":"8F西通道西向东",
+    "ip":"192.168.25.164",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.164",
     "app":"imported",
     "stream":"jk_zl_8f_0003",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控02",
+    "name":"8F西消防电梯厅",
+    "ip":"192.168.25.165",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.165",
     "app":"imported",
     "stream":"jk_zl_8f_0004",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控03",
+    "name":"8F西步梯间",
+    "ip":"192.168.25.166",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.166",
     "app":"imported",
     "stream":"jk_zl_8f_0009",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控04",
+    "name":"8F中通道西向东",
+    "ip":"192.168.25.167",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.167",
     "app":"imported",
     "stream":"jk_zl_8f_0002",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控05",
+    "name":"8F中步梯间",
+    "ip":"192.168.25.168",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.168",
     "app":"imported",
     "stream":"jk_zl_8f_0008",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控06",
+    "name":"8F客梯厅",
+    "ip":"192.168.25.169",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.169",
     "app":"imported",
     "stream":"jk_zl_8f_0006",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控07",
+    "name":"8F中通道东向西",
+    "ip":"192.168.25.170",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.170",
     "app":"imported",
     "stream":"jk_zl_8f_0001",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控08",
+    "name":"8F东消防电梯厅",
+    "ip":"192.168.25.171",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.171",
     "app":"imported",
     "stream":"jk_zl_8f_0005",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控09",
+    "name":"8F东步梯间",
+    "ip":"192.168.25.172",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.172",
     "app":"imported",
     "stream":"jk_zl_8f_0007",
     "space_name":"8f"
   },
   {
-    "name":"8f-8F监控10",
+    "name":"8F东通道东向西",
+    "ip":"192.168.25.173",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.173",
     "app":"imported",
     "stream":"jk_zl_8f_0000",
     "space_name":"8f"
   },
   {
-    "name":"9f-9F监控01",
+    "name":"9F西北侧通道西向东",
+    "ip":"192.168.25.174",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.174",
     "app":"imported",
     "stream":"jk_zl_9f_0007",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控02",
+    "name":"9F西南侧通道西向东",
+    "ip":"192.168.25.175",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.175",
     "app":"imported",
     "stream":"jk_zl_9f_0001",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控03",
+    "name":"9F西消防电梯厅",
+    "ip":"192.168.25.176",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.176",
     "app":"imported",
     "stream":"jk_zl_9f_0008",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控04",
+    "name":"9F西步梯间",
+    "ip":"192.168.25.177",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.177",
     "app":"imported",
     "stream":"jk_zl_9f_0013",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控05",
+    "name":"9F西开放区西向东",
+    "ip":"192.168.25.178",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.178",
     "app":"imported",
     "stream":"jk_zl_9f_0002",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控06",
+    "name":"9F中通道西向东",
+    "ip":"192.168.25.179",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.179",
     "app":"imported",
     "stream":"jk_zl_9f_0006",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控07",
+    "name":"9F中步梯间",
+    "ip":"192.168.25.180",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.180",
     "app":"imported",
     "stream":"jk_zl_9f_0012",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控08",
+    "name":"9F客梯厅",
+    "ip":"192.168.25.181",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.181",
     "app":"imported",
     "stream":"jk_zl_9f_0010",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控09",
+    "name":"9F中通道东向西",
+    "ip":"192.168.25.182",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.182",
     "app":"imported",
     "stream":"jk_zl_9f_0005",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控10",
+    "name":"9F东消防电梯厅",
+    "ip":"192.168.25.183",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.183",
     "app":"imported",
     "stream":"jk_zl_9f_0009",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控11",
+    "name":"9F东步梯间",
+    "ip":"192.168.25.184",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.184",
     "app":"imported",
     "stream":"jk_zl_9f_0011",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控12",
+    "name":"9F东南侧通道东向西",
+    "ip":"192.168.25.185",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.185",
     "app":"imported",
     "stream":"jk_zl_9f_0000",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控13",
+    "name":"9F东开放区东向西",
+    "ip":"192.168.25.186",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.186",
     "app":"imported",
     "stream":"jk_zl_9f_0003",
     "space_name":"9f"
   },
   {
-    "name":"9f-9F监控14",
+    "name":"9F东北侧通道东向西",
+    "ip":"192.168.25.187",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.187",
     "app":"imported",
     "stream":"jk_zl_9f_0004",
     "space_name":"9f"
   },
   {
-    "name":"b1f-B1F监控01",
+    "name":"-1F西通道西向东",
+    "ip":"192.168.25.201",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.201",
     "app":"imported",
     "stream":"jk_zl_b1f_0015",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控02",
+    "name":"通道193",
+    "ip":"192.168.25.202",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.202",
     "app":"imported",
     "stream":"jk_zl_b1f_0001",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控03",
+    "name":"-1F西步梯间",
+    "ip":"192.168.25.203",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.203",
     "app":"imported",
     "stream":"jk_zl_b1f_0020",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控04",
+    "name":"-1F自来水水箱房",
+    "ip":"192.168.25.204",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.204",
     "app":"imported",
     "stream":"jk_zl_b1f_0021",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控05",
+    "name":"-1F消防泵房",
+    "ip":"192.168.25.205",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.205",
     "app":"imported",
     "stream":"jk_zl_b1f_0009",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控06",
+    "name":"-1F配电房西",
+    "ip":"192.168.25.206",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.206",
     "app":"imported",
     "stream":"jk_zl_b1f_0008",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控07",
+    "name":"-1F中通道东向西",
+    "ip":"192.168.25.207",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.207",
     "app":"imported",
     "stream":"jk_zl_b1f_0016",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控08",
+    "name":"-1F中步梯间",
+    "ip":"192.168.25.208",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.208",
     "app":"imported",
     "stream":"jk_zl_b1f_0019",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控09",
+    "name":"-1F中通道西向东",
+    "ip":"192.168.25.209",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.209",
     "app":"imported",
     "stream":"jk_zl_b1f_0017",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控10",
+    "name":"-1F客梯厅",
+    "ip":"192.168.25.210",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.210",
     "app":"imported",
     "stream":"jk_zl_b1f_0002",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控11",
+    "name":"IPC",
+    "ip":"192.168.25.211",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.211",
     "app":"imported",
     "stream":"jk_zl_b1f_0014",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控12",
+    "name":"通道203",
+    "ip":"192.168.25.212",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.212",
     "app":"imported",
     "stream":"jk_zl_b1f_0000",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控13",
+    "name":"-1F东步梯间",
+    "ip":"192.168.25.213",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.213",
     "app":"imported",
     "stream":"jk_zl_b1f_0018",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控14",
+    "name":"-1F东通道东向西",
+    "ip":"192.168.25.214",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.214",
     "app":"imported",
     "stream":"jk_zl_b1f_0013",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控15",
+    "name":"-1F东南向北",
+    "ip":"192.168.25.215",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.215",
     "app":"imported",
     "stream":"jk_zl_b1f_0010",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控16",
+    "name":"通道207",
+    "ip":"192.168.25.216",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.216",
     "app":"imported",
     "stream":"jk_zl_b1f_0006",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控17",
+    "name":"IPC",
+    "ip":"192.168.25.217",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.217",
     "app":"imported",
     "stream":"jk_zl_b1f_0028",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控18",
+    "name":"IPC",
+    "ip":"192.168.25.218",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.218",
     "app":"imported",
     "stream":"jk_zl_b1f_0031",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控19",
+    "name":"IPC",
+    "ip":"192.168.25.219",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.219",
     "app":"imported",
     "stream":"jk_zl_b1f_0032",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控20",
+    "name":"通道211",
+    "ip":"192.168.25.220",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.220",
     "app":"imported",
     "stream":"jk_zl_b1f_0007",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控21",
+    "name":"IPC",
+    "ip":"192.168.25.221",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.221",
     "app":"imported",
     "stream":"jk_zl_b1f_0029",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控22",
+    "name":"IPC",
+    "ip":"192.168.25.222",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.222",
     "app":"imported",
     "stream":"jk_zl_b1f_0033",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控23",
+    "name":"IPC",
+    "ip":"192.168.25.223",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.223",
     "app":"imported",
     "stream":"jk_zl_b1f_0030",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控24",
+    "name":"IPC",
+    "ip":"192.168.25.224",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.224",
     "app":"imported",
     "stream":"jk_zl_b1f_0027",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控25",
+    "name":"IPC",
+    "ip":"192.168.25.225",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.225",
     "app":"imported",
     "stream":"jk_zl_b1f_0025",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控26",
+    "name":"通道217",
+    "ip":"192.168.25.226",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.226",
     "app":"imported",
     "stream":"jk_zl_b1f_0003",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控27",
+    "name":"通道218",
+    "ip":"192.168.25.227",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.227",
     "app":"imported",
     "stream":"jk_zl_b1f_0004",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控28",
+    "name":"通道219",
+    "ip":"192.168.25.228",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.228",
     "app":"imported",
     "stream":"jk_zl_b1f_0005",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控29",
+    "name":"IPC",
+    "ip":"192.168.25.229",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.229",
     "app":"imported",
     "stream":"jk_zl_b1f_0026",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控30",
+    "name":"-1F裙楼战时应急区",
+    "ip":"192.168.25.230",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.230",
     "app":"imported",
     "stream":"jk_zl_b1f_0024",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控31",
+    "name":"-1F裙楼东侧通道北向南",
+    "ip":"192.168.25.231",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.231",
     "app":"imported",
     "stream":"jk_zl_b1f_0023",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控32",
+    "name":"-1F裙楼中间通道东向西",
+    "ip":"192.168.25.232",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.232",
     "app":"imported",
     "stream":"jk_zl_b1f_0022",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控33",
+    "name":"-1F裙楼东侧楼梯入口",
+    "ip":"192.168.25.233",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.233",
     "app":"imported",
     "stream":"jk_zl_b1f_0011",
     "space_name":"b1f"
   },
   {
-    "name":"b1f-B1F监控34",
+    "name":"-1F裙楼南通道西向东",
+    "ip":"192.168.25.234",
     "source_url":"rtsp:\/\/admin:admin123@192.168.25.234",
     "app":"imported",
     "stream":"jk_zl_b1f_0012",
     "space_name":"b1f"
+  },
+  {
+    "name":"室外-草坪西南角",
+    "ip":"192.168.25.235",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.235",
+    "app":"imported",
+    "stream":"jk_park_0001",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼西北角向南",
+    "ip":"192.168.25.236",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.236",
+    "app":"imported",
+    "stream":"jk_park_0002",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼西北角向北",
+    "ip":"192.168.25.237",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.237",
+    "app":"imported",
+    "stream":"jk_park_0003",
+    "space_name":"park"
+  },
+  {
+    "name":"主楼西侧球机",
+    "ip":"192.168.25.238",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.238",
+    "app":"imported",
+    "stream":"jk_park_0004",
+    "space_name":"park"
+  },
+  {
+    "name":"IPPTZCamera",
+    "ip":"192.168.25.238",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.238",
+    "app":"imported",
+    "stream":"jk_park_0004",
+    "space_name":"park"
+  },
+  {
+    "name":"通道230",
+    "ip":"192.168.25.239",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.239",
+    "app":"imported",
+    "stream":"jk_park_0005",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼西侧周界1",
+    "ip":"192.168.25.240",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.240",
+    "app":"imported",
+    "stream":"jk_park_0006",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼西南角向北",
+    "ip":"192.168.25.241",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.241",
+    "app":"imported",
+    "stream":"jk_park_0007",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼西南角向东",
+    "ip":"192.168.25.242",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.242",
+    "app":"imported",
+    "stream":"jk_park_0008",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼西南角向西",
+    "ip":"192.168.25.243",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.243",
+    "app":"imported",
+    "stream":"jk_park_0009",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼西南角向西2",
+    "ip":"192.168.25.244",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.244",
+    "app":"imported",
+    "stream":"jk_park_0010",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼西南角向西3",
+    "ip":"192.168.25.245",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.245",
+    "app":"imported",
+    "stream":"jk_park_0011",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼西南角向东",
+    "ip":"192.168.25.246",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.246",
+    "app":"imported",
+    "stream":"jk_park_0012",
+    "space_name":"park"
+  },
+  {
+    "name":"通道238",
+    "ip":"192.168.25.247",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.247",
+    "app":"imported",
+    "stream":"jk_park_0013",
+    "space_name":"park"
+  },
+  {
+    "name":"通道239",
+    "ip":"192.168.25.248",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.248",
+    "app":"imported",
+    "stream":"jk_park_0014",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼南向大门口",
+    "ip":"192.168.25.249",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.249",
+    "app":"imported",
+    "stream":"jk_park_0015",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼南侧向东",
+    "ip":"192.168.25.250",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.250",
+    "app":"imported",
+    "stream":"jk_park_0016",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼南侧向东2",
+    "ip":"192.168.25.251",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.251",
+    "app":"imported",
+    "stream":"jk_park_0017",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼东南侧向北",
+    "ip":"192.168.25.252",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.252",
+    "app":"imported",
+    "stream":"jk_park_0018",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼东南角向北",
+    "ip":"192.168.25.253",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.253",
+    "app":"imported",
+    "stream":"jk_park_0019",
+    "space_name":"park"
+  },
+  {
+    "name":"IPC",
+    "ip":"192.168.25.254",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.25.254",
+    "app":"imported",
+    "stream":"jk_park_0020",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-地下车库进出口",
+    "ip":"192.168.26.2",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.2",
+    "app":"imported",
+    "stream":"jk_park_0022",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼东1",
+    "ip":"192.168.26.3",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.3",
+    "app":"imported",
+    "stream":"jk_park_0021",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼东北角向南",
+    "ip":"192.168.26.4",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.4",
+    "app":"imported",
+    "stream":"jk_park_0024",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼东北角向北",
+    "ip":"192.168.26.5",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.5",
+    "app":"imported",
+    "stream":"jk_park_0025",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-主楼东北角向西",
+    "ip":"192.168.26.6",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.6",
+    "app":"imported",
+    "stream":"jk_park_0026",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-裙楼西北角向东",
+    "ip":"192.168.26.7",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.7",
+    "app":"imported",
+    "stream":"jk_park_0027",
+    "space_name":"park"
+  },
+  {
+    "name":"室外-裙楼西北角球机",
+    "ip":"192.168.26.8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.8",
+    "app":"imported",
+    "stream":"jk_park_0028",
+    "space_name":"park"
+  },
+  {
+    "name":"IPPTZCamera",
+    "ip":"192.168.26.8",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.8",
+    "app":"imported",
+    "stream":"jk_park_0028",
+    "space_name":"park"
+  },
+  {
+    "name":"室外周界-主楼东2",
+    "ip":"192.168.26.9",
+    "source_url":"rtsp:\/\/admin:admin123@192.168.26.9",
+    "app":"imported",
+    "stream":"jk_park_0023",
+    "space_name":"park"
   }
 ]
