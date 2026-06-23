@@ -1,5 +1,8 @@
 import pandas as pd
 import math
+'''
+通过监控列表和设备导出的监控ip关联channelCode和监控之间的关系
+'''
 
 df = pd.read_json("/Users/louisliu/dev/AI_projects/pandas-wanneng/ahccs_new_park/camera/jk.json")
 df_all = pd.read_csv("/Users/louisliu/dev/通服园区/大华ICC平台接入设备表格/存储相机设备.csv", encoding='gbk', usecols=['通道名称', '地址', '通道号'])
