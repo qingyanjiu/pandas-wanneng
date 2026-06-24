@@ -19,21 +19,24 @@ def gen_mj_code(row):
         return 'mj_zl_{}_{}'.format(row['位置'].lower(), num_str)
     return ''
     
-df = pd.read_excel("/Users/louisliu/dev/通服园区/设备台账/mj_all.xls")
-df_all = pd.read_excel("/Users/louisliu/dev/通服园区/点位标注/设备ip-4-30-已打code.xlsx", sheet_name=1)
+df = pd.read_excel("/Users/louisliu/dev/通服园区/设备台账/jk_all.xls")
+df_all = pd.read_excel("/Users/louisliu/dev/通服园区/点位标注/设备ip-4-30-已打code.xlsx", sheet_name=0)
 df_all = df_all.dropna(subset=['设备楼层内ID'])
 df_all['设备楼层内ID'] = df_all['设备楼层内ID'].astype(int)
 df_all['位置'] = df_all['位置'].ffill(axis=0)
-df_all['code'] = df_all.apply(lambda x: gen_mj_code(x), axis=1)
+df_all['code'] = df_all.apply(lambda x: gen_jk_code(x), axis=1)
 
 print(df.head())
 
-df_final = df.merge(df_all, how='left', left_on='设备IP', right_on='IP地址')
+df_final = df.merge(df_all, how='left', left_on='IP地址', right_on='IP地址')
 
 df['设备编号'] = df_final['code']
 
+df.sort_values(by='设备编号', na_position='first', inplace=True)
+df = df.drop_duplicates(subset=['IP地址'])
 
 
-df.to_excel('mj_all.xlsx', index=False)
+
+df.to_excel('jk_all.xlsx', index=False)
 
 
